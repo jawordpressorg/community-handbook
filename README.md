@@ -1,2 +1,24 @@
-# meetup_organizer_handbook
-WordPress Meetup Organizer Handbook 翻訳
+# WordPress Community Handbooks 日本語訳
+
+こちらは WordPress コミュニティハンドブックの翻訳用リポジトリです。
+
+## 翻訳方法
+
+__原文例：__
+
+```
+# Welcome
+```
+
+1.  原文をコメントアウトします。
+    ```
+    <!-- # Welcome -->
+    ```
+2.  その下に翻訳を追加します。
+    ```
+    <!-- # Welcome -->
+
+    # ようこそ
+    ```
+
+翻訳の最小単位は段落単位 (空行から空行まで) でお願いします。
