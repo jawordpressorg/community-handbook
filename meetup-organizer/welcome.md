@@ -1,8 +1,6 @@
-Welcome
-=======
+# Welcome
 
-Topics
-------
+## Topics
 
 *   [Starting a New Meetup.com Group](#starting-a-new-meetup-com-group)
 *   [Adding an Existing Meetup.com Group](#adding-an-existing-meetup-com-group)
@@ -33,15 +31,13 @@ For groups that are hosted on meetup.com, there is an official WordPress account
 
 We also ask everyone that organizes WordPress Chapter Meetup to uphold the principles of the WordPress open source project, including the GPL. This helps protect the user/attendee, who might not realize that by using a non-GPL plugin or theme, they are giving away the rights that WordPress provides them.
 
-Starting a New Meetup.com Group [#Starting a New Meetup.com Group](#starting-a-new-meetup-com-group)
-----------------------------------------------------------------------------------------------------
+## Starting a New Meetup.com Group [#Starting a New Meetup.com Group](#starting-a-new-meetup-com-group)
 
 If there is not a meetup group in your city but you would like to start one, [fill out our meetup interest form](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/interest-form/) and we can set up a new group for your city and make you the first organizer. If you have a group already but are not using meetup.com and you’d like to, use the same form, but make sure to include the URL for your existing group’s online presence (Facebook, independent site, etc).
 
 [Top ↑](#top)
 
-Adding an Existing Meetup.com Group [#Adding an Existing Meetup.com Group](#adding-an-existing-meetup-com-group)
-----------------------------------------------------------------------------------------------------------------
+## Adding an Existing Meetup.com Group [#Adding an Existing Meetup.com Group](#adding-an-existing-meetup-com-group)
 
 Meetups were happening long before we had a structure like the WordPress Community Support PBC in place to cover costs. Now that we are able to facilitate things, it means organizers don’t have to pay hundreds of dollars a year in hosting fees, and that groups can be more open for community participation since the “owner” doesn’t have to worry about their reputation being affected by the actions of others in the group.
 
@@ -65,8 +61,7 @@ To request that your existing group join the central account, use [the same meet
 
 [Top ↑](#top)
 
-Quizzes [#Quizzes](#quizzes)
-----------------------------
+## [Quizzes](#quizzes)
 
 In the end of some of the handbook pages, you will be presented with a quiz to test your knowledge of the material that we have covered. The goal is to help knowledge retention and to make sure you have noticed all of the important details. You need to get all of the answers correct in order to pass it, but do not worry – you can retake the quizzes as often as you like in order to the lofty goal of a 100% pass rate.
 
@@ -78,17 +73,17 @@ To be able to use quizzes you need first to register at [https://community-self
 
 ### How to register & subscribe to quizzes [#How to register & subscribe to quizzes](#how-to-register-subscribe%c2%a0to-quizzes)
 
-1\. Go to [My Courses](https://community-self-training.mystagingwebsite.com/my-courses/) link. Scroll the page a bit and fill in the registration form.
+1. Go to [My Courses](https://community-self-training.mystagingwebsite.com/my-courses/) link. Scroll the page a bit and fill in the registration form.
 
 [![Selection_046](https://make.wordpress.org/community/files/2016/08/Selection_046.png)](https://make.wordpress.org/community/files/2016/08/Selection_046.png)
 
-2\. Press Register.
+2. Press Register.
 
-3\. Select Meetup organizer training from the menu the right.
+3. Select Meetup organizer training from the menu the right.
 
 [![Selection_024](https://make.wordpress.org/community/files/2015/09/Selection_024.png)](https://make.wordpress.org/community/files/2015/09/Selection_024.png)
 
-4\. Subscribe to a course.
+4. Subscribe to a course.
 
 [![Selection_026](https://make.wordpress.org/community/files/2015/09/Selection_026.png)](https://make.wordpress.org/community/files/2015/09/Selection_026.png)
 
