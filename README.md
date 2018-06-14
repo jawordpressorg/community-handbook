@@ -10,6 +10,8 @@ __原文例：__
 # Welcome
 ```
 
+__手順：__
+
 1.  原文をコメントアウトします。
     ```
     <!-- # Welcome -->
@@ -19,5 +21,14 @@ __原文例：__
     <!-- # Welcome -->
     # ようこそ
     ```
+3.  `master` ブランチにプルリクエストします。
 
-翻訳の最小単位は段落単位 (空行から空行まで) でお願いします。
+翻訳の最小単位 (コメントアウトの単位) は段落 (空行から空行まで) でお願いします。
+
+## 原文更新
+
+1.  [`en` ブランチ](https://github.com/jawordpressorg/community-handbook/tree/en)をチェックアウトします。
+2.  原文を更新します。
+3.  [`en` ブランチ](https://github.com/jawordpressorg/community-handbook/tree/en)にプルリクエストします。
+
+`en` ブランチには翻訳を含めないでください。
