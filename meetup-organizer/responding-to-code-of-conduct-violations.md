@@ -3,7 +3,7 @@
 ========================================
 
 <!-- We wish it would never happen, but sometimes as organizers we have to respond to bad behavior at our events. If you see or hear about any behavior that is making the event less welcoming or more intolerant, then please take the following steps: -->
-決して起こってほしくないことですが、時には主催者としてイベントにおける良くない言動に対応しなくてはなりません。もしイベントにおいて歓迎されなかったり我慢できないような言動を見かけたり聞いたりしたら、以下の手順を踏んでください :
+決して起こってほしくないことですが、時には主催者としてイベントにおける不快な行為に対応しなくてはなりません。もしイベントにおいて歓迎されなかったり我慢できないような行為を見かけたり聞いたりしたら、以下の手順を踏んでください :
 
 <!---
 *   Kindly but firmly explain that the behavior is unacceptable at WordPress events; if necessary, ask the person to leave. Do not shame them publicly, but also do not ignore the issue. 
@@ -13,7 +13,7 @@
 *   Follow up with the person after the event with a little more explanation, and to thank them for being so willing to adjust (assuming of course that they did).
 *   Make sure you follow up with the other organizers.
 -->
-*  優しく、しかしきっぱりと、その言動が WordPress のイベントにとって受け入れられないものであることを説明しましょう。もし必要であれば、その人に出ていってもらうように頼みましょう。公然と非難せずに、しかし問題を無視はしないでください。
+*  優しく、しかしきっぱりと、その行為が WordPress のイベントにとって受け入れられないものであることを説明しましょう。もし必要であれば、その人に出ていってもらうように頼みましょう。公然と非難せずに、しかし問題を無視はしないでください。
     * 争いを解決するための３つパートに分かれた方法が役に立つでしょう : 「あなたが … したとき、私は … と感じました。次は … してください」
     * 他のオプションとしては状況を思い出させるアプローチがあります 「これは family-friendly なイベントということを忘れないでください。私たちは … しないのです。」
     * 全てがうまくいかなかったら、冷静にしかしありのままに言いましょう 「それは我々の行動規範に反しているようです」
