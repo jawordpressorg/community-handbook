@@ -23,12 +23,12 @@ __手順：__
     ```
 3.  `master` ブランチにプルリクエストします。
 
-翻訳の最小単位 (コメントアウトの単位) は段落 (空行から空行まで) でお願いします。
+_翻訳の最小単位 (コメントアウトの単位) は段落 (空行から空行まで) でお願いします。_
 
-## 原文更新
+## 原文更新方法
 
 1.  [`en` ブランチ](https://github.com/jawordpressorg/community-handbook/tree/en)をチェックアウトします。
 2.  原文を更新します。
 3.  [`en` ブランチ](https://github.com/jawordpressorg/community-handbook/tree/en)にプルリクエストします。
 
-`en` ブランチには翻訳を含めないでください。
+_`en` ブランチには翻訳を含めないでください。_
