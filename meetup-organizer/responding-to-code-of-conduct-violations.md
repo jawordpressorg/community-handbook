@@ -24,7 +24,7 @@
 出席者とコミニティーのメンバーは、地域コミュニティの主催者とともに、主催者以外の人たちへも問題を報告するために [Incident Reporting form](https://central.wordcamp.org/incident-report/) を使うことが出来ます。
 
 <!-- Creating an inclusive environment is an ongoing process of gentle course correction. No one ever got everything right the first time they tried, but we all get better with each nudge in the right direction. -->
-包括的な環境を作り出すことは、穏やかなコースを修正する進行中のプロセスです。最初に試してみたときに、すべてのものが正しいものになるわけではありません。
+開放的な環境を作り出すことは、穏やかにコースを補正していく一連の作業です。最初に試してみたときに、すべてのものが正しいものになるわけではありません。
 
 <!-- **Note:** Very importantly, if the situation turns physically aggressive, violent, or otherwise dangerous, do not try to handle it yourself. Call the police if required. -->
 **注釈:** 非常に重要なのは、状況が物理的に積極的、暴力的、あるいは危険なものに変わった場合は、それを自分で処理しないことです。必要に応じて警察に電話してください。
