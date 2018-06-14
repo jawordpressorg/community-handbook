@@ -30,4 +30,4 @@
 **注釈:** 非常に重要なのは、状況が物理的に積極的、暴力的、あるいは危険なものに変わった場合は、それを自分で処理しないことです。必要に応じて警察に電話してください。
 
 <!-- Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/responding-to-code-of-conduct-violations/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes) section of the welcome page if you have any questions about quizzes and how to navigate them. -->
-ヒント: この記事について[ひとつのクイズ](https://community-self-training.mystagingwebsite.com/quiz/responding-to-code-of-conduct-violations/)があります。クイズについてどのように回答すればよいかなどなにか質問があれば[クイズ](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes)を読んでください。
+ヒント: この記事について[ひとつのクイズ](https://community-self-training.mystagingwebsite.com/quiz/responding-to-code-of-conduct-violations/)があります。クイズについてどのように回答すればよいかなどなにか質問があれば[クイズについて](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes)を読んでください。
