@@ -1,5 +1,7 @@
-Meetup 申請書 <!-- Meetup Interest Form -->
-====================
+<!-- # Meetup Interest Form -->
+# Meetup 申請書 
+
+=======
 
 <!-- We have a central account at meetup.com for WordPress meetups. If you’d like to start a meetup group in your city, we’ll cover the meetup.com dues if you promise to stick to a few simple guidelines with the meetup group:-->
 本局は、WordPress Meetup のために meetup.com に セントラルアカウントを持っています。 あなたが Meetup グループをあなたの町で始めたい場合、いくつかのシンプルなガイドラインを守っていただけるなら、本局は meetup.com の会費を補助することができます。
