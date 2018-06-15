@@ -9,9 +9,9 @@ Meetup 申請書 <!-- Meetup Interest Form -->
 4. Meetup グループメンバーは、コミュニティ内の信頼・信用できるメンバーがイベントを運営するようにしていきます。<!-- 4.  Meetup groups allow events to be organized by any reliable/trusted member of the community.-->
 5. Meetup は、友好的な場所で、誰もが受け入れられる環境を、すべての参加者が育てていきます。差別、暴力への扇動、憎悪の促進、人に礼儀をわきまえない振る舞いは禁止されています。<!-- 5.  Meetups are welcoming places where everyone works to foster an accepting environment which is free of discrimination, incitement to violence, promotion of hate, and general jerk-like behavior.-->
 
-We also ask everyone that organizes WordPress Chapter Meetup to uphold the principles of the WordPress open source project, including the GPL. This helps protect the user/attendee, who might not realize that by using a non-GPL plugin or theme, they are giving away the rights that WordPress provides them.
+WordPress Meetup の支局を運営するすべての人は、 GPL を含めた WordPress オープンソースプロジェクトの原則を支持しなければなりません。これは、GPL でないプラグインやテーマを使うことが、 WordPress からもたらされた権利を放棄することになっていると気づいていないユーザーや参加者を守ることに役立ちます。<!-- We also ask everyone that organizes WordPress Chapter Meetup to uphold the principles of the WordPress open source project, including the GPL. This helps protect the user/attendee, who might not realize that by using a non-GPL plugin or theme, they are giving away the rights that WordPress provides them.-->
 
-These guidelines were created by volunteers active in current meetup groups. They may change over time based on feedback from the WordPress meetup community.
+このガイドラインは、 今現在も活動する Meetup 支局を運営するボラティア達によって作られました。<!-- These guidelines were created by volunteers active in current meetup groups. They may change over time based on feedback from the WordPress meetup community.-->
 
 Sound good? To get started, go to [meetup.com](http://meetup.com) and create a username/account for yourself if you don’t already have one. Fill in the form below, and we’ll get back to you within a week to either confirm your new meetup group or ask some additional questions. Note: you can also use this form if you have an existing WordPress meetup group on meetup.com would like to transfer it to the central account so you don’t have to pay dues anymore.
 
