@@ -20,7 +20,11 @@ WordPress Meetup の支局を運営するすべての人は、 GPL を含めた 
 <!-- These guidelines were created by volunteers active in current meetup groups. They may change over time based on feedback from the WordPress meetup community.-->
 ガイドラインは、 今現在も活動する Meetup 支局を運営するボラティア達によって作られました。 WordPress Meetup コミュニティからのフィードバックを元に、いずれは変わるかもしれません。
 
-Sound good? To get started, go to [meetup.com](http://meetup.com) and create a username/account for yourself if you don’t already have one. Fill in the form below, and we’ll get back to you within a week to either confirm your new meetup group or ask some additional questions. Note: you can also use this form if you have an existing WordPress meetup group on meetup.com would like to transfer it to the central account so you don’t have to pay dues anymore.
+<!-- Sound good? To get started, go to [meetup.com](http://meetup.com) and create a username/account for yourself if you don’t already have one. Fill in the form below, and we’ll get back to you within a week to either confirm your new meetup group or ask some additional questions. Note: you can also use this form if you have an existing WordPress meetup group on meetup.com would like to transfer it to the central account so you don’t have to pay dues anymore.-->
+良いでしょうか？
+始めるには、[meetup.com](http://meetup.com) に行き、まだ持っていないなら、ユーザーネーム/アカウントを作ってください。
+下のフォームに記入してください。あなたの新しい Meetup 支局が承認されるか、さらなる質問をさせていただくか、どちらかのお返事を１週間程でいたします。
+ノート: すでに meetup.com 上に存在する Meetup 支局を、会費の補助を受けられるようにセントラルアカウントに移動したい場合も、このフォームを使ってください。
 
 <!-- Name(required) -->
 お名前 (必須)
@@ -38,7 +42,9 @@ Sound good? To get started, go to [meetup.com](http://meetup.com) and create a u
 もしすでに Meetup の支局がある場合には、URLを書いてください。
 
 <!-- How would you describe yourself?(required) WordPress professional Current WordPress user or developer New to WordPress I don't use WordPress -->
-あなたは自分をどう紹介しますか？ (必須) <!-- 答えは選択式 -->
+あなたは自分をどう紹介しますか？ (必須) 
+
+<!-- 答えは選択式 -->
 WordPress プロフェショナル
 WordPress ユーザー/開発者
 WordPress 初心者
