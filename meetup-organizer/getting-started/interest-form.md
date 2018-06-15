@@ -1,12 +1,11 @@
 <!-- # Meetup Interest Form -->
 # Meetup 申請書 
 
-=======
-
 <!-- We have a central account at meetup.com for WordPress meetups. If you’d like to start a meetup group in your city, we’ll cover the meetup.com dues if you promise to stick to a few simple guidelines with the meetup group:-->
 本局は、WordPress Meetup のために meetup.com に セントラルアカウントを持っています。 あなたが Meetup 支局をあなたの町で始めたい場合、いくつかのシンプルなガイドラインを守っていただけるなら、本局は meetup.com の会費を補助することができます。
 
 ガイドライン: 
+
 <!-- 1.  WordPress Meetups are for the benefit of the WordPress community as a whole, not specific businesses or individuals. All actions that I take as an organizer are with the best interest of the community in mind.-->
 1. WordPress Meetup は、特定の企業や個人の利益のためではなく、 WordPress コミュニティ全体の利益のためにあります。イベント主催者として取る行動のすべてはコミュニティの利益を念頭に置いて行います。
 <!--2.  Membership in the local meetup group is open to all who wish to join, regardless of ability, skill, financial status or any other criteria.-->
@@ -23,8 +22,7 @@ WordPress Meetup の支局を運営するすべての人は、 GPL を含めた 
 ガイドラインは、 今現在も活動する Meetup 支局を運営するボラティア達によって作られました。 WordPress Meetup コミュニティからのフィードバックを元に、いずれは変わるかもしれません。
 
 <!-- Sound good? To get started, go to [meetup.com](http://meetup.com) and create a username/account for yourself if you don’t already have one. Fill in the form below, and we’ll get back to you within a week to either confirm your new meetup group or ask some additional questions. Note: you can also use this form if you have an existing WordPress meetup group on meetup.com would like to transfer it to the central account so you don’t have to pay dues anymore.-->
-良いでしょうか？
-始めるには、[meetup.com](http://meetup.com) に行き、まだ持っていないなら、ユーザーネーム/アカウントを作ってください。
+良いでしょうか？始めるには、[meetup.com](https://www.meetup.com/) に行き、まだ持っていないなら、ユーザーネーム/アカウントを作ってください。
 下のフォームに記入してください。あなたの新しい Meetup 支局が承認されるか、さらなる質問をさせていただくか、どちらかのお返事を１週間程でいたします。
 ノート: すでに meetup.com 上に存在する Meetup 支局を、会費の補助を受けられるようにセントラルアカウントに移動したい場合も、このフォームを使ってください。
 
