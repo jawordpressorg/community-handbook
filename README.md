@@ -1,6 +1,6 @@
-# WordPress Community Handbooks 日本語訳
+# WordPress コミュニティハンドブック
 
-こちらは WordPress コミュニティハンドブックの翻訳用リポジトリです。
+こちらは [WordPress Community Handbooks](https://make.wordpress.org/community/handbook/) の翻訳用リポジトリです。
 
 ## 翻訳方法
 
