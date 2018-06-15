@@ -10,7 +10,7 @@
 <!--2.  Membership in the local meetup group is open to all who wish to join, regardless of ability, skill, financial status or any other criteria.-->
 2. WordPress Meetup には、才能、スキル、経済状況などの基準に関わらず、あらゆる方が参加できます。
 <!-- 3.  Meetups are volunteer-run with volunteer speakers. In cases where a modest attendance fee might be necessary, this fee should only cover the costs of the meetup and shouldn’t be used to pay speakers or organizers.-->
-3. Meetup は、ボランティアが運営、スピーカーも無償で登壇が原則です。どうしても必要な経費を負担してもらうための控えな参加費は、スピーカーや運営スタッフの報酬にすることはできません。
+3. Meetup は、ボランティアが運営、スピーカーも無償で登壇が原則です。どうしても必要な経費を負担してもらうための控えめな参加費は、スピーカーや運営スタッフの報酬にすることはできません。
 <!-- 4.  Meetup groups allow events to be organized by any reliable/trusted member of the community.-->
 4. Meetup グループメンバーは、コミュニティ内の信頼・信用できるメンバーがイベントを運営するようにしていきます。
 <!-- 5.  Meetups are welcoming places where everyone works to foster an accepting environment which is free of discrimination, incitement to violence, promotion of hate, and general jerk-like behavior.-->
