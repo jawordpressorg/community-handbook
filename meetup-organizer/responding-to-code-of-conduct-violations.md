@@ -17,7 +17,7 @@
     * 争いを解決するための３つパートに分かれた方法が役に立つでしょう : 「あなたが … したとき、私は … と感じました。次は … してください」
     * 他のオプションとしては状況を思い出させるアプローチがあります 「これはファミリーフレンドリーなイベントということを忘れないでください。私たちは … しないのです。」
     * 全てがうまくいかなかったら、冷静にしかしありのままに言いましょう 「それは我々の行動規範に反しているようです」
-*   イベント終了後にもう少し説明をしてフォローアップし、調整しようとしてくれていることに感謝しましょう（彼らがしたことに出しゃばったことに対して）。
+*   イベント終了後にもう少し説明をしてフォローアップし、対応しようとしてくれていることに感謝しましょう（彼らがしたことに出しゃばったことに対して）。
 *   他の主催者と一緒にフォローアップするようにしてください。
 
 <!-- Attendees and community members can use the [Incident Reporting form](https://central.wordcamp.org/incident-report/) to report issues that come up with their local community organizers, to someone other than their local community organizers. -->
