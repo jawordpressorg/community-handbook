@@ -22,22 +22,36 @@ WordPress Meetup の支局を運営するすべての人は、 GPL を含めた 
 
 Sound good? To get started, go to [meetup.com](http://meetup.com) and create a username/account for yourself if you don’t already have one. Fill in the form below, and we’ll get back to you within a week to either confirm your new meetup group or ask some additional questions. Note: you can also use this form if you have an existing WordPress meetup group on meetup.com would like to transfer it to the central account so you don’t have to pay dues anymore.
 
-Name(required)
+<!-- Name(required) -->
+お名前 (必須)
 
-Email(required)
+<!-- Email(required) -->
+メール (必須)
 
-Your City, State/Province, and Country(required)
+<!-- Your City, State/Province, and Country(required) -->
+あなたの町、県名/地域、国 (必須)
 
-Is there already a WordPress meetup group in your city? If you don't know, please check meetup.com first.(required) Nope no current meetup group Yes it's the meetup I run now Yes but I want to do a different kind of meetup
+<!-- Is there already a WordPress meetup group in your city? If you don't know, please check meetup.com first.(required) Nope no current meetup group Yes it's the meetup I run now Yes but I want to do a different kind of meetup -->
+あなたの町に、 WordPress Meetup 支局がすでにありますか？ もし分からなければ、 まずは meetup.com で調べてください。(必須)
 
-If there's an existing meetup.com group, please provide the URL.
+<!-- If there's an existing meetup.com group, please provide the URL. -->
+もしすでに Meetup の支局がある場合には、URLを書いてください。
 
-How would you describe yourself?(required) WordPress professional Current WordPress user or developer New to WordPress I don't use WordPress
+<!-- How would you describe yourself?(required) WordPress professional Current WordPress user or developer New to WordPress I don't use WordPress -->
+あなたは自分をどう紹介しますか？ (必須) <!-- 答えは選択式 -->
+WordPress プロフェショナル
+WordPress ユーザー/開発者
+WordPress 初心者
+WordPress を使っていません
 
-Your WordPress.org username
+<!-- Your WordPress.org username -->
+あなたの WordPress.org のユーザーネーム
 
-Slack username, if you use Slack (chat.wordpress.org)
+<!-- Slack username, if you use Slack (chat.wordpress.org) -->
+もし Slack (chat.wordpress.org) を使っているなら、Slack のユーザーネーム
 
-Where can we find you online?
+<!-- Where can we find you online? -->
+あなたを online のどこで見つけられますか？
 
-Anything you'd like to tell us about yourself or what you hope to do with a meetup group?
+<!-- Anything you'd like to tell us about yourself or what you hope to do with a meetup group? -->
+何か他に自分のことで伝えたいことがありますか、もしくは Meetup 支局でどのようなことをしたいですか？
