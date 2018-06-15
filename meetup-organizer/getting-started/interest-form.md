@@ -5,7 +5,7 @@ Meetup 申請書 <!-- Meetup Interest Form -->
 ガイドライン: 
 1. WordPress Meetup は、特定の企業や個人の利益のためではなく、 WordPress コミュニティ全体の利益のためにあります。イベント主催者として取る行動のすべてはコミュニティの利益を念頭に置いて行います。<!-- 1.  WordPress Meetups are for the benefit of the WordPress community as a whole, not specific businesses or individuals. All actions that I take as an organizer are with the best interest of the community in mind.-->
 2. WordPress Meetup には、才能、スキル、経済状況などの基準に関わらず、あらゆる方が参加できます。<!--2.  Membership in the local meetup group is open to all who wish to join, regardless of ability, skill, financial status or any other criteria.-->
-3. Meetup は、ボランティアが運営、スピーカーも無償で登壇が原則です。どうしても必要な経費を負担してもらうための控えな参加費は、スピーカーや運営スタッフの報酬にすることはできません。<!-- 3.  Meetups are volunteer-run with volunteer speakers. In cases where a modest attendance fee might be necessary, this fee should only cover the costs of the meetup and shouldn’t be used to pay speakers or organizers.-->
+3. Meetup は、ボランティアが運営、スピーカーも無償で登壇が原則です。どうしても必要な経費を負担してもらうための控えめな参加費は、スピーカーや運営スタッフの報酬にすることはできません。<!-- 3.  Meetups are volunteer-run with volunteer speakers. In cases where a modest attendance fee might be necessary, this fee should only cover the costs of the meetup and shouldn’t be used to pay speakers or organizers.-->
 4. Meetup グループメンバーは、コミュニティ内の信頼・信用できるメンバーがイベントを運営するようにしていきます。<!-- 4.  Meetup groups allow events to be organized by any reliable/trusted member of the community.-->
 5. Meetup は、友好的な場所で、誰もが受け入れられる環境を、すべての参加者が育てていきます。差別、暴力への扇動、憎悪の促進、人に礼儀をわきまえない振る舞いは禁止されています。<!-- 5.  Meetups are welcoming places where everyone works to foster an accepting environment which is free of discrimination, incitement to violence, promotion of hate, and general jerk-like behavior.-->
 
