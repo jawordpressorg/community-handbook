@@ -50,7 +50,7 @@ meetup.com には、WordPress公式のアカウントがあります。meetup.co
 私たちはまた、WordPressに関するそれぞれの Meetup に関わる皆さんに、GPLを含む WordPress オープンソースプロジェクトの原則を守るように要請します。これは、GPL以外のプラグインやテーマを使用することによって、 WordPress が提供する権利を制限されることに気づかない利用者/参加者を保護するものです。
 
 <!-- ## Starting a New Meetup.com Group [#Starting a New Meetup.com Group](#starting-a-new-meetup-com-group) -->
-## Meetup.com で新しい WordPress Meetup グループを開始するには [#Starting a New Meetup.com Group](#starting-a-new-meetup-com-group)
+## Meetup.com で新しい WordPress Meetup グループを開始するには [#Meetup.com で新しい WordPress Meetup グループを開始するには](#starting-a-new-meetup-com-group)
 
 <!-- If there is not a meetup group in your city but you would like to start one, [fill out our meetup interest form](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/interest-form/) and we can set up a new group for your city and make you the first organizer. If you have a group already but are not using meetup.com and you’d like to, use the same form, but make sure to include the URL for your existing group’s online presence (Facebook, independent site, etc). -->
 地元に Meetup グループが無い場合、新規に追加することができます。独自の Meetup グループを作りましょう。既に活動しているグループの場合、そのグループに関するWebサイトやFacebookのURLを必ず含めてください。
