@@ -1,6 +1,5 @@
-<!-- Event Formats -->
+<!-- # Event Formats -->
 # イベントの構成
-=============
 
 <!-- Sometimes getting started organizing an event can be a little overwhelming. It does not have to be though. Not every Meetup event needs to be a formal lecture with questions and answers in a rented venue. Meetup events can be as formal or informal as you want them to be. Having a variety of event types can help communities create the kind of group that really makes connections among WordPress enthusiasts. -->
 時々、イベントを開始するのは圧倒されてしまう。でも、その必要はありません。全てのイベントの会場で質疑応答のある正式な講義が必要というわけではありません。ミートアップイベントは、必要に応じて公式にも非公式にもすることができます。様々なイベントのタイプを持つことによって、コミュニティが WordPress 愛好家とつながることができます。
