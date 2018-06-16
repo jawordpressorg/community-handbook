@@ -30,7 +30,8 @@ WordPress に関する情報共有をするために2名以上が集まるイベ
 *   ワークショップ
 *   共同作業
 *   WordPress に関する疑問解決
-* コントリビューターデイの実施、その他
+*   コントリビューターデイの実施、その他
+
 <!-- For groups that are hosted on meetup.com, there is an official WordPress account. WordPress meetup groups that are part of this account receive certain benefits, including having the meetup.com dues paid by the WordPress Community Support PBC (Public Benefit Subsidiary – [further information is available here](https://make.wordpress.org/community/2016/03/02/transitioning-to-wordpress-community-support/)). Having a meetup group on this account does require following five good-faith rules that were created by a group of volunteer meetup organizers: -->
 meetup.com には、WordPress公式のアカウントがあります。meetup.comにある WordPress Meetup グループには、WordPress Community Support PBC (Public Benefit Subsidiary – 詳細) から meetup.com の会費を支払うなどの支援があります。このアカウントで Meetup グループを登録するには Meetup のオーガナイザーによって作成された5つのルールに従う必要があります。
 
