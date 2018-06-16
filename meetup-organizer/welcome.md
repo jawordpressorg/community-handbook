@@ -45,9 +45,12 @@ Meetups were happening long before we had a structure like the WordPress Communi
 When an existing meetup.com group joins the central account, these are the things that happen:
 
 *   The WordPress Community Support PBC takes over payment of meetup.com dues and is listed as the primary group organizer. The original owner is listed as co-organizer, as are any existing co-organizers. WordPress now “owns” the meetup.com account, and everyone running events is on equal footing.
-*   Organizers retain access to the group tools on meetup.com.
-*   The group name and URL remain the same.
-*   The design of your site is unchanged (unless you are using a “[fauxgo](https://wordpress.org/about/logos/)” or misspelling WordPress, in which case we’d ask you to fix that).
+<!--*   Organizers retain access to the group tools on meetup.com.-->
+主催者は、meetup.comのグループツールへのアクセス権を保持します。
+<!-- *   The group name and URL remain the same. -->
+グループ名とURLは変わりません。
+<!--*   The design of your site is unchanged (unless you are using a “[fauxgo](https://wordpress.org/about/logos/)” or misspelling WordPress, in which case we’d ask you to fix that).-->
+あなたのサイトのデザインは変更されません（あなたが正しくない WordPress のロゴ、またはスペルミスのWordPressを使用している場合は修正してください）。
 *   Organizers will be included in a monthly communication that connects them to the WordPress project and to other meetup organizers (how much or little you choose to get involved is up to you).
 *   A survey will be sent to all members of the group to gather feedback about the meetup. Results will be shared and discussed so that if there’s something we can do to facilitate more activity/happier members, we can work together to figure out what that might be.
 *   Videos of presentations (or tutorials, or etc) from your meetup group will have streamlined access to publication on wordpress.tv.
