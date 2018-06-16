@@ -1,5 +1,5 @@
-Incident Reporting
-==================
+<!-- # Incident Reporting -->
+# 事件報告
 
 To report a code of conduct-related issue, email [report@wordcamp.org](mailto:report@wordcamp.org). Emails sent to this address will go to a private mailbox on the global community team’s Help Scout instance, visible only to deputies on an incident response squad.
 
