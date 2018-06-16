@@ -2,6 +2,9 @@
 
 こちらは [WordPress Community Handbooks](https://make.wordpress.org/community/handbook/) の翻訳用リポジトリです。
 
+Meetup Organizer Handbook の翻訳は meetup-organizer ディレクトリ内にあります。
+ブラウザ上で翻訳したいmdファイルをクリックし、鉛筆マークの「Edit this file」をクリックすることでブラウザ上でも更新（プルリクエスト）できます。
+
 ## 翻訳方法
 
 __原文例：__
