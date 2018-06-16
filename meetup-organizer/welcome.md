@@ -8,10 +8,10 @@
 *   [Quizzes](#quizzes)
     *   [How to register & subscribe to quizzes](#how-to-register-subscribe%c2%a0to-quizzes)
 
-<!-- Meetup groups are locally-organized groups that get together for face-to-face events on a regular basis (commonly once a month).-->
+<!-- Meetup groups are locally-organized groups that get together for face-to-face events on a regular basis (commonly once a month). -->
 Meetup は WordPress にフォーカスした地域ごとに (一般的に月1回) 開催されるオフラインによるコミュニティイベントのことです。
 
-<!-- Anything that brings together 2 or more people to share their WordPress experiences counts — there’s no minimum number of attendees or required format.-->
+<!-- Anything that brings together 2 or more people to share their WordPress experiences counts — there’s no minimum number of attendees or required format. -->
 WordPress に関する情報共有をするために2名以上が集まるイベントであり、最低人数や必要な形式はありません。
 
 <!-- These events (commonly referred to as meetups, which can be confusing since people often use the same word to describe the group itself) take many formats: -->
@@ -31,7 +31,6 @@ WordPress に関する情報共有をするために2名以上が集まるイベ
 *   共同作業
 *   WordPress に関する疑問解決
 * コントリビューターデイの実施、その他
-
 <!-- For groups that are hosted on meetup.com, there is an official WordPress account. WordPress meetup groups that are part of this account receive certain benefits, including having the meetup.com dues paid by the WordPress Community Support PBC (Public Benefit Subsidiary – [further information is available here](https://make.wordpress.org/community/2016/03/02/transitioning-to-wordpress-community-support/)). Having a meetup group on this account does require following five good-faith rules that were created by a group of volunteer meetup organizers: -->
 meetup.com には、WordPress公式のアカウントがあります。meetup.comにある WordPress Meetup グループには、WordPress Community Support PBC (Public Benefit Subsidiary – 詳細) から meetup.com の会費を支払うなどの支援があります。このアカウントで Meetup グループを登録するには Meetup のオーガナイザーによって作成された5つのルールに従う必要があります。
 
