@@ -6,7 +6,7 @@
 *   [Starting a New Meetup.com Group](#starting-a-new-meetup-com-group)
 *   [Adding an Existing Meetup.com Group](#adding-an-existing-meetup-com-group)
 *   [Quizzes](#quizzes)
-    *   [How to register & subscribe to quizzes](#how-to-register-subscribe%c2%a0to-quizzes)
+    *   [How to register & subscribe to quizzes](#how-to-register-subscribe%c2%a0to-quizzes)
 
 <!-- Meetup groups are locally-organized groups that get together for face-to-face events on a regular basis (commonly once a month). -->
 Meetup は WordPress にフォーカスした地域ごとに (一般的に月1回) 開催されるオフラインによるコミュニティイベントのことです。
@@ -60,25 +60,19 @@ meetup.com には、WordPress公式のアカウントがあります。meetup.co
 <!-- ## Adding an Existing Meetup.com Group [#Adding an Existing Meetup.com Group](#adding-an-existing-meetup-com-group) -->
 既存のMeetup.comグループをWordPress Meetupグループとして申請する [#Adding an Existing Meetup.com Group](#adding-an-existing-meetup-com-group)
 
-[Top ↑](#top)
-
-<!-- ## Adding an Existing Meetup.com Group [#Adding an Existing Meetup.com Group](#adding-an-existing-meetup-com-group) -->
-既存のMeetup.comグループをWordPress Meetupグループとして申請する [#Adding an Existing Meetup.com Group](#adding-an-existing-meetup-com-group)
-
 <!-- Meetups were happening long before we had a structure like the WordPress Community Support PBC in place to cover costs. Now that we are able to facilitate things, it means organizers don’t have to pay hundreds of dollars a year in hosting fees, and that groups can be more open for community participation since the “owner” doesn’t have to worry about their reputation being affected by the actions of others in the group. -->
 Meetup は、以前から WordPress Community Support PBC 等によりコストを負担しています。まず、主催者が Meetup グループの料金を支払う必要はありません。これは、 Meetup への参加希望の規模に応じたオーガーナイザー会員の料金プランを気にすることなく、より多くの方にコミュニティへ参加することができるようになります。
 
 <!-- When an existing meetup.com group joins the central account, these are the things that happen: -->
 既存の meetup.com グループがセントラルアカウントに参加すると、次のようなことが可能になります。
 
-<!-- *   The WordPress Community Support PBC takes over payment of meetup.com dues and is listed as the primary group organizer. The original owner is listed as co-organizer, as are any existing co-organizers. WordPress now “owns” the meetup.com account, and everyone running events is on equal footing.
--->
+<!-- *   The WordPress Community Support PBC takes over payment of meetup.com dues and is listed as the primary group organizer. The original owner is listed as co-organizer, as are any existing co-organizers. WordPress now “owns” the meetup.com account, and everyone running events is on equal footing. -->
 *   既存の meetup.com グループは、WordPress Community Support PBCがメインオーガナイザーになり、Meetupグループの料金を負担します。主催者は共同オーガナイザーになります。 WordPressは、meetup.com のアカウントを所有しており、 Meetup イベントの主催者と平等な立場にあります。
-<!--*   Organizers retain access to the group tools on meetup.com.-->
-*   主催者は、meetup.comのグループツールへのアクセス権を保持します。
+<!-- *   Organizers retain access to the group tools on meetup.com. -->
+主催者は、meetup.comのグループツールへのアクセス権を保持します。
 <!-- *   The group name and URL remain the same. -->
-*   グループ名とURLは変わりません。
-<!--*   The design of your site is unchanged (unless you are using a “[fauxgo](https://wordpress.org/about/logos/)” or misspelling WordPress, in which case we’d ask you to fix that).-->
+グループ名とURLは変わりません。
+<!-- *   The design of your site is unchanged (unless you are using a “[fauxgo](https://wordpress.org/about/logos/)” or misspelling WordPress, in which case we’d ask you to fix that). -->
 *   あなたのサイトのデザインは変更されません（あなたが正しくない WordPress のロゴ、またはスペルミスのWordPressを使用している場合は修正してください）。
 <!-- *   Organizers will be included in a monthly communication that connects them to the WordPress project and to other meetup organizers (how much or little you choose to get involved is up to you). -->
 *   主催者には毎月開催される WordPress プロジェクトや他の meetup 主催者との連絡会に参加します(参加方法は選択することができます。)
@@ -92,36 +86,7 @@ Meetup は、以前から WordPress Community Support PBC 等によりコスト�
 *   Meetup の開催において無償の開催場所が見つからない場合、会場費用を Community Support で負担します。また、開催に伴い発生する費用も負担することにより、イベントを開催することができます。[詳細はこちらを参照してください](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/venue-approval/)。
 <!-- *   If you currently require people to submit an application to join your group, we ask that you remove that requirement. WordPress meetup groups are open to all who are interested. You can still ask those questions on the regular “join this meetup” form. -->
 *   現在、 Meetup の参加に申請が必要になる場合、その要件は削除するようにお願いします。 WordPress のミートアップは、興味を持つすべての方に公開しています。標準では "ミートアップに参加予定" のボタンをクリックするのみです。
-*   We ask that any member of the group be allowed to organize events (this is a setting in group tools) rather than the organizers acting as gatekeepers If someone wants to organize a Saturday morning WordPress coffee shop get-together that only 5 people attend and you want to organize a more formal presentation for 80 people, both of those are valued by us. The more people getting together and connecting to talk about WordPress, the better, and having only a few people organize events automatically limits their number and scope. It’s definitely a change — it goes from “This is my group” to “This is a community group I’m a leader in” and we won’t lie, it does require a shift in thinking for groups that have only allowed one or two people to organize events. That said, that shift — for WP meetups to be community groups where everyone can organize events without gatekeepers — is what we’re going for. So you’d be responsible for focus and consistency in your own event series, but not for others (though hopefully anyone choosing to organize would talk with other organizers and learn from their experiences).
-
-## Adding an Existing Meetup.com Group [#Adding an Existing Meetup.com Group](#adding-an-existing-meetup-com-group)
-
-Meetups were happening long before we had a structure like the WordPress Community Support PBC in place to cover costs. Now that we are able to facilitate things, it means organizers don’t have to pay hundreds of dollars a year in hosting fees, and that groups can be more open for community participation since the “owner” doesn’t have to worry about their reputation being affected by the actions of others in the group.
-
-When an existing meetup.com group joins the central account, these are the things that happen:
-
-<!-- *   The WordPress Community Support PBC takes over payment of meetup.com dues and is listed as the primary group organizer. The original owner is listed as co-organizer, as are any existing co-organizers. WordPress now “owns” the meetup.com account, and everyone running events is on equal footing.
--->
-*   既存の meetup.com グループは、WordPress Community Support PBCがメインオーガナイザーになり、Meetupグループの料金を負担します。主催者は共同オーガナイザーになります。 WordPressは、meetup.com のアカウントを所有しており、 Meetup イベントの主催者と平等な立場にあります。
-<!--*   Organizers retain access to the group tools on meetup.com.-->
-*   主催者は、meetup.comのグループツールへのアクセス権を保持します。
-<!-- *   The group name and URL remain the same. -->
-*   グループ名とURLは変わりません。
-<!--*   The design of your site is unchanged (unless you are using a “[fauxgo](https://wordpress.org/about/logos/)” or misspelling WordPress, in which case we’d ask you to fix that).-->
-*   あなたのサイトのデザインは変更されません（あなたが正しくない WordPress のロゴ、またはスペルミスのWordPressを使用している場合は修正してください）。
-<!-- *   Organizers will be included in a monthly communication that connects them to the WordPress project and to other meetup organizers (how much or little you choose to get involved is up to you). -->
-*   主催者には毎月開催される WordPress プロジェクトや他の meetup 主催者との連絡会に参加します(参加方法は選択することができます。)
-<!-- *   A survey will be sent to all members of the group to gather feedback about the meetup. Results will be shared and discussed so that if there’s something we can do to facilitate more activity/happier members, we can work together to figure out what that might be. -->
-*   Meetup の終了後、参加者の感想を集める目的でグループの全員にアンケートが送信されます。アンケート結果は共有し、議論を経て、より活発な活動やよい評価をする参加者を増やすため、どのようにすると良いか一緒に活動することができます。
-<!-- *   Videos of presentations (or tutorials, or etc) from your meetup group will have streamlined access to publication on wordpress.tv. -->
-*   Meetup での発表内容を wordpress.tv で公開することができます。
-<!-- *   We’ll send you some WordPress swag to kick things off if you don’t have any kicking around from a recent WordCamp. -->
-*   直近の WordCamp で好評の WordPress グッズを差し上げます。
-<!-- *   It is possible for Community Support to cover costs such as venue rentals when donated space can’t be found, and can work with meetup organizers to determine what costs and/or supplies may be provided by the central account to make organizing events easier – [more information here](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/venue-approval/). -->
-*   Meetup の開催において無償の開催場所が見つからない場合、会場費用を Community Support で負担します。また、開催に伴い発生する費用も負担することにより、イベントを開催することができます。[詳細はこちらを参照してください](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/venue-approval/)。
-<!-- *   If you currently require people to submit an application to join your group, we ask that you remove that requirement. WordPress meetup groups are open to all who are interested. You can still ask those questions on the regular “join this meetup” form. -->
-*   現在、 Meetup の参加に申請が必要になる場合、その要件は削除するようにお願いします。 WordPress のミートアップは、興味を持つすべての方に公開しています。標準では "ミートアップに参加予定" のボタンをクリックするのみです。
-*   We ask that any member of the group be allowed to organize events (this is a setting in group tools) rather than the organizers acting as gatekeepers If someone wants to organize a Saturday morning WordPress coffee shop get-together that only 5 people attend and you want to organize a more formal presentation for 80 people, both of those are valued by us. The more people getting together and connecting to talk about WordPress, the better, and having only a few people organize events automatically limits their number and scope. It’s definitely a change — it goes from “This is my group” to “This is a community group I’m a leader in” and we won’t lie, it does require a shift in thinking for groups that have only allowed one or two people to organize events. That said, that shift — for WP meetups to be community groups where everyone can organize events without gatekeepers — is what we’re going for. So you’d be responsible for focus and consistency in your own event series, but not for others (though hopefully anyone choosing to organize would talk with other organizers and learn from their experiences).
+*   We ask that any member of the group be allowed to organize events (this is a setting in group tools) rather than the organizers acting as gatekeepers. If someone wants to organize a Saturday morning WordPress coffee shop get-together that only 5 people attend and you want to organize a more formal presentation for 80 people, both of those are valued by us. The more people getting together and connecting to talk about WordPress, the better, and having only a few people organize events automatically limits their number and scope. It’s definitely a change — it goes from “This is my group” to “This is a community group I’m a leader in” and we won’t lie, it does require a shift in thinking for groups that have only allowed one or two people to organize events. That said, that shift — for WP meetups to be community groups where everyone can organize events without gatekeepers — is what we’re going for. So you’d be responsible for focus and consistency in your own event series, but not for others (though hopefully anyone choosing to organize would talk with other organizers and learn from their experiences).
 
 That’s about it! Oh, and follow the 5 good-faith rules mentioned at the beginning. If you have a problem with one of them, we should talk about it.
 
@@ -138,10 +103,10 @@ To request that your existing group join the central account, use [the same meet
 
 Here is what a reference to a quiz looks like.
 
-<!-- To be able to use quizzes you need first to register at [https://community-self-training.mystagingwebsite.com](https://community-self-training.mystagingwebsite.com/). If you are not registered yet, find an instruction guiding you through the process below. -->
+<!-- To be able to use quizzes you need first to register at [https://community-self-training.mystagingwebsite.com](https://community-self-training.mystagingwebsite.com/). If you are not registered yet, find an instruction guiding you through the process below. -->
 審査を受けるには、まず https://community-self-training.mystagingwebsite.com に登録する必要があります。まだ登録されていない場合は、以下の手順を参照してください。
 
-<!-- ### How to register & subscribe to quizzes [#How to register & subscribe to quizzes](#how-to-register-subscribe%c2%a0to-quizzes) -->
+<!-- ### How to register & subscribe to quizzes [#How to register & subscribe to quizzes](#how-to-register-subscribe%c2%a0to-quizzes) -->
 ### 審査を受けるための登録方法 [#How to register & subscribe to quizzes](#how-to-register-subscribe%c2%a0to-quizzes)
 
 <!-- 1. Go to [My Courses](https://community-self-training.mystagingwebsite.com/my-courses/) link. Scroll the page a bit and fill in the registration form. -->
@@ -162,12 +127,12 @@ Here is what a reference to a quiz looks like.
 
 [![Selection_026](https://make.wordpress.org/community/files/2015/09/Selection_026.png)](https://make.wordpress.org/community/files/2015/09/Selection_026.png)
 
-<!-- 5. After you see “In progress” status appear below the course name, you are all set to go back to handbook site and start/continue reading it. As you are logged in to the site which hosts quizzes, you can open the link you encounter at the handbook pages and check your knowledge. -->
+<!-- 5. After you see “In progress” status appear below the course name, you are all set to go back to handbook site and start/continue reading it. As you are logged in to the site which hosts quizzes, you can open the link you encounter at the handbook pages and check your knowledge. -->
 5. コース名の下に「In Progress」のステータスが表示されると、審査を開始することができます。 Lessons の各パートをクリックし、審査を受けることができます。
 
 [![Selection_027](https://make.wordpress.org/community/files/2015/09/Selection_027.png)](https://make.wordpress.org/community/files/2015/09/Selection_027.png)
 
-Good luck with the quizzes! And please use the #community-team channel on [our Slack](https://chat.wordpress.org) to report if a quiz question is incorrect or ambiguous.
+Good luck with the quizzes! And please use the #community-team channel on [our Slack](https://chat.wordpress.org) to report if a quiz question is incorrect or ambiguous.
 
 [Show Comments](#)
 
