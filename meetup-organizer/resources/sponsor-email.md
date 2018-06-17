@@ -16,7 +16,7 @@
 <!-- \[Your Group Name\] is very active and meets \[number of events\] a month. We cater to people across the spectrum when it comes to WordPress familiarity and use, from beginners who need technical support, training and information to developers who are looking to sharpen their skills. -->
 【Meetup グループ名】は、とても活発であり、月に【イベントの回数】のイベントを行なっています。WordPressを熟知し、それを使うことに関しては、技術的サポートやトレーニング、情報を必要としている初心者から、各々の技術を高めたい開発者まで、多くの人々を満足させています。
 
-<!-- Our events tend to attract between \[number\] – \[number\] members a month, and reach an active group of nationwide \[National Community\] users and professionals as well.-->
+<!-- Our events tend to attract between \[number\] – \[number\] members a month, and reach an active group of nationwide \[National Community\] users and professionals as well. -->
 私たちのイベントには、ひと月に【数字】〜【数字】人ほど参加者があり、さらには全国的な【全国的なコミュニティ】ユーザーや専門家の活動的なグループとも交流があります。
 
 <!-- In \[Your Town\] we have \[number\] formal events every month, with other events happening as members choose to organize them. -->
