@@ -38,20 +38,29 @@ Why Sponsor \[Your Group Name\]? -->
 <!-- WordPress users are heavily connected, not just locally but internationally, so your support may be observed, not just in \[your town/country\], but also beyond. -->
 WordPress ユーザーは、ローカルだけではなく世界的に深くつながっているため、御社のサポートは【あなたの都市／国】だけにとどまらず、さらに広く知られるかもしれません。
 
-What will your sponsorship do?
+<!-- What will your sponsorship do? -->
+スポンサーは何をするのか？
 
-WordPress meetups are strongly geared towards making WordPress as open and accessible to anyone who is interested in learning about using it, developing for it, or making a business out of it. Our meetups are inclusive, welcoming and open to anyone at no cost.
+<!-- WordPress meetups are strongly geared towards making WordPress as open and accessible to anyone who is interested in learning about using it, developing for it, or making a business out of it. Our meetups are inclusive, welcoming and open to anyone at no cost. -->
+WordPress Meetup は WordPress を使用すること、開発すること、またはその中からビジネスを創造すること等、WordPress に興味を持っている人が誰でもアクセスできるように強く配慮されています。私たちのミートアップは包括的であり、どんな人でも無料で歓迎します。
 
-Sponsorships allow us to offer the Meetup to our members with food and a great venue for free.
+<!-- Sponsorships allow us to offer the Meetup to our members with food and a great venue for free. -->
+スポンサーによる後援で、私たちはイベント参加者に対して、無料で食事や会場を提供することができです。
 
-What will \[Your Group Name\] do for you?
+<!-- What will \[Your Group Name\] do for you? -->
+【Meetup グループ名】はスポンサーに対して何をするのか？
 
-In return for your sponsorship, we will feature your logo, URL and a short description on our Meetup page and website. We will add your logo and details, with a description of your business on our Meetup news slides and give you a shout out at the event.
+<!-- In return for your sponsorship, we will feature your logo, URL and a short description on our Meetup page and website. We will add your logo and details, with a description of your business on our Meetup news slides and give you a shout out at the event. -->
+スポンサーの後援と引き換えに、私たちは Meetup のページや Web サイトに御社のロゴやURL、短い説明などを掲載します。私たちは御社のビジネス情報を Meetup のお知らせに御社のロゴや説明を追加して、そのイベントで告知します。
 
-From time to time, we will send you updates of what your sponsorship has done for WordPress \[your-town\], including pictures of recent events.
+<!-- From time to time, we will send you updates of what your sponsorship has done for WordPress \[your-town\], including pictures of recent events. -->
+WordPress【町の名前】に対してどんな後援がされたか、最近のイベントの写真を含めて更新内容を随時お知らせします。
 
-Thank you for taking the time to consider sponsoring \[Your Group Name\]. Please do not hesitate to contact us if you would like to discuss this further or have any questions.
+<!-- Thank you for taking the time to consider sponsoring \[Your Group Name\]. Please do not hesitate to contact us if you would like to discuss this further or have any questions. -->
+【Meetup グループ名】への支援をご考慮いただき、ありがとうございます。ご相談、ご質問がございましたら、お気軽にお問い合わせください。
 
-We looking forward to the possibility of working with you.
+<!-- We looking forward to the possibility of working with you. -->
+私たちは御社と働く可能性を楽しみにしています。
 
-\[Your Group Name\]
+<!-- \[Your Group Name\] -->
+【Meetup グループ名】
