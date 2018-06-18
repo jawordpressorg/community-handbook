@@ -1,5 +1,5 @@
 <!-- Responding to Code of Conduct Violations -->
-行動規範の違反への対応
+行動規範違反行為への対応
 ========================================
 
 <!-- We wish it would never happen, but sometimes as organizers we have to respond to bad behavior at our events. If you see or hear about any behavior that is making the event less welcoming or more intolerant, then please take the following steps: -->
@@ -21,7 +21,7 @@
 *   他の主催者と一緒にフォローアップするようにしてください。
 
 <!-- Attendees and community members can use the [Incident Reporting form](https://central.wordcamp.org/incident-report/) to report issues that come up with their local community organizers, to someone other than their local community organizers. -->
-出席者とコミニティーのメンバーは、地域コミュニティの主催者とともに、主催者以外の人たちへも問題を報告するために [事件報告フォーム](https://central.wordcamp.org/incident-report/) を使うことが出来ます。
+出席者とコミニティーのメンバーは、地域コミュニティの主催者とともに、主催者以外の人たちへも問題を報告するために [違反行為の報告フォーム](https://central.wordcamp.org/incident-report/) を使うことが出来ます。
 
 <!-- Creating an inclusive environment is an ongoing process of gentle course correction. No one ever got everything right the first time they tried, but we all get better with each nudge in the right direction. -->
 開放的な環境を作り出すことは、穏やかにコースを補正していく一連の作業です。最初に試してみたときに、すべてのものが正しいものになるわけではありません。
