@@ -2,7 +2,7 @@
 # 行動規範違反行為への対応
 
 <!-- We wish it would never happen, but sometimes as organizers we have to respond to bad behavior at our events. If you see or hear about any behavior that is making the event less welcoming or more intolerant, then please take the following steps: -->
-決して起こってほしくないことですが、時には主催者としてイベントにおける不快な行為に対応しなくてはなりません。もしイベントにおいて歓迎されなかったり我慢できないような行為を見かけたり聞いたりしたら、以下の手順を踏んでください :
+決して起こってほしくないことですが、時には主催者としてイベントにおける不快な行為に対応しなくてはなりません。イベントを不快な場にしたり、不寛容な場にしてしまう行為を見かけたり聞いたりしたら、以下の手順を踏んでください :
 
 <!---
 *   Kindly but firmly explain that the behavior is unacceptable at WordPress events; if necessary, ask the person to leave. Do not shame them publicly, but also do not ignore the issue. 
@@ -12,15 +12,15 @@
 *   Follow up with the person after the event with a little more explanation, and to thank them for being so willing to adjust (assuming of course that they did).
 *   Make sure you follow up with the other organizers.
 -->
-*   優しく、しかしきっぱりと、その行為が WordPress のイベントにとって受け入れられないものであることを説明しましょう。もし必要であれば、その人に出ていってもらうように頼みましょう。公然と非難せずに、しかし問題を無視はしないでください。
+*   優しく、しかしきっぱりと、その行為が WordPress のイベントでは許されないことを説明しましょう。必要であれば、その人に退場をお願いしましょう。公然と違反者に恥ずかしい思いをさせないように、しかし、問題も無視してはいけません。
     *   争いを解決するためには３つのパートに分けた方法が役に立つでしょう : 「あなたが … したとき、私は … と感じました。次は … してください。」
     *   他の手段として、状況を思い出させるというアプローチがあります 「これはファミリーフレンドリーなイベントということを忘れないでください。私たちは … しないのです。」
-    *   全てがうまくいかなかったら、冷静に、しかしありのままに伝えましょう 「それは我々の行動規範に反しているようです。」
+    *   全てがうまくいかなければ、冷静に、事実を伝えましょう 「あなたの発言は、イベントの行動規範に反しています。」
 *   イベント終了後にもう少し説明をしてフォローアップし、対応してくれたことに感謝しましょう（もちろん、彼らがそうしたと仮定して）。
-*   他の主催者と一緒にフォローアップするようにしてください。
+*   フォローアップは、必ず他の主催者と一緒にしてください。
 
 <!-- Attendees and community members can use the [Incident Reporting form](https://central.wordcamp.org/incident-report/) to report issues that come up with their local community organizers, to someone other than their local community organizers. -->
-出席者とコミニティーのメンバーは、地域コミュニティの主催者とともに、主催者以外の人たちへも問題を報告するために [違反行為の報告フォーム](https://central.wordcamp.org/incident-report/) を使うことが出来ます。
+出席者とコミニティーのメンバーは、地域コミュニティの主催者との間で起こった問題を [違反行為の報告フォーム](https://central.wordcamp.org/incident-report/) を使い、地域コミュニティ主催者以外の人へ報告することができます。
 
 <!-- Creating an inclusive environment is an ongoing process of gentle course correction. No one ever got everything right the first time they tried, but we all get better with each nudge in the right direction. -->
 開放的な環境を作り出すことは、穏やかにコースを補正していく一連の作業です。最初に試してみたときに、すべてのものが正しいものになるわけではありません。
