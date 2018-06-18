@@ -1,6 +1,5 @@
-<!-- Responding to Code of Conduct Violations -->
-行動規範違反行為への対応
-========================================
+<!-- # Responding to Code of Conduct Violations -->
+# 行動規範違反行為への対応
 
 <!-- We wish it would never happen, but sometimes as organizers we have to respond to bad behavior at our events. If you see or hear about any behavior that is making the event less welcoming or more intolerant, then please take the following steps: -->
 決して起こってほしくないことですが、時には主催者としてイベントにおける不快な行為に対応しなくてはなりません。もしイベントにおいて歓迎されなかったり我慢できないような行為を見かけたり聞いたりしたら、以下の手順を踏んでください :
