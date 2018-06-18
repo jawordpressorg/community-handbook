@@ -39,7 +39,7 @@ Why Sponsor \[Your Group Name\]? -->
 WordPress ユーザーは、ローカルだけではなく世界的に深くつながっているため、あなたのサポートは【あなたの都市／国】だけにとどまらず、さらに広く知られるかもしれません。
 
 <!-- What will your sponsorship do? -->
-スポンサーは何をするのか？
+スポンサーによる支援とは何をするのか？
 
 <!-- WordPress meetups are strongly geared towards making WordPress as open and accessible to anyone who is interested in learning about using it, developing for it, or making a business out of it. Our meetups are inclusive, welcoming and open to anyone at no cost. -->
 WordPress Meetup は WordPress を使用すること、開発すること、またはその中からビジネスを創造すること等、WordPress に興味を持っている人が誰でもアクセスできるように強く配慮されています。私たちのミートアップは包括的であり、どんな人でも無料で歓迎します。
@@ -48,7 +48,7 @@ WordPress Meetup は WordPress を使用すること、開発すること、ま�
 スポンサーによる後援で、私たちはイベント参加者に対して、無料で食事や会場を提供することができです。
 
 <!-- What will \[Your Group Name\] do for you? -->
-【Meetup グループ名】はスポンサーに対して何をするのか？
+【Meetup グループ名】はあなたに何をもたらすのか？
 
 <!-- In return for your sponsorship, we will feature your logo, URL and a short description on our Meetup page and website. We will add your logo and details, with a description of your business on our Meetup news slides and give you a shout out at the event. -->
 スポンサーの後援と引き換えに、私たちは Meetup のページや Web サイトにあなたのロゴや URL 、短い説明などを掲載します。私たちはあなたのビジネス情報を Meetup のお知らせにあなたのロゴや説明を追加して、そのイベントで告知します。
