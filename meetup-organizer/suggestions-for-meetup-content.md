@@ -44,7 +44,7 @@ Meetup のトピックカテゴリー
 WordPress Core [#WordPress Core](#wordpress-core)
 -------------------------------------------------
 
-*   New Plugin
+<!--*   New Plugin
 *   New Skill
 *   New tech/system
 *   Design
@@ -55,24 +55,40 @@ WordPress Core [#WordPress Core](#wordpress-core)
 *   Page Builders: The Good, The Bad, The Needs Improvement
 *   Hackathon Night — Bring your worst problems, we’ll fix them.
 *   JavaScript Libraries and WordPress Theme Development
-*   Leveraging the REST API in your WordPress Site
+*   Leveraging the REST API in your WordPress Site-->
+*   新しいプラグイン
+*   新しい手法
+*   新しい技術やシステム
+*   デザイン
+*   地域化（翻訳など）
+*   WordPress セキュリティ
+*   テーマの変更とショートコードでの構築
+*   WordPress テーマでカスタマイザーを使用する方法
+*   ページビルダー：良い、悪い、改善の必要性
+*   ハッカソンナイト — 問題を持ち寄って、みんなで解決する.
+*   JavaScript ライブラリと WordPress テーマ開発
+*   WordPress サイトで REST API を利用する
 
 [Top ↑](#top)
 
 WordPress Customization [#WordPress Customization](#wordpress-customization)
 ----------------------------------------------------------------------------
 
-*   Design customization
+<!--*   Design customization
 *   Design for Accessibility: Color Blind, Nearsightedness, and Vision-impaired
 *   Internationalizing And Localizing Your WordPress Theme
-*   Customize WordPress Child Themes and it’s importance
+*   Customize WordPress Child Themes and it’s importance-->
+*   デザインのカスタマイズ
+*   アクセシビリティのためのデザイン：色盲、近視、視力障害
+*   あなたの WordPress テーマの国際化と地域化
+*   WordPress の子テーマのカスタマイズと、その重要性
 
 [Top ↑](#top)
 
 WordPress Experience [#WordPress Experience](#wordpress-experience)
 -------------------------------------------------------------------
 
-*   New experience that you learn throughout the journey of WordPress
+<!--*   New experience that you learn throughout the journey of WordPress
 *   Support
 *   Giving back
 *   Community
@@ -85,7 +101,22 @@ WordPress Experience [#WordPress Experience](#wordpress-experience)
 *   Content Marketing: Long-form versus Short-form
 *   Building Your First Plugin
 *   The Importance Of Github To Every Developer
-*   Gutenberg and my thoughts!
+*   Gutenberg and my thoughts!-->
+*   WordPress を通して学んだ新しい経験について
+*   サポート
+*   恩返し
+*   コミュニティー
+*   バックアップの方法
+*   ベストプラクティス
+*   開発環境のサイト速度 （ 3G、2G ）
+*   非営利団体、中小企業、ブログ向けに必要なプラグイン
+*   モデレートされたフォーラム：なぜブログや Facebook グループではなく、パスワードで保護されたサイトフォーラムを持つのか？
+*   If SEO is more than a plugin, how do I start to rank?
+*   コンテンツマーケティング：長文式 vs 短文式
+*   プラグインを作ってみよう
+*   開発者における GitHub の重要性
+*   Gutenberg と私の考え!
+
 
 [Top ↑](#top)
 
