@@ -13,11 +13,11 @@
 *   Follow up with the person after the event with a little more explanation, and to thank them for being so willing to adjust (assuming of course that they did).
 *   Make sure you follow up with the other organizers.
 -->
-*  優しく、しかしきっぱりと、その行為が WordPress のイベントにとって受け入れられないものであることを説明しましょう。もし必要であれば、その人に出ていってもらうように頼みましょう。公然と非難せずに、しかし問題を無視はしないでください。
-    * 争いを解決するための３つパートに分かれた方法が役に立つでしょう : 「あなたが … したとき、私は … と感じました。次は … してください」
-    * 他の手段としては状況を思い出させるアプローチがあります 「これはファミリーフレンドリーなイベントということを忘れないでください。私たちは … しないのです。」
-    * 全てがうまくいかなかったら、冷静にしかしありのままに言いましょう 「それは我々の行動規範に反しているようです」
-*   イベント終了後にもう少し説明をしてフォローアップし、対応しようとしてくれていることに感謝しましょう（彼らがしたことに出しゃばったことに対して）。
+*   優しく、しかしきっぱりと、その行為が WordPress のイベントにとって受け入れられないものであることを説明しましょう。もし必要であれば、その人に出ていってもらうように頼みましょう。公然と非難せずに、しかし問題を無視はしないでください。
+    *   争いを解決するためには３つのパートに分けた方法が役に立つでしょう : 「あなたが … したとき、私は … と感じました。次は … してください。」
+    *   他の手段として、状況を思い出させるというアプローチがあります 「これはファミリーフレンドリーなイベントということを忘れないでください。私たちは … しないのです。」
+    *   全てがうまくいかなかったら、冷静に、しかしありのままに伝えましょう 「それは我々の行動規範に反しているようです。」
+*   イベント終了後にもう少し説明をしてフォローアップし、対応してくれたことに感謝しましょう（もちろん、彼らがそうしたと仮定して）。
 *   他の主催者と一緒にフォローアップするようにしてください。
 
 <!-- Attendees and community members can use the [Incident Reporting form](https://central.wordcamp.org/incident-report/) to report issues that come up with their local community organizers, to someone other than their local community organizers. -->
