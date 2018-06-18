@@ -18,17 +18,25 @@ Topics
         *   [Lightning Presentation](#lightning-presentation)
         *   [Super Lightning](#super-lightning)
 
-Meetups are an important part of the WordPress experience. It’s good to meet people, build networks, and learn new skills. But what if you feel like your Meetup is stuck? The Marketing Team has put together some ideas to help.
+<!-- Meetups are an important part of the WordPress experience. It’s good to meet people, build networks, and learn new skills. But what if you feel like your Meetup is stuck? The Marketing Team has put together some ideas to help. -->
+Meetup は WordPress 体験において重要な部分を担っています。人々が出会い、ネットワークを構築し、新しいスキルを学ぶのは良いことです。しかし、あなたの Meetup が停滞しているような気がしたら？ マーケティングチームは、協力するためのアイディアをまとめました。
 
-What are some Meetup Formats? [#What are some Meetup Formats?](#what-are-some-meetup-formats)
+
+<!-- What are some Meetup Formats? [#What are some Meetup Formats?](#what-are-some-meetup-formats) -->
+Meetup のフォーマットにはどんなものがありますか？ [#What are some Meetup Formats?](#what-are-some-meetup-formats)
 ---------------------------------------------------------------------------------------------
 
-*   Invite speakers from other Meetups to deliver their session remotely, using Zoom or Hangout.
+<!-- *   Invite speakers from other Meetups to deliver their session remotely, using Zoom or Hangout.
 *   Play talks from WordPress.tv. during the Meetup.
 *   Lightning talks are a great way to help new speakers and encourage participation.
-*   Q & A sessions at Meetups are always a good way to help the audience with speciifc questions and find out where they are.
+*   Q & A sessions at Meetups are always a good way to help the audience with speciifc questions and find out where they are. -->
+*   ハングアウトや Zoom を使って、他の地域の Meetup から オンラインでセッションスピーカーを招待しましょう。
+*   WordPress.tv を Meetup 中に見て、それについて話しましょう
+*   ライトニングトーク (LT) は新しいスピーカーを作り、参加を促す素晴らしい方法です
+*   Meetup での Q＆A セッションは、常に参加者を助け、またみんなの興味がどこにあるかを知ることができる良い方法です。
 
-Meetup Topic Categories [#Meetup Topic Categories](#meetup-topic-categories)
+<!--Meetup Topic Categories [#Meetup Topic Categories](#meetup-topic-categories) -->
+Meetup のトピックカテゴリー
 ============================================================================
 
 [Top ↑](#top)

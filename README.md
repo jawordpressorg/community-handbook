@@ -1,6 +1,9 @@
-# WordPress Community Handbooks 日本語訳
+# WordPress コミュニティハンドブック
 
-こちらは WordPress コミュニティハンドブックの翻訳用リポジトリです。
+こちらは [WordPress Community Handbooks](https://make.wordpress.org/community/handbook/) の翻訳用リポジトリです。
+
+Meetup Organizer Handbook の翻訳は meetup-organizer ディレクトリ内にあります。
+ブラウザ上で翻訳したいmdファイルをクリックし、鉛筆マークの「Edit this file」をクリックすることでブラウザ上でも更新（プルリクエスト）できます。
 
 ## 翻訳方法
 
@@ -9,6 +12,8 @@ __原文例：__
 ```
 # Welcome
 ```
+
+__手順：__
 
 1.  原文をコメントアウトします。
     ```
@@ -19,5 +24,14 @@ __原文例：__
     <!-- # Welcome -->
     # ようこそ
     ```
+3.  `master` ブランチにプルリクエストします。
 
-翻訳の最小単位は段落単位 (空行から空行まで) でお願いします。
+_翻訳の最小単位 (コメントアウトの単位) は段落 (空行から空行まで) でお願いします。_
+
+## 原文更新方法
+
+1.  [`en` ブランチ](https://github.com/jawordpressorg/community-handbook/tree/en)をチェックアウトします。
+2.  原文を更新します。
+3.  [`en` ブランチ](https://github.com/jawordpressorg/community-handbook/tree/en)にプルリクエストします。
+
+_`en` ブランチには翻訳を含めないでください。_
