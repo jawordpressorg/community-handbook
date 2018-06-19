@@ -1,5 +1,4 @@
-Handling Catering
-=================
+# Handling Catering
 
 Because do_action events are full day affairs, you need to provide food for your participants. This usually involves the following:
 
