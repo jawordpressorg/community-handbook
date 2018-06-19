@@ -23,10 +23,10 @@
 出席者とコミニティーのメンバーは、地域コミュニティの主催者との間で起こった問題を [違反行為の報告フォーム](https://central.wordcamp.org/incident-report/) を使い、地域コミュニティ主催者以外の人へ報告することができます。
 
 <!-- Creating an inclusive environment is an ongoing process of gentle course correction. No one ever got everything right the first time they tried, but we all get better with each nudge in the right direction. -->
-開放的な環境を作り出すことは、穏やかにコースを補正していく一連の作業です。最初に試してみたときに、すべてのものが正しいものになるわけではありません。
+包括的な環境作りとは、終わることのない穏やかな方向修正の連続です。最初からすべてが出来る人はいません、一つ一つを正しい方向へ近づけていくことで、私たちは上達するのです。
 
 <!-- **Note:** Very importantly, if the situation turns physically aggressive, violent, or otherwise dangerous, do not try to handle it yourself. Call the police if required. -->
-**注釈:** 非常に重要なのは、状況が物理的に積極的、暴力的、あるいは危険なものに変わった場合は、それを自分で処理しないことです。必要に応じて警察に電話してください。
+**注意事項:** 非常に重要なのは、攻撃的、暴力的、それ以外にも危険な状況になった場合、自分自身で対応しないこと。必要であれば、警察に通報しましょう。
 
 <!-- Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/responding-to-code-of-conduct-violations/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes) section of the welcome page if you have any questions about quizzes and how to navigate them. -->
 ヒント: この記事について[ひとつのクイズ](https://community-self-training.mystagingwebsite.com/quiz/responding-to-code-of-conduct-violations/)があります。クイズについてどのように回答すればよいかなどなにか質問があれば[クイズについて](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes)を読んでください。
