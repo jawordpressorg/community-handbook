@@ -137,7 +137,3 @@ WordPress Community Support PBC が費用を負担する制度が存在する前
 [![Selection_027](https://make.wordpress.org/community/files/2015/09/Selection_027.png)](https://make.wordpress.org/community/files/2015/09/Selection_027.png)
 
 Good luck with the quizzes! And please use the #community-team channel on [our Slack](https://chat.wordpress.org) to report if a quiz question is incorrect or ambiguous.
-
-[Show Comments](#)
-
-[Meetup Program Basics →](https://make.wordpress.org/community/handbook/meetup-organizer/meetup-program-basics/ "Meetup Program Basics")
