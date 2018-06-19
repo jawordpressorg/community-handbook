@@ -29,4 +29,4 @@
 _それだけです!_
 
 <!-- The rest of these handbook pages deal with the specifics of how all of those things work, so use the links in the menu on the side and you’ll soon be on your way to your first local do_action event. -->
-このハンドブックの残りのページでどのようにこれらのことが働くかを具体的に扱いますので、サイドのメニューのリンクを使ってください、それであなたはすぐに最初の地域の do_action イベントへの道を知るでしょう。
+このハンドブックの残りのページでこれらのことがどのように働くかを具体的に扱いますので、サイドのメニューのリンクを使ってください、そうすればあなたはすぐにあなたの最初の地域の do_action イベントへの道にいるでしょう。
