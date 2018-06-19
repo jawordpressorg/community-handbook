@@ -1,5 +1,5 @@
 <!-- # Specific Meetup Info -->
-Meetup の具体的情報
+# Meetup の具体的情報
 
 <!-- Alert: This is a template that may inspire the text for your local Meetup group page. -->
 注: これはローカル Meetup グループページのテキストの参考にしていただくためのテンプレートです。
