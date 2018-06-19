@@ -1,8 +1,6 @@
-Getting Started
-=====================
+# Getting Started
 
-Topics
-------
+### Topics
 
 *   [What sort of meetup should I organize?](#what-sort-of-meetup-should-i-organize)
 *   [Where should we hold our meetup?](#where-should-we-hold-our-meetup)
@@ -12,8 +10,7 @@ Topics
 *   [How do I make our meetup attractive to people?](#how-do-i-make-our-meetup-attractive-to-people)
 *   [How do I spread the word about our meetup?:](#how-do-i-spread-the-word-about-our-meetup)
 
-What sort of meetup should I organize? [#What sort of meetup should I organize?](#what-sort-of-meetup-should-i-organize)
-------------------------------------------------------------------------------------------------------------------------
+## What sort of meetup should I organize? [#What sort of meetup should I organize?](#what-sort-of-meetup-should-i-organize)
 
 Your WordPress meetup event can be anything you like. Who are the people you have talked to about setting up your meetup interested in? Start there.
 
@@ -21,8 +18,7 @@ If you are looking for inspiration about the kinds of meetups that people host,�
 
 [Top ↑](#top)
 
-Where should we hold our meetup? [#Where should we hold our meetup?](#where-should-we-hold-our-meetup)
-------------------------------------------------------------------------------------------------------
+## Where should we hold our meetup? [#Where should we hold our meetup?](#where-should-we-hold-our-meetup)
 
 Where you hold your meetup will depend on the kind of meetup you have. If it’s a casual hangout, then coffee shops and public spaces are a great idea. If you are keen on doing some educational or informational meetups, you may want to look at your city or town’s public education locations.
 
@@ -44,8 +40,7 @@ To ensure that meetups are as inclusive as possible, we now ask organizers to a
 
 [Top ↑](#top)
 
-How do I post my meetup on meetup.com? [#How do I post my meetup on meetup.com?](#how-do-i-post-my-meetup-on-meetup-com)
-------------------------------------------------------------------------------------------------------------------------
+## How do I post my meetup on meetup.com? [#How do I post my meetup on meetup.com?](#how-do-i-post-my-meetup-on-meetup-com)
 
 In the center column of your group’s meetup.com home page just below the title of your group you will see a plus sign (+) and the text “Suggest a new meetup”. Select that and complete the following information.
 
@@ -69,8 +64,7 @@ Here are some suggestions for event title formats that start with a targeted use
 
 [Top ↑](#top)
 
-Who is eligible to speak at our event? [#Who is eligible to speak at our event?](#who-is-eligible-to-speak-at-our-event)
-------------------------------------------------------------------------------------------------------------------------
+## Who is eligible to speak at our event? [#Who is eligible to speak at our event?](#who-is-eligible-to-speak-at-our-event)
 
 Event organizers for meetups should [follow the same rules as WordCamp](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/planning-details/speakers/) when finding eligible speakers. We do ask that individuals do not schedule meetups in order to sell products or services.
 
@@ -78,8 +72,7 @@ Teaching a workshop organized by an official meetup group is a contribution to t
 
 [Top ↑](#top)
 
-Can I get sponsors for our meetup? [#Can I get sponsors for our meetup?](#can-i-get-sponsors-for-our-meetup)
-------------------------------------------------------------------------------------------------------------
+## Can I get sponsors for our meetup? [#Can I get sponsors for our meetup?](#can-i-get-sponsors-for-our-meetup)
 
 Please read the [following post before you continue](https://make.wordpress.org/community/2014/05/07/meetup-sponsorships-and-other-local-community-stuff/).
 
@@ -89,8 +82,7 @@ Handling money for a community event can get complicated quickly (taxes! transpa
 
 [Top ↑](#top)
 
-How do I make our meetup attractive to people? [#How do I make our meetup attractive to people?](#how-do-i-make-our-meetup-attractive-to-people)
-------------------------------------------------------------------------------------------------------------------------------------------------
+## How do I make our meetup attractive to people? [#How do I make our meetup attractive to people?](#how-do-i-make-our-meetup-attractive-to-people)
 
 There are many ways to help attract members to your event. Please keep in mind that it may take one or two tries to gain traction while others may be a smash hit from the start. Some suggestions for the event itself:
 
@@ -101,8 +93,7 @@ There are many ways to help attract members to your event. Please keep in mind t
 
 [Top ↑](#top)
 
-How do I spread the word about our meetup?: [#How do I spread the word about our meetup?:](#how-do-i-spread-the-word-about-our-meetup)
---------------------------------------------------------------------------------------------------------------------------------------
+## How do I spread the word about our meetup?: [#How do I spread the word about our meetup?:](#how-do-i-spread-the-word-about-our-meetup)
 
 *   Meetup.com: Any scheduled events will be shared with the meetup group via email. Please keep in mind users have the option to turn this feature of meetup off and may not receive your meetup emails.
 *   Meetup.com: group message board

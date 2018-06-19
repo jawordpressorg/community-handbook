@@ -1,8 +1,6 @@
-Contributor Day
-===============
+# Contributor Day
 
-Topics
-------
+## Topics
 
 *   [Roles](#roles)
 *   [Before the Contributor Day](#before-the-contributor-day)
@@ -13,8 +11,7 @@ So you want to host a contributor day at your WordCamp. Awesome!
 
 The Global Community Team thinks contributor days are great and would love to see more WordCamps hosting contributor days. Below is an outline of what to expect and what to plan for.
 
-Roles [#Roles](#roles)
-----------------------
+## Roles [#Roles](#roles)
 
 Contributor Days generally need two people to lead things: one to organize the logistics and one to organize the contributor teams (see below) and lead the day of the event.
 
@@ -24,8 +21,7 @@ As far as organizing the day-of, the best person will be someone local to the co
 
 [Top ↑](#top)
 
-Before the Contributor Day [#Before the Contributor Day](#before-the-contributor-day)
--------------------------------------------------------------------------------------
+## Before the Contributor Day [#Before the Contributor Day](#before-the-contributor-day)
 
 Contributor days should be free. While everyone gets value from contributor days, it is important that new contributors feel welcome and invited. Paying to contribute makes them less interested and is not great anyway because we are asking them to give up a day for WordPress. That means you will need to build the cost of the contributor day into your budget, including venue, lunch (see below), and any other expenses.
 
@@ -43,8 +39,7 @@ Remind attendees to bring their laptops (or tablets). It seems logical, but many
 
 [Top ↑](#top)
 
-The Contributor Day [#The Contributor Day](#the-contributor-day)
-----------------------------------------------------------------
+## The Contributor Day [#The Contributor Day](#the-contributor-day)
 
 Attendance will be lower than planned. Because contributor days are free – and sign up is free – attendance will be lower than your sign ups. This is true with all free or inexpensive events.
 
@@ -60,8 +55,7 @@ Give a preview of the focus areas. Each contributor lead should introduce their 
 
 [Top ↑](#top)
 
-What areas can people contribute to? [#What areas can people contribute to?](#what-areas-can-people-contribute-to)
-------------------------------------------------------------------------------------------------------------------
+## What areas can people contribute to? [#What areas can people contribute to?](#what-areas-can-people-contribute-to)
 
 There is a complete list at make.wordpress.org, but below is a list, along with links to how to get started with that team at a contributor day. For each team you are planning on supporting at your contributor day, you will want to have someone familiar with contributing to that group and familiar with the contributor day page (a group lead). Different groups will do different things, but your group lead should be prepared for both experienced contributors and new contributors.
 

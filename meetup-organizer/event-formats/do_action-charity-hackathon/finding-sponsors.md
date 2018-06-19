@@ -1,5 +1,4 @@
-Finding Sponsors
-================
+# Finding Sponsors
 
 Now that you have got this far in planning your do_action hackathon, you will notice that the costs for this kind of event are actually relatively low. In fact, the only real costs are for the venue hire and the catering – both of which can often be reduced due to this being a charity event.
 

@@ -1,5 +1,4 @@
-Group Management Topics
-=======================
+# Group Management Topics
 
 ### Topics
 
@@ -34,7 +33,7 @@ Some examples:
 
 [Top ↑](#top)
 
-###  Special Offer Emails [# Special Offer Emails](#%c2%a0special-offer-emails)
+### Special Offer Emails [# Special Offer Emails](#%c2%a0special-offer-emails)
 
 #### As an organizer, can I send special offer emails to members, through the meetup system, from a business or another member? [#As an organizer, can I send special offer emails to members, through the meetup system, from a business or another member?](#as-an-organizer-can-i-send-special-offer-emails-to-members-through-the-meetup-system-from-a-business-or-another-member)
 

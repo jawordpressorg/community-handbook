@@ -1,5 +1,4 @@
-Getting Started
-===============
+# Getting Started
 
 **So you want to organise your own do_action event? Great – welcome on board!**
 

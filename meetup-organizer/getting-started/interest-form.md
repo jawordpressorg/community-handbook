@@ -1,5 +1,4 @@
-Meetup Interest Form
-====================
+# Meetup Interest Form
 
 We have a central account at meetup.com for WordPress meetups. If you’d like to start a meetup group in your city, we’ll cover the meetup.com dues if you promise to stick to a few simple guidelines with the meetup group:
 

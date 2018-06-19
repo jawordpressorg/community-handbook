@@ -1,5 +1,4 @@
-Building And Growing A Meetup
-=====================
+# Building And Growing A Meetup
 
 Having a Great Organizing Team
 

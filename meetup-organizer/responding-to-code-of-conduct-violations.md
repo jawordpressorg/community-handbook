@@ -1,5 +1,4 @@
-Responding to Code of Conduct Violations
-========================================
+# Responding to Code of Conduct Violations
 
 We wish it would never happen, but sometimes as organizers we have to respond to bad behavior at our events. If you see or hear about any behavior that is making the event less welcoming or more intolerant, then please take the following steps:
 

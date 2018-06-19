@@ -1,8 +1,6 @@
-Suggestions for Meetup Content
-==============================
+# Suggestions for Meetup Content
 
-Topics
-------
+## Topics
 
 *   [What are some Meetup Formats?](#what-are-some-meetup-formats)
 
@@ -20,21 +18,18 @@ Topics
 
 Meetups are an important part of the WordPress experience. It’s good to meet people, build networks, and learn new skills. But what if you feel like your Meetup is stuck? The Marketing Team has put together some ideas to help.
 
-What are some Meetup Formats? [#What are some Meetup Formats?](#what-are-some-meetup-formats)
----------------------------------------------------------------------------------------------
+## What are some Meetup Formats? [#What are some Meetup Formats?](#what-are-some-meetup-formats)
 
 *   Invite speakers from other Meetups to deliver their session remotely, using Zoom or Hangout.
 *   Play talks from WordPress.tv. during the Meetup.
 *   Lightning talks are a great way to help new speakers and encourage participation.
 *   Q & A sessions at Meetups are always a good way to help the audience with speciifc questions and find out where they are.
 
-Meetup Topic Categories [#Meetup Topic Categories](#meetup-topic-categories)
-============================================================================
+# Meetup Topic Categories [#Meetup Topic Categories](#meetup-topic-categories)
 
 [Top ↑](#top)
 
-WordPress Core [#WordPress Core](#wordpress-core)
--------------------------------------------------
+## WordPress Core [#WordPress Core](#wordpress-core)
 
 *   New Plugin
 *   New Skill
@@ -51,8 +46,7 @@ WordPress Core [#WordPress Core](#wordpress-core)
 
 [Top ↑](#top)
 
-WordPress Customization [#WordPress Customization](#wordpress-customization)
-----------------------------------------------------------------------------
+## WordPress Customization [#WordPress Customization](#wordpress-customization)
 
 *   Design customization
 *   Design for Accessibility: Color Blind, Nearsightedness, and Vision-impaired
@@ -61,8 +55,7 @@ WordPress Customization [#WordPress Customization](#wordpress-customization)
 
 [Top ↑](#top)
 
-WordPress Experience [#WordPress Experience](#wordpress-experience)
--------------------------------------------------------------------
+## WordPress Experience [#WordPress Experience](#wordpress-experience)
 
 *   New experience that you learn throughout the journey of WordPress
 *   Support
@@ -81,8 +74,7 @@ WordPress Experience [#WordPress Experience](#wordpress-experience)
 
 [Top ↑](#top)
 
-WordPress For End Users/ Bloggers [#WordPress For End Users/ Bloggers](#wordpress-for-end-users-bloggers)
----------------------------------------------------------------------------------------------------------
+## WordPress For End Users/ Bloggers [#WordPress For End Users/ Bloggers](#wordpress-for-end-users-bloggers)
 
 *   Support
 *   Must-needed plugins for blogs
@@ -95,8 +87,7 @@ WordPress For End Users/ Bloggers [#WordPress For End Users/ Bloggers](#wordpres
 
 [Top ↑](#top)
 
-WordPress as Business [#WordPress as Business](#wordpress-as-business)
-----------------------------------------------------------------------
+## WordPress as Business [#WordPress as Business](#wordpress-as-business)
 
 *   Why Accessibility Matters to a Small Business Site
 *   Support
@@ -115,8 +106,7 @@ WordPress as Business [#WordPress as Business](#wordpress-as-business)
 
 [Top ↑](#top)
 
-How to WordPress (Tutorial) [#How to WordPress (Tutorial)](#how-to-wordpress-tutorial)
---------------------------------------------------------------------------------------
+## How to WordPress (Tutorial) [#How to WordPress (Tutorial)](#how-to-wordpress-tutorial)
 
 *   Training (ie [Speaker Training – see curriculum](https://make.wordpress.org/training/handbook/speaker-training/) )
 *   Unique something for developers that most of the people dont know
@@ -129,8 +119,7 @@ How to WordPress (Tutorial) [#How to WordPress (Tutorial)](#how-to-wordpress-tut
 
 [Top ↑](#top)
 
-Ways to make these talks work for you. [#Ways to make these talks work for you.](#ways-to-make-these-talks-work-for-you)
-------------------------------------------------------------------------------------------------------------------------
+## Ways to make these talks work for you. [#Ways to make these talks work for you.](#ways-to-make-these-talks-work-for-you)
 
 ### Full-Length Presentation [#Full-Length Presentation](#full-length-presentation)
 

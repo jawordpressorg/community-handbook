@@ -1,6 +1,6 @@
 # Welcome
 
-## Topics
+### Topics
 
 *   [Starting a New Meetup.com Group](#starting-a-new-meetup-com-group)
 *   [Adding an Existing Meetup.com Group](#adding-an-existing-meetup-com-group)

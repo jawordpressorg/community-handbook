@@ -1,5 +1,4 @@
-Event Formats
-=============
+# Event Formats
 
 Sometimes getting started organizing an event can be a little overwhelming. It does not have to be though. Not every Meetup event needs to be a formal lecture with questions and answers in a rented venue. Meetup events can be as formal or informal as you want them to be. Having a variety of event types can help communities create the kind of group that really makes connections among WordPress enthusiasts.
 
