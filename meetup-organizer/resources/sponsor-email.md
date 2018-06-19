@@ -30,28 +30,37 @@ Why Sponsor \[Your Group Name\]? -->
 なぜ【Meetup グループ名】をスポンサーするのか？
 
 <!-- By sponsoring \[Your Group Name\] you will have the opportunity to partner with a key target audience of WordPress users, designers, developers, and business people. This group of decision makers are sophisticated web professionals and heavily dependent on web services. -->
-【Meetup グループ名】をスポンサーすることによって、御社は WordPress のユーザー、デザイナー、開発者そして事業者などの主要なターゲットユーザーとパートナーシップを結ぶ機会があります。意思決定者であるこれらの人々は、高度な Web の専門家であり、 Web サービスに大きく関わっています。
+【Meetup グループ名】をスポンサーすることによって、 WordPress のユーザー、デザイナー、開発者そして事業者などの主要なターゲットユーザーとパートナーシップを結ぶ機会があります。意思決定者であるこれらの人々は、高度な Web の専門家であり、 Web サービスに大きく関わっています。
 
 <!-- By sponsoring \[Your Group Name\], you are not only presenting yourself to the attendees of this event, but also gaining exposure throughout their network of WordPress users and web professionals around the world. -->
-【Meetup グループ名】をスポンサーすることによって、御社はこのイベントの出席者に自分自身を紹介するということだけでなく、世界各地の WordPress ユーザーや Web プロフェッショナルのネットワークを通して知らしめることができます。
+【Meetup グループ名】をスポンサーすることによって、このイベントの出席者にあなた自身を紹介するということだけでなく、世界各地の WordPress ユーザーや Web プロフェッショナルのネットワークを通して知ってもらうことができます。
 
 <!-- WordPress users are heavily connected, not just locally but internationally, so your support may be observed, not just in \[your town/country\], but also beyond. -->
-WordPress ユーザーは、ローカルだけではなく世界的に深くつながっているため、御社のサポートは【あなたの都市／国】だけにとどまらず、さらに広く知られるかもしれません。
+WordPress ユーザーは、ローカルだけではなく世界的に深くつながっているため、あなたのサポートは【あなたの都市／国】だけにとどまらず、さらに広く知られるかもしれません。
 
-What will your sponsorship do?
+<!-- What will your sponsorship do? -->
+スポンサーによる支援とは何をするのか？
 
-WordPress meetups are strongly geared towards making WordPress as open and accessible to anyone who is interested in learning about using it, developing for it, or making a business out of it. Our meetups are inclusive, welcoming and open to anyone at no cost.
+<!-- WordPress meetups are strongly geared towards making WordPress as open and accessible to anyone who is interested in learning about using it, developing for it, or making a business out of it. Our meetups are inclusive, welcoming and open to anyone at no cost. -->
+WordPress Meetup は WordPress を使用すること、開発すること、またはその中からビジネスを創造すること等、 WordPress に興味を持っている人が誰でもアクセスできるように強く配慮されています。私たちのミートアップは包括的であり、どんな人でも無料で歓迎します。
 
-Sponsorships allow us to offer the Meetup to our members with food and a great venue for free.
+<!-- Sponsorships allow us to offer the Meetup to our members with food and a great venue for free. -->
+スポンサーによる後援で、私たちはイベント参加者に対して、無料で食事や会場を提供することができです。
 
-What will \[Your Group Name\] do for you?
+<!-- What will \[Your Group Name\] do for you? -->
+【Meetup グループ名】はあなたに何をもたらすのか？
 
-In return for your sponsorship, we will feature your logo, URL and a short description on our Meetup page and website. We will add your logo and details, with a description of your business on our Meetup news slides and give you a shout out at the event.
+<!-- In return for your sponsorship, we will feature your logo, URL and a short description on our Meetup page and website. We will add your logo and details, with a description of your business on our Meetup news slides and give you a shout out at the event. -->
+スポンサーの後援と引き換えに、私たちは Meetup のページや Web サイトにあなたのロゴや URL 、短い説明などを掲載します。私たちはあなたのビジネス情報を Meetup のお知らせにあなたのロゴや説明を追加して、そのイベントで告知します。
 
-From time to time, we will send you updates of what your sponsorship has done for WordPress \[your-town\], including pictures of recent events.
+<!-- From time to time, we will send you updates of what your sponsorship has done for WordPress \[your-town\], including pictures of recent events. -->
+WordPress 【町の名前】に対してどんな後援がされたか、最近のイベントの写真を含めて更新内容を随時お知らせします。
 
-Thank you for taking the time to consider sponsoring \[Your Group Name\]. Please do not hesitate to contact us if you would like to discuss this further or have any questions.
+<!-- Thank you for taking the time to consider sponsoring \[Your Group Name\]. Please do not hesitate to contact us if you would like to discuss this further or have any questions. -->
+【Meetup グループ名】への支援をご考慮いただき、ありがとうございます。ご相談、ご質問がございましたら、お気軽にお問い合わせください。
 
-We looking forward to the possibility of working with you.
+<!-- We looking forward to the possibility of working with you. -->
+私たちはあなたと働く可能性を楽しみにしています。
 
-\[Your Group Name\]
+<!-- \[Your Group Name\] -->
+【Meetup グループ名】
