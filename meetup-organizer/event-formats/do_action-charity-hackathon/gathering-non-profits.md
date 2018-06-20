@@ -1,5 +1,4 @@
-Gathering Non-profits
-=====================
+# Gathering Non-profits
 
 Once you have your event details live, you can use the page to promote your event and show people what it’s all about. The initial use, however, will be to gather applications from local non-profits – something that this site will handle for you.
 
@@ -15,8 +14,7 @@ How you select your final non-profits is largely up to you (but read the note be
 
 You will notice that all of the available build team roles will be added to each non-profit automatically. If you feel that one of your non-profits does not need all of these roles, or would benefit from some additional role, then you can go ahead and edit that list and individualise it for each organisation.
 
-A note about selecting non-profits
-----------------------------------
+## A note about selecting non-profits
 
 The criteria for selecting your non-profits are rather broad, so this is very much in your hands. We do, however, strongly recommend the following as guidelines:
 

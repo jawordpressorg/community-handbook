@@ -1,5 +1,4 @@
-WordPress 15th Anniversary Celebrations
-=======================================
+# WordPress 15th Anniversary Celebrations
 
 .toc-jump { text-align: right; font-size: 12px; } .page .toc-heading { margin-top: -50px; padding-top: 50px !important; }
 

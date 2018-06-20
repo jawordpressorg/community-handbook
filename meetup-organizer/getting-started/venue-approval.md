@@ -1,5 +1,4 @@
-Meetup Venue Approval Request
-=============================
+# Meetup Venue Approval Request
 
 WordPress Community Support will cover the costs of a meetup venue if a donated venue cannot be found. If you are going to ask for WordPress Community Support to cover the costs of a meetup venue, the following conditions must be met:
 

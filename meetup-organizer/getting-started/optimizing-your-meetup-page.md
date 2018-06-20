@@ -1,5 +1,4 @@
-Optimizing Your Meetup Page
-===========================
+# Optimizing Your Meetup Page
 
 ### Topics
 

@@ -1,5 +1,4 @@
-When a Group Leaves the Chapter Program
-=======================================
+# When a Group Leaves the Chapter Program
 
 Sometimes a group will leave the chapter program. Reasons include:
 
