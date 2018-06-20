@@ -29,6 +29,14 @@ __手順：__
     ```
 3.  __`master` ブランチにプルリクエストします。__
 
+## 進捗シート
+
+[Meetup Organizer Handbook / WordCamp Organizer Handbook 翻訳の進捗シート](https://docs.google.com/spreadsheets/d/1q_d9JIpaXPhqvNBZIdHOmFsMUFIXHd3NqRu2wLgbFXM/edit#gid=629965050) もあります。記入の上参加いただけますと進捗がわかりやすいのでご協力ください。
+
+## 翻訳用語集
+
+翻訳に悩んだ場合はまず[翻訳用語集](https://github.com/jawordpressorg/community-handbook/blob/master/glossary.md)を参照してください。
+
 ## 原文更新方法
 
 1.  [`en` ブランチ](https://github.com/jawordpressorg/community-handbook/tree/en)をチェックアウトします。
@@ -36,7 +44,3 @@ __手順：__
 3.  [`en` ブランチ](https://github.com/jawordpressorg/community-handbook/tree/en)にプルリクエストします。
 
 _`en` ブランチには翻訳を含めないでください。_
-
-[Meetup Organizer Handbook / WordCamp Organizer Handbook 翻訳の進捗シート](https://docs.google.com/spreadsheets/d/1q_d9JIpaXPhqvNBZIdHOmFsMUFIXHd3NqRu2wLgbFXM/edit#gid=629965050) もあります。
-記入の上参加いただけますと進捗がわかりやすいのでご協力ください。
-[翻訳単語集](https://github.com/jawordpressorg/community-handbook/blob/master/glossary.md)
