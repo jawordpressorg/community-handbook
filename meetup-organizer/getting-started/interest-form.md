@@ -28,7 +28,7 @@
 メールアドレス (必須)
 
 <!-- Your City, State/Province, and Country(required) -->
-都道府県、市町村 (必須)
+お住まいの住所 (市町村名まで)
 
 <!-- Is there already a WordPress meetup group in your city? If you don't know, please check meetup.com first.(required) Nope no current meetup group Yes it's the meetup I run now Yes but I want to do a different kind of meetup -->
 あなたの地域には、すでに WordPress Meetup グループがありますか ? もし分からなければ、まずオンライン上で調べてください。(必須)
@@ -42,11 +42,11 @@
 もしすでに、 Meetup グループがある場合、URL を記入してください。
 
 <!-- How would you describe yourself?(required) WordPress professional Current WordPress user or developer New to WordPress I don't use WordPress -->
-あなたは自分をどう紹介しますか？ (必須) 
+あなたについて当てはまるものを回答してください (必須) 
 
 <!-- 選択肢 -->
 WordPress プロフェッショナル
-WordPress ユーザー/開発者
+WordPress ユーザー、または開発者
 WordPress 初心者
 WordPress を使っていません
 
@@ -57,7 +57,7 @@ WordPress.org ユーザーネーム
 Slack ユーザーネーム (ある場合。詳細: chat.wordpress.org)
 
 <!-- Where can we find you online? -->
-オンライン上であなたを見つける方法
+あなたの個人サイトやビジネスサイト
 
 <!-- Anything you'd like to tell us about yourself or what you hope to do with a meetup group? -->
-自己紹介や、Meetup グループでどんなことがしたいかなど、追加で伝えたい情報があればこちらに記入してください。
+自己紹介や、Meetup グループでどんなことがしたいかなど、追加で伝えたいことがあればこちらに記入してください。
