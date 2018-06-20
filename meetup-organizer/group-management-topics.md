@@ -1,6 +1,5 @@
-<!-- Group Management Topics -->
-グループ管理トピック
-=======================
+<!-- # Group Management Topics -->
+# グループ管理トピック
 
 <!-- ### Topics -->
 ### トピック
@@ -46,7 +45,8 @@ Meetup グループの相互交流はコミュニティにとっての大きな�
 
 [Top ↑](#top)
 
-###  <!--Special Offer Emails-->スペシャルオファーメール [# Special Offer Emails](#%c2%a0special-offer-emails)
+<!-- ### Special Offer Emails [# Special Offer Emails](#%c2%a0special-offer-emails) -->
+### スペシャルオファーメール [# Special Offer Emails](#%c2%a0special-offer-emails)
 
 #### <!--As an organizer, can I send special offer emails to members, through the meetup system, from a business or another member?-->運営者として、Meetup.com のシステムを使ってメンバーに対するビジネスや他のメンバーからの特別価格のお知らせメールを送っても良いですか ? [#As an organizer, can I send special offer emails to members, through the meetup system, from a business or another member?](#as-an-organizer-can-i-send-special-offer-emails-to-members-through-the-meetup-system-from-a-business-or-another-member)
 

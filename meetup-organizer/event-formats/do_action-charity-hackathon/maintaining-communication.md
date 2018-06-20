@@ -1,5 +1,4 @@
-Maintaining Communication
-=========================
+# Maintaining Communication
 
 When your participants sign up for the event, they will immediately receive a confirmation email and they will be able to find all of the relevant info from the event page itself. This is great and it takes a lot of the manual administration off your shoulders, but even so, it is still a good idea to keep in occasional contact with your non-profits and your participants in the weeks leading up to the event – especially in the final week(s) before the event takes place.
 

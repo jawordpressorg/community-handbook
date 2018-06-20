@@ -1,9 +1,8 @@
 <!--Suggestions for Meetup Content-->
-Meetup コンテンツの提案  
-==============================
+# Meetup コンテンツの提案
+=====================================
 
-Topics
-------
+## Topics
 
 *   [What are some Meetup Formats?](#what-are-some-meetup-formats)
 
@@ -22,10 +21,8 @@ Topics
 <!-- Meetups are an important part of the WordPress experience. It’s good to meet people, build networks, and learn new skills. But what if you feel like your Meetup is stuck? The Marketing Team has put together some ideas to help. -->
 Meetup は WordPress 体験において重要な部分を担っています。人々が出会い、ネットワークを構築し、新しいスキルを学ぶのは良いことです。しかし、あなたの Meetup が停滞しているような気がしたら？ マーケティングチームは、協力するためのアイディアをまとめました。
 
-
-<!-- What are some Meetup Formats? [#What are some Meetup Formats?](#what-are-some-meetup-formats) -->
-Meetup のフォーマットにはどんなものがありますか？ [#What are some Meetup Formats?](#what-are-some-meetup-formats)
----------------------------------------------------------------------------------------------
+<!-- ## What are some Meetup Formats? [#What are some Meetup Formats?](#what-are-some-meetup-formats) -->
+## Meetup のフォーマットにはどんなものがありますか？ [#What are some Meetup Formats?](#what-are-some-meetup-formats)
 
 <!-- *   Invite speakers from other Meetups to deliver their session remotely, using Zoom or Hangout.
 *   Play talks from WordPress.tv. during the Meetup.
@@ -36,14 +33,12 @@ Meetup のフォーマットにはどんなものがありますか？ [#What ar
 *   ライトニングトーク (LT) は新しいスピーカーを作り、参加を促す素晴らしい方法です
 *   Meetup での Q＆A セッションは、常に参加者を助け、またみんなの興味がどこにあるかを知ることができる良い方法です。
 
-<!--Meetup Topic Categories [#Meetup Topic Categories](#meetup-topic-categories) -->
-Meetup のトピックカテゴリー
-============================================================================
+<!-- # Meetup Topic Categories [#Meetup Topic Categories](#meetup-topic-categories) -->
+# Meetup のトピックカテゴリー [#Meetup Topic Categories](#meetup-topic-categories)
 
 [Top ↑](#top)
 
-WordPress Core [#WordPress Core](#wordpress-core)
--------------------------------------------------
+## WordPress Core [#WordPress Core](#wordpress-core)
 
 <!--*   New Plugin
 *   New Skill
@@ -72,9 +67,11 @@ WordPress Core [#WordPress Core](#wordpress-core)
 
 [Top ↑](#top)
 
+
 <!--WordPress Customization-->
-WordPress のカスタマイズ [#WordPress Customization](#wordpress-customization)
+## WordPress のカスタマイズ [#WordPress Customization](#wordpress-customization)
 ----------------------------------------------------------------------------
+
 
 <!--*   Design customization
 *   Design for Accessibility: Color Blind, Nearsightedness, and Vision-impaired
@@ -87,9 +84,11 @@ WordPress のカスタマイズ [#WordPress Customization](#wordpress-customizat
 
 [Top ↑](#top)
 
+
 <!--WordPress Experience-->
-WordPress の体験について [#WordPress Experience](#wordpress-experience)
+## WordPress の体験について [#WordPress Experience](#wordpress-experience)
 -------------------------------------------------------------------
+
 
 <!--*   New experience that you learn throughout the journey of WordPress
 *   Support
@@ -123,8 +122,9 @@ WordPress の体験について [#WordPress Experience](#wordpress-experience)
 
 [Top ↑](#top)
 
+
 <!--WordPress For End Users/ Bloggers-->
-WOrdPress のユーザー向け、ブロガー向けトピック [#WordPress For End Users/ Bloggers](#wordpress-for-end-users-bloggers)
+## WordPress のユーザー向け、ブロガー向けトピック [#WordPress For End Users/ Bloggers](#wordpress-for-end-users-bloggers)
 ---------------------------------------------------------------------------------------------------------
 
 <!--*   Support
@@ -146,9 +146,11 @@ WOrdPress のユーザー向け、ブロガー向けトピック [#WordPress For
 
 [Top ↑](#top)
 
+
 <!--WordPress as Business-->
-ビジネス向け WordPress [#WordPress as Business](#wordpress-as-business)
+## ビジネス向け WordPress [#WordPress as Business](#wordpress-as-business)
 ----------------------------------------------------------------------
+
 
 <!--*   Why Accessibility Matters to a Small Business Site
 *   Support
@@ -181,8 +183,7 @@ WOrdPress のユーザー向け、ブロガー向けトピック [#WordPress For
 
 [Top ↑](#top)
 
-How to WordPress (Tutorial) [#How to WordPress (Tutorial)](#how-to-wordpress-tutorial)
---------------------------------------------------------------------------------------
+## How to WordPress (Tutorial) [#How to WordPress (Tutorial)](#how-to-wordpress-tutorial)
 
 <!--*   Training (ie [Speaker Training – see curriculum](https://make.wordpress.org/training/handbook/speaker-training/) )
 *   Unique something for developers that most of the people dont know
@@ -203,8 +204,7 @@ How to WordPress (Tutorial) [#How to WordPress (Tutorial)](#how-to-wordpress-tut
 
 [Top ↑](#top)
 
-Ways to make these talks work for you. [#Ways to make these talks work for you.](#ways-to-make-these-talks-work-for-you)
-------------------------------------------------------------------------------------------------------------------------
+## Ways to make these talks work for you. [#Ways to make these talks work for you.](#ways-to-make-these-talks-work-for-you)
 
 ### Full-Length Presentation [#Full-Length Presentation](#full-length-presentation)
 

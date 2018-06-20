@@ -1,5 +1,4 @@
-Publishing your Event
-=====================
+# Publishing your Event
 
 Once you have your venue & date secured then you are ready to publish your event info on [the doaction.org site](http://doaction.org/). The advantage to publishing on the site is that a large amount of the manual admin work for the event is taken off your shoulders. Specifically, the site handles the following for you:
 

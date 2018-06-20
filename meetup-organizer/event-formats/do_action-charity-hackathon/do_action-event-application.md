@@ -1,5 +1,4 @@
-do_action Event Application
-===========================
+# do_action Event Application
 
 _Note that we will only look at building do_action events in active WordPress communities – if you do not already have an active local WordPress meetup group, then find out more information about getting one started [here](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/)._
 
