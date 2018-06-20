@@ -37,3 +37,7 @@ _翻訳の最小単位 (コメントアウトの単位) は段落 (空行から�
 3.  [`en` ブランチ](https://github.com/jawordpressorg/community-handbook/tree/en)にプルリクエストします。
 
 _`en` ブランチには翻訳を含めないでください。_
+
+[Meetup Organizer Handbook / WordCamp Organizer Handbook 翻訳の進捗シート](https://docs.google.com/spreadsheets/d/1q_d9JIpaXPhqvNBZIdHOmFsMUFIXHd3NqRu2wLgbFXM/edit#gid=629965050) もあります。
+記入の上参加いただけますと進捗がわかりやすいのでご協力ください。
+[Meetup Organizer Handbook / WordCamp Organizer Handbook 翻訳の進捗シート](https://docs.google.com/spreadsheets/d/1q_d9JIpaXPhqvNBZIdHOmFsMUFIXHd3NqRu2wLgbFXM/edit#gid=629965050) もあります。記入の上参加いただけると進捗がわかりやすいのでご協力ください。
