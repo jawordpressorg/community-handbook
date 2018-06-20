@@ -15,7 +15,7 @@
 <!-- 5.  Meetups are welcoming places where everyone works to foster an accepting environment which is free of discrimination, incitement to violence, promotion of hate, and general jerk-like behavior.-->
 5. Meetup は、友好的な場所で、誰もが受け入れられる環境を、すべての参加者が育てていきます。差別、暴力への扇動、憎悪の促進、人に礼儀をわきまえない振る舞いは禁止されています。
 <!-- We also ask everyone that organizes WordPress Chapter Meetup to uphold the principles of the WordPress open source project, including the GPL. This helps protect the user/attendee, who might not realize that by using a non-GPL plugin or theme, they are giving away the rights that WordPress provides them.-->
-また、すべての公認 WordPress Meetup 運営者は、GPL を含める WordPress オープンソースプロジェクトの原則を支持するよう求められます。これは、そうとは知らずに GPL でないプラグインやテーマを使い、 WordPress から与えられた権利を奪われているユーザーや参加者を守ることに役立ちます。
+また、すべての公認 WordPress Meetup 運営者は、GPL を含める WordPress オープンソースプロジェクトの原則を支持するよう求められます。これは、そうとは知らずに GPL ではないプラグインやテーマを使い、 WordPress から与えられた権利を奪われているユーザーや参加者を守ることに役立ちます。
 <!-- These guidelines were created by volunteers active in current meetup groups. They may change over time based on feedback from the WordPress meetup community.-->
 これらのガイドラインは、 すでに Meetup グループを運営しているボランティアたちにより作られました。今後、WordPress Meetup コミュニティからのフィードバックを元に変更される可能性があります。
 
@@ -45,7 +45,7 @@
 あなたは自分をどう紹介しますか？ (必須) 
 
 <!-- 選択肢 -->
-WordPress プロフェショナル
+WordPress プロフェッショナル
 WordPress ユーザー/開発者
 WordPress 初心者
 WordPress を使っていません
