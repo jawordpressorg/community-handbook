@@ -40,3 +40,4 @@ _`en` ブランチには翻訳を含めないでください。_
 
 [Meetup Organizer Handbook / WordCamp Organizer Handbook 翻訳の進捗シート](https://docs.google.com/spreadsheets/d/1q_d9JIpaXPhqvNBZIdHOmFsMUFIXHd3NqRu2wLgbFXM/edit#gid=629965050) もあります。
 記入の上参加いただけますと進捗がわかりやすいのでご協力ください。
+[翻訳単語集](https://github.com/jawordpressorg/community-handbook/blob/master/glossary.md)
