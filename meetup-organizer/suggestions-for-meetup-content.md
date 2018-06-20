@@ -203,7 +203,7 @@ Meetup は WordPress 体験において重要な部分を担っています。�
 ## うまくトークを働かせる方法　[#Ways to make these talks work for you.](#ways-to-make-these-talks-work-for-you)
 
 <!-- ### Full-Length Presentation -->
-長いセッション [#Full-Length Presentation](#full-length-presentation)
+### 長いセッション [#Full-Length Presentation](#full-length-presentation)
 
 <!-- 30 minutes, followed by a Question and Answer period. This is great for a deep dive into any topic. Try to mix up the type of talks each month. -->
 ３０分間のセッションに FAQ の時間をとりましょう。これは話を深めるためのとても良い方法です。毎月の話し合いの中にぜひ混ぜてみてください。
@@ -226,7 +226,7 @@ Meetup は WordPress 体験において重要な部分を担っています。�
 [Top ↑](#top)
 
 <!-- ### Super Lightning -->
-スーパーライトニングトーク [#Super Lightning](#super-lightning)
+### スーパーライトニングトーク [#Super Lightning](#super-lightning)
 
 <!-- 5 Minute Presentation: Questions at Happiness Session at the end of the evening  
 This is essentially a top tips type of presentation. It moves super fast. -->
