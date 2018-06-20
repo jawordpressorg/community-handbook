@@ -15,7 +15,7 @@
 <!-- 5.  Meetups are welcoming places where everyone works to foster an accepting environment which is free of discrimination, incitement to violence, promotion of hate, and general jerk-like behavior.-->
 5. Meetup は、友好的な場所で、誰もが受け入れられる環境を、すべての参加者が育てていきます。差別、暴力への扇動、憎悪の促進、人に礼儀をわきまえない振る舞いは禁止されています。
 <!-- We also ask everyone that organizes WordPress Chapter Meetup to uphold the principles of the WordPress open source project, including the GPL. This helps protect the user/attendee, who might not realize that by using a non-GPL plugin or theme, they are giving away the rights that WordPress provides them.-->
-また、すべての公認 WordPress Meetup 運営者は、GPL を含める WordPress オープンソースプロジェクトの原則を支持するよう求められます。これは、そうとは知らずに GPL でないプラグインやテーマを使い、 WordPress から与えられた権利を奪われているユーザーや参加者を守ることに役立ちます。
+また、すべての公認 WordPress Meetup 運営者は、GPL を含める WordPress オープンソースプロジェクトの原則を支持するよう求められます。これは、そうとは知らずに GPL ではないプラグインやテーマを使い、 WordPress から与えられた権利を奪われているユーザーや参加者を守ることに役立ちます。
 <!-- These guidelines were created by volunteers active in current meetup groups. They may change over time based on feedback from the WordPress meetup community.-->
 これらのガイドラインは、 すでに Meetup グループを運営しているボランティアたちにより作られました。今後、WordPress Meetup コミュニティからのフィードバックを元に変更される可能性があります。
 
@@ -28,7 +28,7 @@
 メールアドレス (必須)
 
 <!-- Your City, State/Province, and Country(required) -->
-都道府県、市町村 (必須)
+お住まいの住所 (市町村名まで)
 
 <!-- Is there already a WordPress meetup group in your city? If you don't know, please check meetup.com first.(required) Nope no current meetup group Yes it's the meetup I run now Yes but I want to do a different kind of meetup -->
 あなたの地域には、すでに WordPress Meetup グループがありますか ? もし分からなければ、まずオンライン上で調べてください。(必須)
@@ -42,11 +42,11 @@
 もしすでに、 Meetup グループがある場合、URL を記入してください。
 
 <!-- How would you describe yourself?(required) WordPress professional Current WordPress user or developer New to WordPress I don't use WordPress -->
-あなたは自分をどう紹介しますか？ (必須) 
+あなたについて当てはまるものを回答してください (必須) 
 
 <!-- 選択肢 -->
-WordPress プロフェショナル
-WordPress ユーザー/開発者
+WordPress プロフェッショナル
+WordPress ユーザー、または開発者
 WordPress 初心者
 WordPress を使っていません
 
@@ -57,7 +57,7 @@ WordPress.org ユーザーネーム
 Slack ユーザーネーム (ある場合。詳細: chat.wordpress.org)
 
 <!-- Where can we find you online? -->
-オンライン上であなたを見つける方法
+あなたの個人サイトやビジネスサイト
 
 <!-- Anything you'd like to tell us about yourself or what you hope to do with a meetup group? -->
-自己紹介や、Meetup グループでどんなことがしたいかなど、追加で伝えたい情報があればこちらに記入してください。
+自己紹介や、Meetup グループでどんなことがしたいかなど、追加で伝えたいことがあればこちらに記入してください。
