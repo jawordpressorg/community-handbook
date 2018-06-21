@@ -26,7 +26,7 @@
 *   スポンサー
 
 <!-- _That’s it!_ -->
-_これだけです ! _
+_これだけです !_
 
 <!-- The rest of these handbook pages deal with the specifics of how all of those things work, so use the links in the menu on the side and you’ll soon be on your way to your first local do_action event. -->
 このハンドブックの残りのページでこれらのことがどのように働くかを具体的に扱いますので、サイドのメニューのリンクを使ってください、そうすればあなたにとって最初となる地域の do_action イベントへの道が開かれるでしょう。
