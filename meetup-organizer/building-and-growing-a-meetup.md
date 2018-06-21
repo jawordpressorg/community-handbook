@@ -1,6 +1,5 @@
-<!-- Building And Growing A Meetup -->
-Meetup の構築と成長
-=====================
+<!-- # Building And Growing A Meetup -->
+# Meetup の構築と成長
 
 <!-- Having a Great Organizing Team -->
 素晴らしいチームを作る

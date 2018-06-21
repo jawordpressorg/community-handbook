@@ -17,18 +17,25 @@ __原文例：__
 
 __手順：__
 
-1.  原文をコメントアウトします。
+1.  __原文をコメントアウトします。__
     ```
     <!-- # Welcome -->
     ```
-2.  その下に翻訳を追加します。
+    _`<!--` の後ろと、`-->` の前には半角スペースを入れてください。翻訳の最小単位 (コメントアウトの単位) は段落 (空行から空行まで) でお願いします。_
+2.  __コメントアウトした原文の下に翻訳を追加します。__
     ```
     <!-- # Welcome -->
     # ようこそ
     ```
-3.  `master` ブランチにプルリクエストします。
+3.  __`master` ブランチにプルリクエストします。__
 
-_翻訳の最小単位 (コメントアウトの単位) は段落 (空行から空行まで) でお願いします。_
+## 進捗シート
+
+[Meetup Organizer Handbook / WordCamp Organizer Handbook 翻訳の進捗シート](https://docs.google.com/spreadsheets/d/1q_d9JIpaXPhqvNBZIdHOmFsMUFIXHd3NqRu2wLgbFXM/edit#gid=629965050) もあります。記入の上参加いただけますと進捗がわかりやすいのでご協力ください。
+
+## 翻訳用語集
+
+翻訳に悩んだ場合はまず[翻訳用語集](https://github.com/jawordpressorg/community-handbook/blob/master/glossary.md)を参照してください。
 
 ## 原文更新方法
 

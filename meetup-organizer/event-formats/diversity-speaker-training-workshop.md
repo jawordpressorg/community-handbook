@@ -1,5 +1,4 @@
-Diversity Speaker Training Workshop
-===================================
+# Diversity Speaker Training Workshop
 
 Have you ever had trouble getting women and other underrepresented groups to speak at your meetups and WordCamps?
 
