@@ -13,12 +13,12 @@
 <!-- If the report is \*about\* a community organizer, then we’ll reach out to the concerned parties and work to resolve the situation. -->
 報告がコミュニティ主催者についてのものであれば、グローバルコミュニティチームのメンバーは関係者に連絡を取り、状況を解決するために動きます。
 
-<!-- If the report is about behavior that didn’t happen at an “official” event (which is to say, a chapter meetup event, WordCamp, or other workshop organized as part of a global community team program), we’ll request permission to pass the report along to the team it involves (or to the [Escalation Team](https://make.wordpress.org/community/2015/07/02/escalation-team/#comment-22773), currently made up of Josepha Haden Chomphosy, Helen Hou-Sandi, Tammie Lister, Aditya Kane, Morten Rand-Hendriksen, and Jenny Wong).-->
+<!-- If the report is about behavior that didn’t happen at an “official” event (which is to say, a chapter meetup event, WordCamp, or other workshop organized as part of a global community team program), we’ll request permission to pass the report along to the team it involves (or to the [Escalation Team](https://make.wordpress.org/community/2015/07/02/escalation-team/#comment-22773), currently made up of Josepha Haden Chomphosy, Helen Hou-Sandi, Tammie Lister, Aditya Kane, Morten Rand-Hendriksen, and Jenny Wong). -->
 報告が「公式」イベント (チャプター Meetup イベント、WordCamp、その他のグローバルコミュニティチームプログラムとして開催されたワークショップ)以外で起こったことの場合、その報告を関係チーム ([エスカレーションチーム](https://make.wordpress.org/community/2015/07/02/escalation-team/#comment-22773)、現在のメンバーは Josepha Haden Chomphosy、Helen Hou-Sandi、Tammie Lister、Aditya Kane、Morten Rand-Hendriksen、Jenny Wong) に共有するための許可をリクエストします。
 
-<!-- Currently the people who have access to this private mailbox are: Andrea Middleton, Josepha Haden Chomphosy, Cami Kaos, Hugh Lashbrooke, Aditya Kane, Courtney Patubo-Kranzke, and Rocío Valdivia.-->
+<!-- Currently the people who have access to this private mailbox are: Andrea Middleton, Josepha Haden Chomphosy, Cami Kaos, Hugh Lashbrooke, Aditya Kane, Courtney Patubo-Kranzke, and Rocío Valdivia. -->
 現在このプライベートメールボックスにアクセスできるのは、Andrea Middleton、Josepha Haden Chomphosy、Cami Kaos、Hugh Lashbrooke、Aditya Kane、
 Courtney Patubo-Kranzke、Rocío Valdivia です。
 
-<!-- The incident response squad tries to respond to all reports within 72 hours of receiving the report. Resolving the issue reported may take as long as 2-3 months, depending on the nature of the issue.-->
+<!-- The incident response squad tries to respond to all reports within 72 hours of receiving the report. Resolving the issue reported may take as long as 2-3 months, depending on the nature of the issue. -->
 問題対応チームはすべての報告に72時間以内に返信できるように努力しています。問題の性質によっては、解決までに2、3ヶ月かかることもあります。
