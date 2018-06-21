@@ -36,17 +36,17 @@
 <!-- For groups that are hosted on meetup.com, there is an official WordPress account. WordPress meetup groups that are part of this account receive certain benefits, including having the meetup.com dues paid by the WordPress Community Support PBC (Public Benefit Subsidiary – [further information is available here](https://make.wordpress.org/community/2016/03/02/transitioning-to-wordpress-community-support/)). Having a meetup group on this account does require following five good-faith rules that were created by a group of volunteer meetup organizers: -->
 meetup.com には WordPress 公式のアカウントがあります。meetup.com 上の WordPress Meetup グループに対しては、WordPress Community Support PBC (Public Benefit Subsidiary – [詳細はこちら](https://make.wordpress.org/community/2016/03/02/transitioning-to-wordpress-community-support/)) から meetup.com の会費支払いなどの支援があります。このアカウントで Meetup グループを登録するには Meetup のボランティア主催者が作成した5つのルールに従う必要があります。
 
-<!-- 1.  WordPress Meetups are for the benefit of the WordPress community as a whole, not specific businesses or individuals. All actions that I take as an organizer are with the best interest of the community in mind.-->
+<!-- 1.  WordPress Meetups are for the benefit of the WordPress community as a whole, not specific businesses or individuals. All actions that I take as an organizer are with the best interest of the community in mind. -->
 1. WordPress Meetup は、特定の企業や個人の利益のためではなく、 WordPress コミュニティ全体の利益のためにあります。イベント主催者として取る行動のすべてはコミュニティの利益を念頭に置いて行います。
-<!--2.  Membership in the local meetup group is open to all who wish to join, regardless of ability, skill, financial status or any other criteria.-->
+<!-- 2.  Membership in the local meetup group is open to all who wish to join, regardless of ability, skill, financial status or any other criteria. -->
 2. WordPress Meetup には、能力、スキル、経済状況、その他の基準に関わらず、あらゆる人が参加できます。
-<!-- 3.  Meetups are volunteer-run with volunteer speakers. In cases where a modest attendance fee might be necessary, this fee should only cover the costs of the meetup and shouldn’t be used to pay speakers or organizers.-->
+<!-- 3.  Meetups are volunteer-run with volunteer speakers. In cases where a modest attendance fee might be necessary, this fee should only cover the costs of the meetup and shouldn’t be used to pay speakers or organizers. -->
 3. Meetup は、ボランティアが運営し、スピーカーも無償で登壇しています。少額の参加費が必要になる場合でも、それは Meetup の経費のみに使うものであり、スピーカーや運営スタッフの報酬にすべきではありません。
-<!-- 4.  Meetup groups allow events to be organized by any reliable/trusted member of the community.-->
+<!-- 4.  Meetup groups allow events to be organized by any reliable/trusted member of the community. -->
 4. Meetup グループでは、コミュニティ内の信頼・信用できるメンバーは誰でもイベントを企画できるようにします。
-<!-- 5.  Meetups are welcoming places where everyone works to foster an accepting environment which is free of discrimination, incitement to violence, promotion of hate, and general jerk-like behavior.-->
+<!-- 5.  Meetups are welcoming places where everyone works to foster an accepting environment which is free of discrimination, incitement to violence, promotion of hate, and general jerk-like behavior. -->
 5. Meetup は、雰囲気の良い場所にしましょう。差別、暴力の扇動、憎悪の促進、全般的な礼儀をわきまえない振る舞いをなくし、誰もを受け入れる環境を全員で育てていきましょう。
-<!-- We also ask everyone that organizes WordPress Chapter Meetup to uphold the principles of the WordPress open source project, including the GPL. This helps protect the user/attendee, who might not realize that by using a non-GPL plugin or theme, they are giving away the rights that WordPress provides them.-->
+<!-- We also ask everyone that organizes WordPress Chapter Meetup to uphold the principles of the WordPress open source project, including the GPL. This helps protect the user/attendee, who might not realize that by using a non-GPL plugin or theme, they are giving away the rights that WordPress provides them. -->
 また、すべての公認 WordPress Meetup 運営者には、GPL を含めた WordPress オープンソースプロジェクトの原則を守ることが求められます。これは、GPL ではないプラグインやテーマを使うことで、WordPress が提供する権利を気づかないうちに奪われてしまうユーザーや参加者を守ることに役立ちます。
 
 <!-- ## Starting a New Meetup.com Group [#Starting a New Meetup.com Group](#starting-a-new-meetup-com-group) -->
@@ -89,7 +89,7 @@ WordPress Community Support PBC が費用を負担する制度が存在する前
 <!-- *   We ask that any member of the group be allowed to organize events (this is a setting in group tools) rather than the organizers acting as gatekeepers. If someone wants to organize a Saturday morning WordPress coffee shop get-together that only 5 people attend and you want to organize a more formal presentation for 80 people, both of those are valued by us. The more people getting together and connecting to talk about WordPress, the better, and having only a few people organize events automatically limits their number and scope. It’s definitely a change — it goes from “This is my group” to “This is a community group I’m a leader in” and we won’t lie, it does require a shift in thinking for groups that have only allowed one or two people to organize events. That said, that shift — for WP meetups to be community groups where everyone can organize events without gatekeepers — is what we’re going for. So you’d be responsible for focus and consistency in your own event series, but not for others (though hopefully anyone choosing to organize would talk with other organizers and learn from their experiences). -->
 *   グループのオーガナイザーが「ゲートキーパー (門番)」として管理を行うのではなく、メンバーが誰でもイベントを企画できるようにすることが求められます ( meetup.com のグループツールにはこの設定があります)。土曜の朝にカフェで開かれる WordPress の集まりに5人が来るのも、80人を集めてフォーマルなプレゼンをするのも、同じだけ価値があることです。より多くの人が集まったり知り合ったりして WordPress について話し合うことは、たくさん機会があればあるほど良いことです。数人だけが企画をすることで、自動的に回数や対象者が少なくなってしまいます。WordPress Meetup グループは誰かが「所有」しているのではなく、ある地域のコミュニティであり、そこに代表者がいる、というものです。これまで数人だけがイベントを企画していた場合には大きな考え方の転換が必要になるかもしれませんが、それこそが私達が求めている方向性です。各オーガナイザーには自分が企画するイベントに関してのフォーカスと一貫性が必要ですが、他の人のイベントについてはそうではありません (もちろん、新たにイベントを企画する人は他のオーガナイザーと話し合って過去の経験から学ぶことが好ましいでしょう)。
 
-<!-- That’s about it! Oh, and follow the 5 good-faith rules mentioned at the beginning. If you have a problem with one of them, we should talk about it.-->
+<!-- That’s about it! Oh, and follow the 5 good-faith rules mentioned at the beginning. If you have a problem with one of them, we should talk about it. -->
 以上です。それから、最初に言及した5つの誠実なルールを守るのもお忘れなく。そうできない事情が何かあるなら、ご相談ください。
 
 <!-- To request that your existing group join the central account, use [the same meetup interest form](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/interest-form/). Say “yes” when it asks if there is an existing group and provide the URL. -->
