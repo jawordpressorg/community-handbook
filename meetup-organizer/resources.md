@@ -1,5 +1,5 @@
 <!-- # Resources -->
-リソース
+# リソース
 
 <!-- ### Downloadable Information and resources to get you started -->
 ### Meetup をはじめるためのダウンロード可能な情報とリソース
