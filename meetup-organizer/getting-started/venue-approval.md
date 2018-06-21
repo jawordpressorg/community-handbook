@@ -9,7 +9,7 @@
 <!-- *   Your group is currently following the [5 good-faith rules](https://make.wordpress.org/community/handbook/meetup-organizer/meetup-program-basics/#the-five-good-faith-rules). -->
 *   グループは[5つの良識ルール](https://make.wordpress.org/community/handbook/meetup-organizer/meetup-program-basics/#the-five-good-faith-rules)を守っている。
 <!-- *   You are unable to find a donated venue. -->
-*   会場を見つけることができない。
+*   無料で提供される会場を見つけることができない。
 <!-- *   Your proposed new venue meets minimum requirements for safety, adequate seating, and accessibility. -->
 *   申請する会場は、安全性、十分な収容人数、そしてアクセスしやすい最低要件を満たしている。
 
@@ -48,7 +48,7 @@
 個人的な考えであり、メンバーへのメールによる連絡をしていません。
 
 <!-- I asked a handful of people but did not do a formal announcement request -->
-何人かに訪ねましたが、正式な告知はしていません。
+何人かに尋ねましたが、正式な告知はしていません。
 
 <!-- What are your requirements in a new venue?(required) -->
 新しい会場に求める必要条件は何ですか? (必須)
