@@ -11,5 +11,7 @@
 |jerk-like behavior		|礼儀をわきまえない振る舞い	|  |
 |chapter program		|?			|  |
 |WordPress Chapter Meetup	|公認 WordPress Meetup	|  |
+|organizer	|オーガナイザー	|  |
+|event organizer	|イベント主催者	|  |
 
 この用語集を編集するには、[Wiki](https://github.com/jawordpressorg/community-handbook/wiki/翻訳開始から提案までの流れ)を参照してプルリクエストを送ってください。
