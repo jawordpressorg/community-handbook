@@ -49,9 +49,6 @@ meetup.com には WordPress 公式のアカウントがあります。meetup.com
 <!-- We also ask everyone that organizes WordPress Chapter Meetup to uphold the principles of the WordPress open source project, including the GPL. This helps protect the user/attendee, who might not realize that by using a non-GPL plugin or theme, they are giving away the rights that WordPress provides them.-->
 また、すべての公認 WordPress Meetup 運営者には、GPL を含めた WordPress オープンソースプロジェクトの原則を守ることが求められます。これは、GPL ではないプラグインやテーマを使うことで、WordPress が提供する権利を気づかないうちに奪われてしまうユーザーや参加者を守ることに役立ちます。
 
-<!-- We also ask everyone that organizes WordPress Chapter Meetup to uphold the principles of the WordPress open source project, including the GPL. This helps protect the user/attendee, who might not realize that by using a non-GPL plugin or theme, they are giving away the rights that WordPress provides them. -->
-また、WordPress の Meetup 支部を運営するすべての方に、GPL を含む WordPress オープンソースプロジェクトの原則を守るようお願いしています。これは、GPL 以外のプラグインやテーマを使用することによって、 WordPress が提供する権利を手放してしまっていることに気づかない利用者/参加者を守るのをお手伝いするためです。
-
 <!-- ## Starting a New Meetup.com Group [#Starting a New Meetup.com Group](#starting-a-new-meetup-com-group) -->
 ## 新規 WordPress Meetup グループを開始するには
 
