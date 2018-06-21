@@ -16,7 +16,6 @@
 <!-- You should also avoid venues with religious or political affiliations. Since one of our jobs as community organizers is to create a 100% welcoming space for everyone, we avoid holding events in venues where someone might feel uncomfortable or unwelcome. -->
 また、宗教や政治との関連がある会場は避けるべきです。コミュニティの主催者として、誰もが100%歓迎する空間を作り出すことであり、嫌な思いや不安にさせる場所での開催は避けましょう。
 
-
 <!-- If those items are all met we recommend that the price point for your venue not exceed $5 per person per month and we ask for a 3-6 month invoice and commitment. Please submit the venue invoice to [support@wordcamp.org](mailto:support@wordcamp.org). Include your meetup location, venue contact name, contact’s email address and phone number, and any special payment information. Unless otherwise specified, venues will be paid by check. You should expect a response in about a week. -->
 以上の項目を満たしている場合、3～6か月の会場予約と請求書をもって、1か月あたり5ドル以上の会場費を提供します。会場費の請求書を [support@wordcamp.org]（mailto：support@wordcamp.org）に送信してください。開催場所、会場の連絡先、連絡先メールアドレスと電話番号、 支払いに関するその他の情報を含めてください。特に指定が無い場合、小切手で支払います。返答は、1週間程度になります。
 
@@ -55,7 +54,6 @@
 
 <!-- Proposed venue information (name, address, url, cost, etc)(required) -->
 新しい会場の情報(会場名、住所、URL、会場費など) (必須)
-
 
 <!-- Cami or a member of the meetups team will be in touch to discuss your venue request. -->
 ミーティングチームのメンバーまたは Cami は、この申請について検討する予定です。
