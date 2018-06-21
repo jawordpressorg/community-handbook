@@ -2,7 +2,7 @@
 # はじめかた
 
 <!-- **So you want to organise your own do_action event? Great – welcome on board!** -->
-**では、あなたは do_action イベントを主催したいということですね ? 素晴らしい - ようこそ ! **
+**では、あなたは do_action イベントを主催したいということですね ? 素晴らしい - ようこそ !**
 
 <!-- Fortunately for you, [the doaction.org website](http://doaction.org/) is designed to take a lot of the heavy-lifting off your shoulders, so you can focus on the practical aspects of the event, rather than the manual admin tasks. -->
 幸運なことに、あなたの肩にかかる重圧の多くを取り除くように [the doaction.org ウェブサイト](http://doaction.org/) は設計されています、だからあなたは手作業の管理タスクではなく、イベントの実務的な側面に集中できます。
