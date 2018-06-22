@@ -36,11 +36,11 @@
 <!-- For groups that are hosted on meetup.com, there is an official WordPress account. WordPress meetup groups that are part of this account receive certain benefits, including having the meetup.com dues paid by the WordPress Community Support PBC (Public Benefit Subsidiary – [further information is available here](https://make.wordpress.org/community/2016/03/02/transitioning-to-wordpress-community-support/)). Having a meetup group on this account does require following five good-faith rules that were created by a group of volunteer meetup organizers: -->
 meetup.com には WordPress 公式のアカウントがあります。meetup.com 上の WordPress Meetup グループに対しては、WordPress Community Support PBC (Public Benefit Subsidiary – [詳細はこちら](https://make.wordpress.org/community/2016/03/02/transitioning-to-wordpress-community-support/)) から meetup.com の会費支払いなどの支援があります。このアカウントで Meetup グループを登録するには Meetup のボランティア主催者が作成した5つのルールに従う必要があります。
 
-<!-- 1.  WordPress Meetups are for the benefit of the WordPress community as a whole, not specific businesses or individuals. All actions that I take as an organizer are with the best interest of the community in mind. -->
+<!-- 1.  WordPress Meetups are for the benefit of the WordPress community as a whole, not specific businesses or individuals. All actions taken as an event organizer are with the best interest of the community in mind. -->
 1. WordPress Meetup は、特定の企業や個人の利益のためではなく、 WordPress コミュニティ全体の利益のためにあります。イベント主催者として取る行動のすべてはコミュニティの利益を念頭に置いて行います。
 <!-- 2.  Membership in the local meetup group is open to all who wish to join, regardless of ability, skill, financial status or any other criteria. -->
 2. WordPress Meetup には、能力、スキル、経済状況、その他の基準に関わらず、あらゆる人が参加できます。
-<!-- 3.  Meetups are volunteer-run with volunteer speakers. In cases where a modest attendance fee might be necessary, this fee should only cover the costs of the meetup and shouldn’t be used to pay speakers or organizers. -->
+<!-- 3.  Meetups are volunteer-run with volunteer speakers. In cases where a modest attendance fee might be necessary, this fee should only cover the costs of the meetup and should not be used to pay speakers or organizers. -->
 3. Meetup は、ボランティアが運営し、スピーカーも無償で登壇しています。少額の参加費が必要になる場合でも、それは Meetup の経費のみに使うものであり、スピーカーや運営スタッフの報酬にすべきではありません。
 <!-- 4.  Meetup groups allow events to be organized by any reliable/trusted member of the community. -->
 4. Meetup グループでは、コミュニティ内の信頼・信用できるメンバーは誰でもイベントを企画できるようにします。
