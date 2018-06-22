@@ -1,8 +1,13 @@
-# Code of Conduct
+<!-- # Code of Conduct -->
+# 倫理綱領
 
-Alert: This is a template that may inspire the text for your local meetup group page.
+<!-- Alert: This is a template that may inspire the text for your local meetup group page. -->
+注意事項: このページは、あなたの地域の Meetup グループの倫理綱領の文章を動機づけるためのテンプレートです。
 
-Feel free to copy and paste this template and customize it for your area.
+
+<!-- Feel free to copy and paste this template and customize it for your area. -->
+このテンプレートをコピーアンドペーストし、あなたの地域に合わるために、自由にカスタマイズしましょう。
+
 
 1\. Purpose
 
