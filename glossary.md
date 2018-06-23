@@ -7,9 +7,9 @@
 |Meetup				|Meetup			|  |
 |local community		|地域コミュニティ		|  |
 |local area			|近隣地域		|  |
-|five good-faith rules		|5つの良識ルール (?)	|  |
+|five good-faith rules		|5つの良識ルール |  |
 |jerk-like behavior		|礼儀をわきまえない振る舞い	|  |
-|chapter program		|?			|  |
+|chapter program		|チャプタープログラム			|  |
 |WordPress Chapter Meetup	|公認 WordPress Meetup	|  |
 |organizer	|オーガナイザー	|  |
 |event organizer	|イベント主催者	|  |
