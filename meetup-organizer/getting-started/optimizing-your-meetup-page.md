@@ -33,7 +33,7 @@ Meetup に初めて参加する人は、次の2つを気にしています。1�
 ### グループ紹介 [#About Pages](#about-pages)
 
 <!-- Your About Page is where you have the first opportunity to introduce your purpose or goal. This is where you put your mission statement and where you should be very clear about what you are about. It may not just be enough to say “we are a group about WordPress.” If however, you say “we are WordPress users who teach and learn from each other, who enjoy sharing knowledge, and who are passionate about encouraging others into WordPress and Open Source’” you are introducing both the mission to advance WordPress and the inclusive nature of the event. -->
-「グループ紹介」は、目的や目標を紹介する最初のページです。グループの活動目標と、現在の状況をわかりやすく記します。「WordPressに関するグループです。」のみでは不十分かもしれません。しかし、「メンバー同士が学びあい、知識を共有し、 WordPress やオープンソースに積極的に貢献するグループです。」と記すことにより、開催するイベントも含めたグループの目的や目標を説明することができます。
+「グループ紹介」は、目的や目標を紹介する最初のページです。グループの活動目標と、現在の状況をわかりやすく記します。「WordPress に関するグループです。」のみでは不十分かもしれません。しかし、「メンバー同士が学びあい、知識を共有し、 WordPress やオープンソースに積極的に貢献するグループです。」と記すことにより、開催するイベントも含めたグループの目的や目標を説明することができます。
 
 <!-- If you are interested in a template for that page that you can edit and adjust for your own group, you can [find that here](https://make.wordpress.org/community/handbook/meetup-organizer/resources/about-page/). -->
 テンプレートを元に、自分のグループ用に編集して作成したい場合は、[こちら](https://make.wordpress.org/community/handbook/meetup-organizer/resources/about-page/)を参照してください。
