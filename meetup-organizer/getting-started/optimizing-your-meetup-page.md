@@ -1,7 +1,6 @@
 <!-- # Optimizing Your Meetup Page -->
 # Meetup 紹介ページの最適化
 
-
 <!-- ### Topics -->
 ### 目次
 
@@ -55,10 +54,9 @@ Meetup のグループ紹介に加えて、より詳しく説明するページ�
 <!-- In wanting to stay as inclusive as possible, these are not a requirement for people joining the group, but for those who do answer (and we have found that most do), they give a great window to outsiders looking to come in. Here are some good questions. (Choose one or two) -->
 総じて可能な限りグループを支えたいと思っている人は、グループに参加する方の要件ではありませんが、回答できる (解決方法を知っている) 人であり、これから来る新たな参加者に素晴らしい窓を与えます。ここにいくつかのよい質問があります。 (1つまたは2つ選択)
 
-<!-- What would you like to learn about WordPress? -->
-WordPress についてどのようなことを学びたいですか ?
-
-<!-- How are you already using WordPress? -->
+<!-- What would you like to learn about WordPress?  
+How are you already using WordPress? -->
+WordPress についてどのようなことを学びたいですか ?  
 WordPress をどのように使っていますか ?
 
 [Top ↑](#top)
