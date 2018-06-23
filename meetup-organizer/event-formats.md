@@ -4,7 +4,7 @@
 <!-- Sometimes getting started organizing an event can be a little overwhelming. It does not have to be though. Not every Meetup event needs to be a formal lecture with questions and answers in a rented venue. Meetup events can be as formal or informal as you want them to be. Having a variety of event types can help communities create the kind of group that really makes connections among WordPress enthusiasts. -->
 時々、イベントを開始するのは圧倒されてしまう。でも、その必要はありません。全てのイベントの会場で質疑応答のある正式な講義が必要というわけではありません。ミートアップイベントは、必要に応じて公式にも非公式にもすることができます。様々なイベントのタイプを持つことによって、コミュニティが WordPress 愛好家とつながることができます。
 
-<!-- Any activity that helps people connect and inspire each other to do more with WordPress is a Meetup activity. Here are some examples of events that don’t follow the typical “sit around and listen to a speaker” format:-->
+<!-- Any activity that helps people connect and inspire each other to do more with WordPress is a Meetup activity. Here are some examples of events that don’t follow the typical “sit around and listen to a speaker” format: -->
 WordPress でもっと多くのことをするために人々がつながり、互いに刺激しあうのを助ける活動が、Meetup です。 典型的な「座ってスピーカーの話を聞く」フォーマットではないイベントの例を以下に紹介します。
 
 *   **Networking or Social event** – Events like these can take the smallest amount of planning. It just takes a time and a place that hold the number of people that will attend. Coffee shops, co-working spaces, or a cool donated office could all do the trick. If you decide to meet at a restaurant or coffee shop, it is a good idea to contact the venue if you expect more than 15 people.
