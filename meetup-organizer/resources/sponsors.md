@@ -18,9 +18,10 @@ Meetup が始まったころから、Meetup の会場はスポンサー契約の
 2.  参加者と自然なつながりのあるもの、または共感できるものをもつスポンサーに交渉しましょう。
 <!-- 3.  Have a strong, professional sounding sponsorship email request or sales document outlining what your group is about and why you would be a strong fit for developing a sponsorship arrangement. If you look like you take it seriously, sponsors will take you seriously. -->
 3.  WordPress 熟練者の説得力のある響きを持ったスポンサー募集のメール、または Meetup グループの概要をきちんと説明する資料を用意し、なぜ協賛関係の構築をするのかを説明しましょう。真剣な態度でのぞめば、スポンサーも真剣に答えてくれるでしょう。
-<!-- 4.  If a sponsor decides to come on board, respect their branding on your website and in your communications about them.
-5.  Keep in touch with your sponsor, send them pictures of your Meetup, keep them up to date with how they are helping you. Do not just see them as a cash dispenser. Build a relationship with them. As that relationship develops and continues, your mutual benefit grows with your group. -->
-4.  スポンサーの参加が決定したら、ウェブサイト上やコミュニケーションの際にスポンサーのブランドを尊重しましょう。スポンサーとは連絡を密に取り、Meetup の写真を送りましょう。彼らのサポートがどのように役立ったか常に伝えましょう。彼らをキャッシュディスペンサーのように考えてはいけません。関係を築いていきましょう。関係が深まり継続するほど、Meetup グループにおける相互の利益が大きくなってきいきます。
+<!-- 4.  If a sponsor decides to come on board, respect their branding on your website and in your communications about them. -->
+4.  スポンサーの参加が決定したら、ウェブサイト上やコミュニケーションの際にスポンサーのブランドを尊重しましょう。
+<!-- 5.  Keep in touch with your sponsor, send them pictures of your Meetup, keep them up to date with how they are helping you. Do not 5.  just see them as a cash dispenser. Build a relationship with them. As that relationship develops and continues, your mutual benefit grows with your group. -->
+5.  スポンサーとは連絡を密に取り、Meetup の写真を送りましょう。彼らのサポートがどのように役立ったか常に伝えましょう。彼らをキャッシュディスペンサーのように考えてはいけません。関係を築いていきましょう。関係が深まり継続するほど、Meetup グループにおける相互の利益が大きくなってきいきます。
 
 <!-- If you are interested in a template for the kind of email that is useful for approaching sponsors, it too is available in the download pack from the link on this slide. Two more words of caution about sponsorship. First, do not let sponsorship change the nature of your group. If the things a sponsor wants from you start to look like they are making your Meetup feel less like an Open Source and WordPress meetup, think very carefully about continuing. You have a culture to preserve. Do not let money get in the way of that. Second, sponsorship is not about making a profit for your group. It is not about storing up resources, and it is not about providing high end, fancy spaces or food – it is simply about having your needs met. Try and keep your needs modest so that your sponsorship needs are not exorbitant. -->
 スポンサー誘致の際に利用できるメールのテンプレートに興味がある場合は、このスライドのリンクよりダウンロードパックに含まれています。
