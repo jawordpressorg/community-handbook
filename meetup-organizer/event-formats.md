@@ -19,9 +19,7 @@ WordPress でもっと多くのことをするために人々がつながり、�
 <!-- *   **Brown Bag Sessions** – This one is a cross between a lecture and a lunch date. You will need a room where you can view a video from wordpress.tv and chairs for people to sit on. Everyone brings their lunch, watches a video, and then discusses the topic afterward. -->
 *   **Brown Bag Sessions** – これはお互い教えあったりランチデートをすることです。 WordPress.tv のビデオを見る部屋と人々が座れる椅子が必要になるでしょう。みんなはそれぞれのランチを持ち寄って、ビデオを見て、後で議論します。
 *   **Workshops** – For this you will need someone who is comfortable walking through a project in front of a crowd. It can also be helpful to have a few people who are knowledgeable to help out if needed. You should have access to power outlets, wifi, a projector/screen, and perhaps some sort of microphone if available.
-
 <!-- *   **Grouped Lightning Talk** – Pick a theme and instead of doing one long talk about it, have a number of lightning talks. This will help highlighting more community members, that might be reluctant to do a long talk. Ideas: WordPress plugins, productivity tools, business tools, etc… -->
-
 *   **グループでのライトニングトーク** - テーマを選んで、その内容について長く話すのではなく複数のライトニングトークをやりましょう。これは多くの長い時間話しをすることに消極的なコミュニティメンバーにハイライトを当てることに役立ちます。アイディア：WordPressのプラグイン・生産性向上ツール・ビジネスツールなど
 
 <!-- This is just a short list. The possibilities are endless. And do not forget that any event that gets WordPress enthusiasts together and inspiring each other to do more with WordPress can be a Meetup event. -->
