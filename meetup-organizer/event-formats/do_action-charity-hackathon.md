@@ -1,7 +1,5 @@
 # do_action: Charity Hackathon
 
-.toc-jump { text-align: right; font-size: 12px; } .page .toc-heading { margin-top: -50px; padding-top: 50px !important; }
-
 ## Topics
 
 *   [What is do_action?](#what-is-do_action)
