@@ -20,7 +20,7 @@ WordPress でもっと多くのことをするために人々がつながり、�
 <!-- *   **Brown Bag Sessions** – This one is a cross between a lecture and a lunch date. You will need a room where you can view a video from wordpress.tv and chairs for people to sit on. Everyone brings their lunch, watches a video, and then discusses the topic afterward. -->
 *   **ブラウンバッグセッション** – これはレクチャーとランチをしながら話すことのをすることです。 WordPress.tv のビデオを見る部屋と人々が座れる椅子が必要になるでしょう。みんなはそれぞれのランチを持ち寄って、ビデオを見て、後で議論します。
 <!-- *   **Workshops** – For this you will need someone who is comfortable walking through a project in front of a crowd. It can also be helpful to have a few people who are knowledgeable to help out if needed. You should have access to power outlets, wifi, a projector/screen, and perhaps some sort of microphone if available. -->
-*   **ワークショップ** – For this you will need someone who is comfortable walking through a project in front of a crowd. It can also be helpful to have a few people who are knowledgeable to help out if needed. You should have access to power outlets, wifi, a projector/screen, and perhaps some sort of microphone if available.
+*   **ワークショップ** – これをやるためには大勢の前でプロジェクトを軽快に渡り歩ける人が必要になるでしょう。必要とされた時に助けることに精通した人たちが数人いることも役に立ちます。電源コンセントやWi-Fi環境、プロジェクターやスクリーン、可能であればマイクも利用できるべきです。
 <!-- *   **Grouped Lightning Talk** – Pick a theme and instead of doing one long talk about it, have a number of lightning talks. This will help highlighting more community members, that might be reluctant to do a long talk. Ideas: WordPress plugins, productivity tools, business tools, etc… -->
 *   **グループでのライトニングトーク** - テーマを選んで、その内容について長く話すのではなく複数のライトニングトークをやりましょう。これは多くの長い時間話しをすることに消極的なコミュニティメンバーにハイライトを当てることに役立ちます。アイディア：WordPressのプラグイン・生産性向上ツール・ビジネスツールなど
 
