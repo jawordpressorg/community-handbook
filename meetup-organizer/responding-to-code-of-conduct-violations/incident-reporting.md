@@ -1,5 +1,5 @@
 <!-- # Incident Reporting -->
-問題の報告
+# 問題の報告
 
 <!-- To report a code of conduct-related issue, email [report@wordcamp.org](mailto:report@wordcamp.org). Emails sent to this address will go to a private mailbox on the global community team’s Help Scout instance, visible only to deputies on an incident response squad. -->
 行動規範に関する問題を報告するには、[report@wordcamp.org](mailto:report@wordcamp.org) にメールを送ってください。このアドレスに送信されたメールは、グローバルコミュニティチームの Help Scout （メール管理システム） のプライベートメールボックスに送信され、違反行為対応チームのメンバーにのみ表示されます。
