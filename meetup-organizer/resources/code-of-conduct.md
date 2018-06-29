@@ -46,7 +46,7 @@
 <!-- Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct by any members of  WordPress \[your-town\] User Group and related events. All WordPress \[your-town\] User Group venues may be shared with members of the public; please be respectful to all patrons of these locations. -->
 受け入れ難い行為は以下の行動を含みます。
 *   [地域名] WordPress Meetup グループのメンバー、もしくは関連するイベントによる、他人への威嚇、迷惑、虐待、差別、名誉毀損、屈辱行為。
-*   [地域名] WordPress Meetup グループが使う会場は一般の人々も使うことが考えられます。そういった場所では、他の参加者にも礼儀正しくしてください。
+*   [地域名] WordPress Meetup グループが使う会場は一般の人々も使うことが考えられます。そういった場所では、一般のお客さまにも礼儀正しくしてください。
 
 <!-- Harassment includes: offensive verbal comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images in public spaces (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention. -->
 迷惑行為には以下の振る舞いが含まれます。
