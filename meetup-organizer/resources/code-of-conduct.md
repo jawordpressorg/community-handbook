@@ -82,7 +82,7 @@
 7\. 適用範囲
 
 <!-- We expect all community members, sponsors, volunteers, speakers, attendees, and other guests to abide by this code of conduct at all venues and related social events. -->
-すべてのコミュニティ参加者、スポンサー、ボランティア、スピーカー、一般来場者、その他のゲストが、すべての会場および関連する社交イベントにおいて、この行動規範に従うことを期待します。
+すべてのコミュニティ参加者、スポンサー、ボランティア、スピーカー、一般来場者、その他のゲストが、すべての会場および関連する社交イベントにおいて、当然のこととして、この行動規範に従うことを期待しています。
 
 <!-- 8\. Contact Information -->
 8\. 連絡先情報
