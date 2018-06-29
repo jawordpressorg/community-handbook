@@ -61,7 +61,7 @@
 5\. 受け入れ難い行為が招く結果
 
 <!-- Unacceptable behavior will not be tolerated whether by other attendees, organizers, venue staff, sponsors, or other patrons of the WordPress \[your-town\] User Group venues. -->
-受け入れ難い行為は、一般来場者、オーガナイザー、会場スタッフ、スポンサー、[地域名] WordPress Meetup グループの会場に来ている他の参加者、であろうとなかろうと許されません。
+受け入れ難い行為は、一般来場者、オーガナイザー、会場スタッフ、スポンサー、[地域名] WordPress Meetup グループの会場に来ている会場の他のお客さま、であろうとなかろうと許されません。
 
 <!-- Anyone asked to stop unacceptable behavior is expected to comply immediately. -->
 受け入れ難い行為を止めるように要求された人は、直ぐに従うことが求められます。
