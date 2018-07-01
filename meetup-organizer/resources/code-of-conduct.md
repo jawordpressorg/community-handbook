@@ -1,8 +1,8 @@
 <!-- # Code of Conduct -->
-# 倫理綱領
+# 行動規範
 
 <!-- Alert: This is a template that may inspire the text for your local meetup group page. -->
-注意事項: このページは、あなたの地域の Meetup グループ用に倫理綱領を書いてもらために準備したテンプレートです。
+注意事項: このページは、あなたの地域の Meetup グループ用に行動規範を書いてもらうために準備したテンプレートです。
 
 <!-- Feel free to copy and paste this template and customize it for your area. -->
 このテンプレートをコピーアンドペーストし、あなたの地域に合わるために、自由にカスタマイズしてください。
@@ -23,7 +23,7 @@
 2\. オープンソース市民
 
 <!-- A supplemental goal of this code of conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between what we do and the community at large. -->
-私たちの役割とコミュニティ全体との関わり合いを関係者が認め強化するように働き掛けることで、オープンソース市民を増やしていくことがこの倫理綱領のもう一つの目的です。
+私たちの役割とコミュニティ全体との関わり合いを関係者が認め強化するように働き掛けることで、オープンソース市民を増やしていくことがこの行動規範のもう一つの目的です。
 
 <!-- In service of this goal, the WordPress \[your-town\] User Group organizers will be taking nominations for exemplary citizens. -->
 この目的を達成するために、[地域名] WordPress Meetup グループは、称賛に値する市民の推薦を受け付けています。
@@ -46,7 +46,7 @@
 <!-- Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct by any members of  WordPress \[your-town\] User Group and related events. All WordPress \[your-town\] User Group venues may be shared with members of the public; please be respectful to all patrons of these locations. -->
 受け入れ難い行為は以下の行動を含みます。
 *   [地域名] WordPress Meetup グループのメンバー、もしくは関連するイベントによる、他人への威嚇、迷惑、虐待、差別、名誉毀損、屈辱行為。
-*   [地域名] WordPress Meetup グループが使う会場は一般の人々も使うことが考えられます。そういった場所では、他のお客さまにも礼儀正しくしてください。
+*   [地域名] WordPress Meetup グループが使う会場は一般の人々も使うことが考えられます。そういった場所では、一般のお客さまにも礼儀正しくしてください。
 
 <!-- Harassment includes: offensive verbal comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images in public spaces (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention. -->
 迷惑行為には以下の振る舞いが含まれます。
@@ -61,7 +61,7 @@
 5\. 受け入れ難い行為が招く結果
 
 <!-- Unacceptable behavior will not be tolerated whether by other attendees, organizers, venue staff, sponsors, or other patrons of the WordPress \[your-town\] User Group venues. -->
-受け入れ難い行為は、一般来場者、オーガナイザー、会場スタッフ、スポンサー、[地域名] WordPress Meetup グループの会場に来ている他のお客さま、であろうとなかろうと許されません。
+受け入れ難い行為は、一般来場者、オーガナイザー、会場スタッフ、スポンサー、[地域名] WordPress Meetup グループの会場に来ている会場の他のお客さま、であろうとなかろうと許されません。
 
 <!-- Anyone asked to stop unacceptable behavior is expected to comply immediately. -->
 受け入れ難い行為を止めるように要求された人は、直ぐに従うことが求められます。
@@ -73,7 +73,7 @@
 受け入れ難い行為を目撃したり、被害に遭った場合は
 
 <!-- If you are subjected to unacceptable behavior, notice that someone else is being subject to unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible or fill out an incident report if the incident was online. -->
-受け入れ難い行為を受けたり、他の人がそのような行為を受けているのに気付いたり、その他にも気になることがあれば、できるだけ早くコミュニティ主催者にお知らせいただくか、オンラインで起こった出来事であれば、「迷惑行為などの報告」に記入をお願いします。
+受け入れ難い行為を受けたり、他の人がそのような行為を受けているのに気付いたり、その他にも気になることがあれば、できるだけ早くコミュニティ主催者にお知らせいただくか、オンラインで起こった出来事であれば、「問題の報告」に記入をお願いします。
 
 <!-- The WordPress \[your-town\] User Group team will be available to help participants contact venue security or local law enforcement, to provide escorts, or to otherwise assist those experiencing unacceptable behavior to feel safe in the community. -->
 [地域名] WordPress Meetup グループチームは、参加者が、会場の警備担当者や地元の警察と連絡を取るのを助けたり、付き添う人を用意したり、受け入れ難い行為にさらされている人がコミュニティで安心できるよう手助けをします。
@@ -82,7 +82,7 @@
 7\. 適用範囲
 
 <!-- We expect all community members, sponsors, volunteers, speakers, attendees, and other guests to abide by this code of conduct at all venues and related social events. -->
-すべてのコミュニティ参加者、スポンサー、ボランティア、スピーカー、一般来場者、その他のゲストが、すべての会場および関連する社交イベントにおいて、この倫理綱領を順守することを、私たちは要求します。
+すべてのコミュニティ参加者、スポンサー、ボランティア、スピーカー、一般来場者、その他のゲストが、すべての会場および関連する社交イベントにおいて、当然のこととして、この行動規範に従うことを期待しています。
 
 <!-- 8\. Contact Information -->
 8\. 連絡先情報
@@ -94,4 +94,4 @@
 9\. ライセンスと帰属
 
 <!-- This Code of Conduct is heavily borrowed from the awesome work of Open Source Bridge. The original is available at [http://opensourcebridge.org/about/code-of-conduct/](http://opensourcebridge.org/about/code-of-conduct/) and is released under a Creative Commons Attribution-ShareAlike license. -->
-Open Source Bridge の素晴らしい著作物を取り入れる形で、この倫理綱領は作られています。オリジナルは http://opensourcebridge.org/about/code-of-conduct/ で入手でき、クリエイティブ·コモンズ表示-継承ライセンスのもとでリリースされています。
+Open Source Bridge の素晴らしい著作物を取り入れる形で、この行動規範は作られています。オリジナルは http://opensourcebridge.org/about/code-of-conduct/ で入手でき、クリエイティブ·コモンズ表示-継承ライセンスのもとでリリースされています。
