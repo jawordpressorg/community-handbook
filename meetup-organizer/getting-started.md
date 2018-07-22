@@ -123,7 +123,6 @@ Meetup の主催者は、適格な講演者を見つける際に [WordCamp と�
 コミュニティイベントのためにお金を受け取ると、いろいろと複雑になることが考えらるので、すべてのスポンサーシップを「現物」としてアプローチすることをお勧めします — たとえば、企業がそのイベントのためにピザやサンドイッチの盛り合わせ、ドリンクなどを注文する、など。
  [five good-faith rules](https://make.wordpress.org/community/handbook/meetup-organizer/meetup-program-basics/#the-five-good-faith-rules)によると、Meetup グループの主催者は、グループをスポンサーシップやマーケティングのプラットフォームとして使用すべきではありません。
 
-
 [Top ↑](#top)
 
 <!-- ## How do I make our meetup attractive to people? [#How do I make our meetup attractive to people?](#how-do-i-make-our-meetup-attractive-to-people) -->
