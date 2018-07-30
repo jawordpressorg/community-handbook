@@ -17,7 +17,7 @@
 <!-- We also ask everyone that organizes WordPress Chapter Meetup to uphold the principles of the WordPress open source project, including the GPL. This helps protect the user/attendee, who might not realize that by using a non-GPL plugin or theme, they are giving away the rights that WordPress provides them. -->
 また、すべての公認 WordPress Meetup 運営者には、GPL を含めた WordPress オープンソースプロジェクトの原則を守ることが求められます。これは、GPL ではないプラグインやテーマを使うことで、WordPress が提供する権利を気づかないうちに奪われてしまうユーザーや参加者を守ることに役立ちます。
 <!-- These guidelines were created by volunteers active in current meetup groups. They may change over time based on feedback from the WordPress meetup community. -->
-これらのガイドラインは、 すでに Meetup グループを活発に運営しているボランティアたちにより作られました。今後、WordPress Meetup コミュニティからのフィードバックを元に変更される可能性があります。
+これらのガイドラインは、すでに Meetup グループを活発に運営しているボランティアたちにより作られました。今後、WordPress Meetup コミュニティからのフィードバックを元に変更される可能性があります。
 
 <!-- Sound good? To get started, go to [meetup.com](http://meetup.com) and create a username/account for yourself if you don’t already have one. Fill in the form below, and we’ll get back to you within a week to either confirm your new meetup group or ask some additional questions. Note: you can also use this form if you have an existing WordPress meetup group on meetup.com would like to transfer it to the central account so you don’t have to pay dues anymore. -->
 まずは [meetup.com](https://www.meetup.com/) にアクセスし、アカウントを持っていない場合は新たに作成してください。以下のフォームに記入していただければ、1週間程度でグループを承認するか、追加で伺いたい質問をご連絡します。注: すでに meetup.com 上で WordPress Meetup を運営しており、全体アカウントに移行したい場合もこちらのフォームを利用してください。meetup.com の利用費を代わりに負担します。
