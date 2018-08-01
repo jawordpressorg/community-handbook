@@ -14,7 +14,7 @@
 報告がコミュニティ主催者についてのものであれば、グローバルコミュニティチームのメンバーは関係者に連絡を取り、状況を解決するために動きます。
 
 <!-- If the report is about behavior that didn’t happen at an “official” event (which is to say, a chapter meetup event, WordCamp, or other workshop organized as part of a global community team program), we’ll request permission to pass the report along to the team it involves (or to the [Escalation Team](https://make.wordpress.org/community/2015/07/02/escalation-team/#comment-22773), currently made up of Josepha Haden Chomphosy, Helen Hou-Sandi, Tammie Lister, Aditya Kane, Morten Rand-Hendriksen, and Jenny Wong). -->
-報告が「公式」イベント (チャプター Meetup イベント、WordCamp、その他のグローバルコミュニティチームプログラムとして開催されたワークショップ) 以外で起こったことの場合、問題に関わっているチーム (もしくは [エスカレーションチーム](https://make.wordpress.org/community/2015/07/02/escalation-team/#comment-22773)、現在のメンバーは Josepha Haden Chomphosy、Helen Hou-Sandi、Tammie Lister、Aditya Kane、Morten Rand-Hendriksen、Jenny Wong) に報告内容を知らせるための許可をリクエストします。
+報告が「公式」イベント (公認 WordPress Meetup イベント、WordCamp、その他のグローバルコミュニティチームプログラムとして開催されたワークショップ) 以外で起こったことの場合、問題に関わっているチーム (もしくは [エスカレーションチーム](https://make.wordpress.org/community/2015/07/02/escalation-team/#comment-22773)、現在のメンバーは Josepha Haden Chomphosy、Helen Hou-Sandi、Tammie Lister、Aditya Kane、Morten Rand-Hendriksen、Jenny Wong) に報告内容を知らせるための許可をリクエストします。
 
 <!-- Currently the people who have access to this private mailbox are: Andrea Middleton, Josepha Haden Chomphosy, Cami Kaos, Hugh Lashbrooke, Aditya Kane, Courtney Patubo-Kranzke, and Rocío Valdivia. -->
 現在このプライベートメールボックスにアクセスできるのは、Andrea Middleton、Josepha Haden Chomphosy、Cami Kaos、Hugh Lashbrooke、Aditya Kane、Courtney Patubo-Kranzke、Rocío Valdivia です。
