@@ -21,7 +21,9 @@
 
 <!-- To have your venue approved and paid for, please fill in the following form: -->
 開催会場の承認と会場費の負担を希望する場合は、以下のフォームに記入してください。
-(訳注: 実際の申請は以下の訳文を参考に[英語のフォーム](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/venue-approval/)で行ってください。日本語で記入しても構いません)
+
+訳注:申請のメールは下記を参照して [support@wordcamp.org](mailto：support@wordcamp.org) までお送りください。日本語で構いませんが、メールのタイトルは Meetup Venue Approval Request としてください。
+([英語のフォーム](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/venue-approval/) は、メールがスパム扱いとなり届かない事例がありました。2018.8.21)
 
 <!-- Name(required) -->
 名前 (必須)
