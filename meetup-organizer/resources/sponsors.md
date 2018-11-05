@@ -13,7 +13,7 @@ Meetup が始まったころから、Meetup の会場はスポンサー契約の
 このように協賛のかたちというのは、会場のような現物提供、または Meetup の費用やピザ代の提供など金銭的なものなど様々で、これら協賛者の関係の調整が難しいことがあります。ここでは一方的ではない、相互利益をもったスポンサーを見つける上でのヒントや方法を紹介します。
 
 <!-- 1.  It is often better to ask. The best fit sponsors are not always going to come to you – and if they do approach you, figure out what they are selling before you blindly take their money. You need sponsors who understand WordPress, not just who want a platform for peddling their goods or services. -->
-1.  自分たちかから（スポンサーになってくれるか）尋ねましょう。最良のスポンサーが向こうからやってくるとは限りません。そして、もし先方から申し込みがあったら、いきなり資金援助を受けるのではなく、まず彼らが何を販売しているかを把握しておきましょう。Meetup グループが必要としているのは、WordPress を理解してくれるスポンサーであり、商品やサービスの売り場を探している人たちではありません。
+1.  自分たちから（スポンサーになってくれるか）尋ねましょう。最良のスポンサーが向こうからやってくるとは限りません。そして、もし先方から申し込みがあったら、いきなり資金援助を受けるのではなく、まず彼らが何を販売しているかを把握しておきましょう。Meetup グループが必要としているのは、WordPress を理解してくれるスポンサーであり、商品やサービスの売り場を探している人たちではありません。
 <!-- 2.  Approach sponsors with whom you have something in common or who would have a natural connection with your audience. -->
 2.  参加者と自然なつながりのあるもの、または共感できるものをもつスポンサーに交渉しましょう。
 <!-- 3.  Have a strong, professional sounding sponsorship email request or sales document outlining what your group is about and why you would be a strong fit for developing a sponsorship arrangement. If you look like you take it seriously, sponsors will take you seriously. -->
