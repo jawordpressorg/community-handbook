@@ -1,0 +1,15 @@
+# Should You Be an Organizer?
+
+> **tl;dr:** If you want to organize a WordCamp, [apply here](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/become-an-organizer/organizer-application/ "Organizer Application")! Successful applicants are already active in their local WP community where they want to organize an event and understand that organizing is a volunteer, group effort.
+
+Local organizers are what make each WordCamp unique. Organizing a WordCamp is a volunteer labor (a lot of labor!) of love for WordPress and your local community, and earns you untold karma points on the path to WordPress nirvana. Moving forward, we will be creating a system that shows community activity (such as organizing a WordCamp) as a contribution to the WordPress project on your WordPress.org profile, as we recognize that organizing events like meetups and WordCamps is just as important to our community as contributing code or design.
+
+If you’ve never organized a large event before, we suggest that you start by organizing a WordPress meetup first for a few months. This helps gauge community interest, allows you to make contacts with the local WordPress community, and provides you with some low-key event planning experience. WordCamp organizing teams should have 5-10 members, and preferably will include a variety of people from the meetup group, not just one company, school, or group of friends. Inclusion and transparency should be the bywords from start to finish.
+
+WordCamp organizers and events are approved by the WordPress Foundation, a non-profit organization that exists to promote WordPress and provide education regarding WordPress and related open source software. WordCamps are meant to benefit the local WordPress community through live events and the broader WordPress community through the sharing of online video and other materials. They are not-for-profit events.
+
+Leftover funds from a WordCamp budget should be disposed of in one of the following ways: used to fund the continuing WordPress meetup group’s activities, donated to the Foundation to support other WordCamps and community initiatives, fund the development of a contribution to the WordPress.org community (such as releasing a free plugin or theme), or provide partial refunds to attendees and sponsors. Excess funds are not to be pocketed by the organizers; organizers are considered community volunteers. If you are interested in putting together a for-profit WordPress conference, you should do so under another brand, as this is not allowed under the WordCamp brand.
+
+Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/should-you-be-an-organizer/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
+
+*   [To-do](# "To-do")
