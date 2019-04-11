@@ -2,10 +2,12 @@
 
 こちらは [WordPress Community Handbooks](https://make.wordpress.org/community/handbook/) の翻訳用リポジトリです。
 
-Meetup Organizer Handbook の翻訳は meetup-organizer ディレクトリ内にあります。
-ブラウザ上で翻訳したいmdファイルをクリックし、鉛筆マークの「Edit this file」をクリックすることでブラウザ上でも更新（プルリクエスト）できます。
+現在、[Meetup Organizer Handbook](https://github.com/jawordpressorg/community-handbook/tree/master/meetup-organizer) は翻訳済みですが、タイポや誤訳の修正を受け付けています。
 
-GitHub が初めての方も [翻訳開始から提案までの流れ](https://github.com/jawordpressorg/community-handbook/wiki/%E7%BF%BB%E8%A8%B3%E9%96%8B%E5%A7%8B%E3%81%8B%E3%82%89%E6%8F%90%E6%A1%88%E3%81%BE%E3%81%A7%E3%81%AE%E6%B5%81%E3%82%8C) を参考に、是非ご参加ください。
+[WordCamp Organizer Handbook](https://github.com/jawordpressorg/community-handbook/tree/master/wordcamp-organizer) については、このリポジトリ上以外で翻訳が完了しているものもありますので、[進捗シート](https://docs.google.com/spreadsheets/d/1q_d9JIpaXPhqvNBZIdHOmFsMUFIXHd3NqRu2wLgbFXM/edit#gid=0)をご覧ください。「優先順位」が「要」で、担当者が不在のものから始めていただけると助かります。
+
+ブラウザ上で翻訳したい md ファイルをクリックし、鉛筆マークの「Edit this file」をクリックすることでブラウザ上でも更新 （プルリクエスト） できます。
+GitHub が初めての方も[翻訳開始から提案までの流れ](https://github.com/jawordpressorg/community-handbook/wiki/%E7%BF%BB%E8%A8%B3%E9%96%8B%E5%A7%8B%E3%81%8B%E3%82%89%E6%8F%90%E6%A1%88%E3%81%BE%E3%81%A7%E3%81%AE%E6%B5%81%E3%82%8C)を参考に、ぜひご参加ください。
 
 ## 翻訳方法
 
@@ -31,13 +33,15 @@ __手順：__
 
 ## 進捗シート
 
-[Meetup Organizer Handbook / WordCamp Organizer Handbook 翻訳の進捗シート](https://docs.google.com/spreadsheets/d/1q_d9JIpaXPhqvNBZIdHOmFsMUFIXHd3NqRu2wLgbFXM/edit#gid=629965050) もあります。記入の上参加いただけますと進捗がわかりやすいのでご協力ください。
+[Meetup Organizer Handbook / WordCamp Organizer Handbook 翻訳の進捗シート](https://docs.google.com/spreadsheets/d/1q_d9JIpaXPhqvNBZIdHOmFsMUFIXHd3NqRu2wLgbFXM/edit#gid=629965050) に記入の上参加いただけますと進捗がわかりやすいのでご協力ください。
 
-## 翻訳用語集
+## 翻訳用語集・スタイルガイド
 
-翻訳に悩んだ場合はまず[翻訳用語集](https://github.com/jawordpressorg/community-handbook/blob/master/glossary.md)を参照してください。
+翻訳に悩んだ場合はまずこのコミュニティハンドブック翻訳専用の[用語集](https://github.com/jawordpressorg/community-handbook/blob/master/glossary.md)を参照してください。
 
-## 原文更新方法
+また、WordPress プロジェクト全般向けの[翻訳スタイルガイド](https://wpdocs.osdn.jp/WordPress_%E3%81%AE%E7%BF%BB%E8%A8%B3/%E7%BF%BB%E8%A8%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%AC%E3%82%A4%E3%83%89)と[用語集](https://translate.wordpress.org/projects/wp/dev/ja/default/glossary)も活用してください。
+
+## 原文追加・更新方法
 
 1.  [`en` ブランチ](https://github.com/jawordpressorg/community-handbook/tree/en)をチェックアウトします。
 2.  原文を更新します。
