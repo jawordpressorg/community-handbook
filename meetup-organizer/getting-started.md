@@ -54,7 +54,7 @@ Meetup のグループメンバーとそのネットワークは、開催する�
 *   フードコート
 
 <!-- To ensure that meetups are as inclusive as possible, we now ask organizers to avoid holding events at venues that have ties to religious or political organizations. Our goal is for any event to be welcoming for every member of the WordPress community (regardless of economic or social status, race, color, ethnic origin, national origin, creed, religion, political belief, gender, sexual orientation, marital status, age, or disability), and thus we avoid venues with affiliations that might not be inclusive. -->
-Meetup が可能な限りインクルーシブ (訳注: 誰もを受け入れる) であることを担保するため、Meetup の主催者は宗教的または政治的組織と結びついた会場でイベントを開催することを避けましょう。私たちの目標は、どの Meetup であっても WordPress コミュニティのすべてのメンバー (それは経済的・社会的地位、人種、肌の色、民族、出身、信条、宗教、政治的信念、性別、性的嗜好、婚姻状況、年齢、障害などにかかわらず) を歓迎するイベントになることです。したがって、インクルーシブでないかもしれない恐れのある会場は避けましょう。
+Meetup が可能な限りインクルーシブ (訳注: 誰をも受け入れる) であることを担保するため、Meetup の主催者は宗教的または政治的組織と結びついた会場でイベントを開催することを避けましょう。私たちの目標は、どの Meetup であっても WordPress コミュニティのすべてのメンバー (それは経済的・社会的地位、人種、肌の色、民族、出身、信条、宗教、政治的信念、性別、性的嗜好、婚姻状況、年齢、障害などにかかわらず) を歓迎するイベントになることです。したがって、インクルーシブでないかもしれない恐れのある会場は避けましょう。
 
 [Top ↑](#top)
 
