@@ -2,7 +2,7 @@
 # Meetup の説明
 
 <!-- Alert: This is a template that may inspire the text for your local Meetup group page. -->
-注意：これは、地域の Meetup グループページ用のテキストのテンプレートです。
+注：これは、地域の Meetup グループページ用のテキストのテンプレートです。
 
 <!-- Feel free to copy and paste this template and customise it for your area. -->
 このテンプレートをコピーして貼り付け、お住まいの地域に合わせてカスタマイズしてください。
