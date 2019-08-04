@@ -2,7 +2,7 @@
 # 行動規範
 
 <!-- Alert: This is a template that may inspire the text for your local meetup group page. -->
-注意事項: このページは、あなたの地域の Meetup グループ用に行動規範を書いてもらうために準備したテンプレートです。
+注: このページは、あなたの地域の Meetup グループ用に行動規範を書いてもらうために準備したテンプレートです。
 
 <!-- Feel free to copy and paste this template and customize it for your area. -->
 このテンプレートをコピーアンドペーストし、あなたの地域に合わるために、自由にカスタマイズしてください。
