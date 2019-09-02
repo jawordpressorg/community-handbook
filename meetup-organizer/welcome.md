@@ -10,7 +10,9 @@
     *   [クイズサイトへの登録とコース参加方法](#how-to-register-subscribe%c2%a0to-quizzes)
 
 <!-- Meetup groups are locally-organized groups that get together for face-to-face events on a regular basis (commonly once a month). -->
-「Meetup (ミートアップ) グループ」とは、オフラインのイベントを定期的に (一般的には月1回) 開催している、地域ごとに運営されるグループのことです。
+「Meetup (ミートアップ) グループ」とは、オフラインのイベントを定期的に (一般的には月1回) 開催している、地域ごとに運営されるグループのことです。日本では、最小範囲は都道府県ごとにひとつのチャプターとなります。
+
+[国内の WordPress Meetup チャプターの一覧](https://ja.wordpress.org/team/handbook/japan-wordpress-meetup/)
 
 <!-- Anything that brings together 2 or more people to share their WordPress experiences counts — there’s no minimum number of attendees or required format. -->
 2名以上が集まり WordPress の体験をシェアする場であれば、人数や形式に決まりはありません。
@@ -55,8 +57,6 @@ meetup.com には WordPress 公式のアカウントがあります。meetup.com
 <!-- If there is not a meetup group in your city but you would like to start one, [fill out our meetup interest form](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/interest-form/) and we can set up a new group for your city and make you the first organizer. If you have a group already but are not using meetup.com and you’d like to, use the same form, but make sure to include the URL for your existing group’s online presence (Facebook, independent site, etc). -->
 地域にまだ Meetup グループがなく、新しく始めたい場合は[こちらのフォームに記入](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/interest-form/)してください。あなたの町のグループを新規作成し、あなたを一人目の主催者に設定します。もしすでに活動しているグループがある場合は、同じフォームを使い、そのグループに関するサイトや Facebook の URL を必ず含めてください。
 
-[Top ↑](#top)
-
 <!-- ## Adding an Existing Meetup.com Group [#Adding an Existing Meetup.com Group](#adding-an-existing-meetup-com-group) -->
 ## 既存の Meetup.com グループをチャプターとして申請するには
 
@@ -87,15 +87,13 @@ WordPress Community Support PBC が費用を負担する制度が存在する前
 <!-- *   If you currently require people to submit an application to join your group, we ask that you remove that requirement. WordPress meetup groups are open to all who are interested. You can still ask those questions on the regular “join this meetup” form. -->
 *   現在、Meetup の参加に申請が必要になっている場合、その要件は削除するようにお願いします。WordPress Meetup は、興味を持つすべての方に公開されています。通常の「参加」フォームでも質問を聞くことができます。
 <!-- *   We ask that any member of the group be allowed to organize events (this is a setting in group tools) rather than the organizers acting as gatekeepers. If someone wants to organize a Saturday morning WordPress coffee shop get-together that only 5 people attend and you want to organize a more formal presentation for 80 people, both of those are valued by us. The more people getting together and connecting to talk about WordPress, the better, and having only a few people organize events automatically limits their number and scope. It’s definitely a change — it goes from “This is my group” to “This is a community group I’m a leader in” and we won’t lie, it does require a shift in thinking for groups that have only allowed one or two people to organize events. That said, that shift — for WP meetups to be community groups where everyone can organize events without gatekeepers — is what we’re going for. So you’d be responsible for focus and consistency in your own event series, but not for others (though hopefully anyone choosing to organize would talk with other organizers and learn from their experiences). -->
-*   グループのオーガナイザーが「ゲートキーパー (門番)」として管理を行うのではなく、メンバーが誰でもイベントを企画できるようにすることが求められます ( meetup.com のグループツールにはこの設定があります)。土曜の朝にカフェで開かれる WordPress の集まりに5人が来るのも、80人を集めてフォーマルなプレゼンをするのも、同じだけ価値があることです。より多くの人が集まったり知り合ったりして WordPress について話し合うことは、たくさん機会があればあるほど良いことです。数人だけが企画をすることで、自動的に回数や対象者が少なくなってしまいます。WordPress Meetup グループは誰かが「所有」しているのではなく、ある地域のコミュニティであり、そこに代表者がいる、というものです。これまで数人だけがイベントを企画していた場合には大きな考え方の転換が必要になるかもしれませんが、それこそが私達が求めている方向性です。各オーガナイザーには自分が企画するイベントに関してのフォーカスと一貫性が必要ですが、他の人のイベントについてはそうではありません (もちろん、新たにイベントを企画する人は他のオーガナイザーと話し合って過去の経験から学ぶことが好ましいでしょう)。
+*   グループのオーガナイザーが「ゲートキーパー (門番)」として管理を行うのではなく、メンバーが誰でもイベントを企画できるようにすることが求められます (meetup.com のグループツールにはこの設定があります)。土曜の朝にカフェで開かれる WordPress の集まりに5人が来るのも、80人を集めてフォーマルなプレゼンをするのも、同じだけ価値があることです。より多くの人が集まったり知り合ったりして WordPress について話し合うことは、たくさん機会があればあるほど良いことです。数人だけが企画をすることで、自動的に回数や対象者が少なくなってしまいます。WordPress Meetup グループは誰かが「所有」しているのではなく、ある地域のコミュニティであり、そこに代表者がいる、というものです。これまで数人だけがイベントを企画していた場合には大きな考え方の転換が必要になるかもしれませんが、それこそが私達が求めている方向性です。各オーガナイザーには自分が企画するイベントに関してのフォーカスと一貫性が必要ですが、他の人のイベントについてはそうではありません (もちろん、新たにイベントを企画する人は他のオーガナイザーと話し合って過去の経験から学ぶことが好ましいでしょう)。
 
 <!-- That’s about it! Oh, and follow the 5 good-faith rules mentioned at the beginning. If you have a problem with one of them, we should talk about it. -->
 以上です。それから、最初に言及した5つの誠実なルールを守るのもお忘れなく。そうできない事情が何かあるなら、ご相談ください。
 
 <!-- To request that your existing group join the central account, use [the same meetup interest form](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/interest-form/). Say “yes” when it asks if there is an existing group and provide the URL. -->
 既存のグループがセントラルアカウントへの参加をリクエストする際も、同じ [Meetup 応募フォーム](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/interest-form/)をお使いください。グループがすでに存在するかどうか尋ねる質問には、「はい」と回答して URL を入力してください。
-
-[Top ↑](#top)
 
 <!-- ## [Quizzes](#quizzes) -->
 ## クイズ
