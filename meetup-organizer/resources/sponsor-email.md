@@ -1,12 +1,12 @@
 # Sponsor Email
 
-Alert: This is a template that may inspire the text for your local Meetup group page.
+Alert: This is a template that may inspire the text for your local MeetupMeetup All local/regional gatherings that are officially a part of the WordPress world but are not WordCamps are organized through [https://www.meetup.com/](https://www.meetup.com/). A meetup is typically a chance for local WordPress users to get together and share new ideas and seek help from one another. Searching for ‘WordPress’ on meetup.com will help you find options in your area.Meetup All local/regional gatherings that are officially a part of the WordPress world but are not WordCamps are organized through [https://www.meetup.com/](https://www.meetup.com/). A meetup is typically a chance for local WordPress users to get together and share new ideas and seek help from one another. Searching for ‘WordPress’ on meetup.com will help you find options in your area. group page.
 
 Feel free to copy and paste this template and customize it for your area.
 
 About \[Your Group Name\] User Group
 
-\[Your Group Name\] is a casual, volunteer-organized, non-profit meetup covering everything related to WordPress the free and open source publishing software that powers more than 27% of websites on the Internet.
+\[Your Group Name\] is a casual, volunteer-organized, non-profit meetup covering everything related to WordPress the free and open sourceOpen Source Open Source denotes software for which the original source code is made freely available and may be redistributed and modified. Open Source \*\*must be\*\* delivered via a licensing model, see GPL. publishing software that powers more than 27% of websites on the Internet.
 
 \[Your Group Name\] is very active and meets \[number of events\] a month. We cater to people across the spectrum when it comes to WordPress familiarity and use, from beginners who need technical support, training and information to developers who are looking to sharpen their skills.
 
@@ -32,7 +32,7 @@ Sponsorships allow us to offer the Meetup to our members with food and a great v
 
 What will \[Your Group Name\] do for you?
 
-In return for your sponsorship, we will feature your logo, URL and a short description on our Meetup page and website. We will add your logo and details, with a description of your business on our Meetup news slides and give you a shout out at the event.
+In return for your sponsorship, we will feature your logo, URLURL A specific web address of a website or web page on the Internet, such as a website’s URL www.wordpress.org and a short description on our Meetup page and website. We will add your logo and details, with a description of your business on our Meetup news slides and give you a shout out at the event.
 
 From time to time, we will send you updates of what your sponsorship has done for WordPress \[your-town\], including pictures of recent events.
 
@@ -41,3 +41,5 @@ Thank you for taking the time to consider sponsoring \[Your Group Name\]. Please
 We looking forward to the possibility of working with you.
 
 \[Your Group Name\]
+
+*   [To-do](# "To-do")

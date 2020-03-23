@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Alert: This is a template that may inspire the text for your local meetup group page.
+Alert: This is a template that may inspire the text for your local meetupMeetup All local/regional gatherings that are officially a part of the WordPress world but are not WordCamps are organized through [https://www.meetup.com/](https://www.meetup.com/). A meetup is typically a chance for local WordPress users to get together and share new ideas and seek help from one another. Searching for ‘WordPress’ on meetup.com will help you find options in your area.Meetup All local/regional gatherings that are officially a part of the WordPress world but are not WordCamps are organized through [https://www.meetup.com/](https://www.meetup.com/). A meetup is typically a chance for local WordPress users to get together and share new ideas and seek help from one another. Searching for ‘WordPress’ on meetup.com will help you find options in your area. group page.
 
 Feel free to copy and paste this template and customize it for your area.
 
@@ -12,7 +12,7 @@ This code of conduct outlines our expectations for participant behavior as well 
 
 We invite all sponsors, volunteers, speakers, attendees, and other participants to help us realize a safe and positive community experience for everyone.
 
-2\. Open Source Citizenship
+2\. Open SourceOpen Source Open Source denotes software for which the original source code is made freely available and may be redistributed and modified. Open Source \*\*must be\*\* delivered via a licensing model, see GPL. Citizenship
 
 A supplemental goal of this code of conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between what we do and the community at large.
 
@@ -54,8 +54,10 @@ We expect all community members, sponsors, volunteers, speakers, attendees, and 
 
 8\. Contact Information
 
-We are available via the ‘Contact’ button over in the left hand sidebar
+We are available via the ‘Contact’ button over in the left hand sidebarSidebar A sidebar in WordPress is referred to a widget-ready area used by WordPress themes to display information that is not a part of the main content. It is not always a vertical column on the side. It can be a horizontal rectangle below or above the content area, footer, header, or any where in the theme.
 
 9\. License And Attribution
 
-This Code of Conduct is heavily borrowed from the awesome work of Open Source Bridge. The original is available at [http://opensourcebridge.org/about/code-of-conduct/](http://opensourcebridge.org/about/code-of-conduct/) and is released under a Creative Commons Attribution-ShareAlike license.
+This Code of Conduct is heavily borrowed from the awesome work of Open Source Bridge. The original is available at http://opensourcebridge.org/about/code-of-conduct/ and is released under a Creative Commons Attribution-ShareAlike license.
+
+*   [To-do](# "To-do")

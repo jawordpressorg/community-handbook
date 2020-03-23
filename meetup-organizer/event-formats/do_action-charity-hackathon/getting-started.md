@@ -1,10 +1,10 @@
 # Getting Started
 
-**So you want to organise your own do_action event? Great – welcome on board!**
+**So you want to organise your own do\_action event? Great – welcome on board!**
 
 Fortunately for you, [the doaction.org website](http://doaction.org/) is designed to take a lot of the heavy-lifting off your shoulders, so you can focus on the practical aspects of the event, rather than the manual admin tasks.
 
-We will go over all of this in more detail in the rest of these handbook pages, but the ingredients you need for a successful do_action event are the following:
+We will go over all of this in more detail in the rest of these handbook pages, but the ingredients you need for a successful do\_action event are the following:
 
 *   An active [local WordPress meetup](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/)
 *   A venue (and date)
@@ -13,6 +13,8 @@ We will go over all of this in more detail in the rest of these handbook pages, 
 *   Catering
 *   Sponsors
 
-_That’s it!_
+*That’s it!*
 
-The rest of these handbook pages deal with the specifics of how all of those things work, so use the links in the menu on the side and you’ll soon be on your way to your first local do_action event.
+The rest of these handbook pages deal with the specifics of how all of those things work, so use the links in the menu on the side and you’ll soon be on your way to your first local do\_action event.
+
+*   [To-do](# "To-do")

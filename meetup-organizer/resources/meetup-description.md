@@ -1,6 +1,6 @@
 # Meetup Description
 
-Alert: This is a template that may inspire the text for your local Meetup group page.
+Alert: This is a template that may inspire the text for your local MeetupMeetup All local/regional gatherings that are officially a part of the WordPress world but are not WordCamps are organized through [https://www.meetup.com/](https://www.meetup.com/). A meetup is typically a chance for local WordPress users to get together and share new ideas and seek help from one another. Searching for ‘WordPress’ on meetup.com will help you find options in your area.Meetup All local/regional gatherings that are officially a part of the WordPress world but are not WordCamps are organized through [https://www.meetup.com/](https://www.meetup.com/). A meetup is typically a chance for local WordPress users to get together and share new ideas and seek help from one another. Searching for ‘WordPress’ on meetup.com will help you find options in your area. group page.
 
 Feel free to copy and paste this template and customise it for your area.
 
@@ -13,3 +13,5 @@ We would love to see you if you are a developer diving into WordPress, are build
 If you’re looking for a developer to work with on a project, the Meetup is a great place to meet people and come and see if you can find a valuable connection.
 
 Hope to see you soon!
+
+*   [To-do](# "To-do")
