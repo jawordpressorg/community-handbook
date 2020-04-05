@@ -177,7 +177,7 @@ There are no specific rules around sponsorship, other than [the set of expectati
 Handling money for a community event can get complicated quickly (taxes! transparency!), so we suggest that any and all sponsorship be approached as “in-kind” — for example, when a company sponsors by ordering pizzas or a sandwich platter for a certain event. Meetup group organizers should not use the group as a sponsorship/marketing platform, according to the [five good-faith rules](https://make.wordpress.org/community/handbook/meetup-organizer/meetup-program-basics/#the-five-good-faith-rules).
 -->
 コミュニティイベントのためにお金を受け取ると、いろいろと複雑になることが考えられるので、すべてのスポンサーシップに対して「現物支給」を求めてアプローチすることをおすすめします — たとえば、企業がそのイベントのためにピザやサンドイッチの盛り合わせ、ドリンクなどを注文する、など。
- [5つのルール](https://make.wordpress.org/community/handbook/meetup-organizer/meetup-program-basics/#the-five-good-faith-rules)によると、Meetup グループの主催者は、グループをスポンサーシップやマーケティングのプラットフォームとして使用すべきではありません。
+[5つのルール](https://make.wordpress.org/community/handbook/meetup-organizer/meetup-program-basics/#the-five-good-faith-rules)によると、Meetup グループの主催者は、グループをスポンサーシップやマーケティングのプラットフォームとして使用すべきではありません。
 
 [Top ↑](#top)
 
