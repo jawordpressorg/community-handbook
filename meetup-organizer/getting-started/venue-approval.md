@@ -73,7 +73,7 @@ Have you announced to the meetup group that you are looking for a new venue?
 新しい会場を探していることを Meetup グループの参加者に共有していますか ?
 
 <!--
- Yes, I have emailed all the members of our group
+Yes, I have emailed all the members of our group
 -->
 はい。すべてのメンバーにメールで知らせました。
 
