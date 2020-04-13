@@ -1,6 +1,12 @@
+<!--
 # do_action: Charity Hackathon
+-->
+# do_action: チャリティハッカソン
 
+<!--
 ## Topics
+-->
+## トピック
 
 *   [What is do_action?](#what-is-do_action)
 *   [How do the hackathons work?](#how-do-the-hackathons-work)
@@ -9,7 +15,10 @@
 
 **do_action is a charity hackathon that uses WordPress to uplift local communities.**
 
+<!--
 ## What is do_action? [#What is do_action?](#what-is-do_action)
+-->
+## do_action とは何か？
 
 do\_action hackathons are community-organised events that are focussed on using WordPress to give deserving charitable organisations their own online presence. Each do\_action event includes participants from the local WordPress community coming together to plan and build brand new websites for a number of local organisations in one day.
 
