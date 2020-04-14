@@ -26,9 +26,12 @@ do_actionは、WordPressを使って地域コミュニティを活性化する�
 <!--
 do\_action hackathons are community-organised events that are focussed on using WordPress to give deserving charitable organisations their own online presence. Each do\_action event includes participants from the local WordPress community coming together to plan and build brand new websites for a number of local organisations in one day.
 -->
-do\_action ハッカソンとは、WordPressを使用して慈善団体に独自のオンラインプレゼンスを提供することに焦点を当てているコミュニティ主催のイベントです。各do\_actionイベントには、地域のWordPressコミュニティの参加者が集まり、1日で多くの地域団体向けの新しいWebサイトを計画し構築します。
+do\_action ハッカソンとは、WordPressを使用して慈善団体に独自のオンラインプレゼンス（インターネット上での存在感）を提供することに焦点を当てているコミュニティ主催のイベントです。各do\_actionイベントには、地域のWordPressコミュニティの参加者が集まり、1日で多くの地域団体向けの新しいWebサイトを計画し構築します。
 
+<!--
 The goal of do_action is to support these charitable organisations by giving them a fresh and dynamic online presence. This enables them to get on with the work that they already do so well without basic website management getting in the way of their productivity.
+-->
+do_actionの目標は、これらの慈善団体に新鮮でダイナミックなオンラインプレゼンスを提供しサポートすることです。これによって、彼らは基本的なWebサイト管理でその生産性を邪魔されることなく、すでに成功している業務を続行できるのです。
 
 [Top ↑](#top)
 
