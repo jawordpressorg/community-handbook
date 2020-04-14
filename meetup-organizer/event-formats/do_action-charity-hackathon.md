@@ -15,7 +15,7 @@
 *   [How can you get involved?](#how-can-you-get-involved)
 -->
 
-*   [do_action とは？](#do_action とは？)
+*   [do_actionとは？](#do_actionとは？)
 *   [ハッカソンのやり方](#ハッカソンのやり方)
 *   [名前の由来](#名前の由来)
 *   [参加方法](#参加方法)
@@ -28,7 +28,7 @@ do_actionは、WordPressを使って地域コミュニティを活性化する�
 <!--
 ## What is do_action? [#What is do_action?](#what-is-do_action)
 -->
-## do_action とは？
+## do_actionとは？
 
 <!--
 do\_action hackathons are community-organised events that are focussed on using WordPress to give deserving charitable organisations their own online presence. Each do\_action event includes participants from the local WordPress community coming together to plan and build brand new websites for a number of local organisations in one day.
@@ -76,6 +76,12 @@ do_actionはWordPressに焦点を当てたイベントであるため、その�
 -->
 ## 参加方法
 
+<!--
 There are two ways to get involved in do_action – you can sign up to participate in an event in your area, or organise one yourself. You will find the upcoming events listed on [the doaction.org site](http://doaction.org/), or you can have a look through this Organiser’s Handbook to find out more about how to organise your own do_action event.
+-->
+do_actionに参加するには、2つの方法があります。お住まいの地域のイベントに参加するためにサインアップするか、または自分でオーガナイズするかです。[doaction.orgサイト]（http://doaction.org/） にリストされている今後のイベントを探したり、このオーガナイザーハンドブックを通してどのようにdo_actionのイベントをオーガナイズするかを知ることができます。
 
+<!--
 _To find out a bit more about what do\_action is and how it works, here’s a video from the 2014 do\_action event in Cape Town:_
+-->
+_do\_actionとは何か、およびその機能について詳しく知るために、ケープタウンで開催された2014 do\_actionイベントのビデオをご覧ください_
