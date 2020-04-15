@@ -80,9 +80,11 @@ do\_action は WordPress に焦点を当てたイベントであるため、最�
 There are two ways to get involved in do_action – you can sign up to participate in an event in your area, or organise one yourself. You will find the upcoming events listed on [the doaction.org site](http://doaction.org/), or you can have a look through this Organiser’s Handbook to find out more about how to organise your own do_action event.
 -->
 
-do\_action に 参加するには、2つの方法があります。お住まいの地域のイベントに参加登録するか、または自分で主催するかです。[doaction.orgサイト](http://doaction.org/) にリストされている今後のイベントを探したり、このオーガナイザーハンドブックを通してどのように do\_action のイベントを運営するかを知ることができます。
+do\_action に 参加するには、2つの方法があります。お住まいの地域のイベントに参加登録するか、または自分で主催するかです。[doaction.org サイト](http://doaction.org/)にリストされている今後のイベントを探したり、このオーガナイザーハンドブックを通してどのように do\_action のイベントを運営するかを知ることができます。
 
 <!--
 _To find out a bit more about what do\_action is and how it works, here’s a video from the 2014 do\_action event in Cape Town:_
 -->
-do\_action とは何か、どんなふうに取り組むのかをより詳しく知るには、2014年にケープタウンで開催された do\_action イベントのビデオをご覧ください。
+do\_action とは何か、どんなふうに取り組むのかをより詳しく知るには、2014年にケープタウンで開催された do\_action イベントの動画をご覧ください。
+
+https://www.youtube.com/watch?v=t8g7LauRGMM
