@@ -23,7 +23,7 @@
 <!--
 **do_action is a charity hackathon that uses WordPress to uplift local communities.**
 -->
-do_actionは、WordPressを使って地域コミュニティを活性化するチャリティーハッカソンです。
+**do_action は、WordPress を使って地域社会を盛り上げるためのチャリティーハッカソンです。**
 
 <!--
 ## What is do_action? [#What is do_action?](#what-is-do_action)
