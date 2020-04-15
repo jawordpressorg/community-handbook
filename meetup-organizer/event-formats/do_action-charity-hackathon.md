@@ -84,4 +84,4 @@ do_actionに参加するには、2つの方法があります。お住まいの�
 <!--
 _To find out a bit more about what do\_action is and how it works, here’s a video from the 2014 do\_action event in Cape Town:_
 -->
-_do\_actionとは何か、およびその機能について詳しく知るために、ケープタウンで開催された2014 do\_actionイベントのビデオをご覧ください_
+_do\_actionについてもっと詳しく知るには、ケープタウンで開催された2014 do\_actionイベントのビデオをご覧ください_
