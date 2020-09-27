@@ -1,0 +1,127 @@
+# Online Code of Conduct
+
+<!-- wp:wporg/callout {"type":"alert"} -->
+<div class="callout callout-alert"><!-- wp:paragraph -->
+<p>This handbook is still in progress! Have suggestions? <a rel="noreferrer noopener" href="mailto:support@wordcamp.org" target="_blank">Let us know</a>!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:wporg/callout -->
+
+<!-- wp:paragraph -->
+<p>Below is the virtual event code of conduct that you can customize with the name for your event and your contact information.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We also recommend the organizing team read this article on <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports">how to take a harassment report</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If a code of conduct violation results in the removal of an attendee or attendees from WordCamp, we’ll ask you to fill out <a href="https://make.wordpress.org/community/files/2017/10/Incident-Report-Form.pdf">this incident report</a> and send it to support@wordcamp.org.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Purpose</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>WordCamp CITYNAMEHERE believes our community should be truly open for everyone. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, age, caste, social class, preferred operating system, programming language, or text editor, among other identifying characteristics.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This code of conduct outlines our expectations for participant behavior as well as the consequences for unacceptable behavior.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We invite all sponsors, volunteers, speakers, attendees, and other participants to help us realize a safe and positive conference experience for everyone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Open Source Citizenship</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A supplemental goal of this code of conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between what we do and the community at large.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In service of this goal, WordCamp CITYNAMEHERE organizers will be taking nominations for exemplary citizens throughout the event and will recognize select participants after the conference on the website.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know. You can nominate someone at the Registration table or online at URL HERE.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Expected Behavior</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Be considerate, respectful, and collaborative.</li><li>Refrain from demeaning, discriminatory or harassing behavior and speech.</li><li>Be mindful of your fellow participants. Alert conference organizers if you notice a dangerous situation or someone in distress.</li><li>Participate in an authentic and active way. In doing so, you help to create WordCamp CITYNAMEHERE and make it your own.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>4. Unacceptable Behavior</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct by any attendees of WordCamp CITYNAMEHERE and related events. All WordCamp CITYNAMEHERE platforms may be shared with members of the public; please be respectful to all patrons of these tools.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Harassment includes: offensive verbal comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images and links in public spaces (including presentation slides and virtual event text chat); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate contact, and unwelcome sexual attention.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Consequences Of Unacceptable Behavior</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Unacceptable behavior will not be tolerated whether by other attendees, organizers, sponsors, or other patrons of WordCamp CITYNAMEHERE platforms.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Anyone asked to stop unacceptable behavior is expected to comply immediately.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If a participant engages in unacceptable behavior, the conference organizers may take any action they deem appropriate, up to and including expulsion from the conference without warning or refund.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. What To Do If You Witness Or Are Subject To Unacceptable Behavior</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you are subject to unacceptable behavior, notice that someone else is being subject to unacceptable behavior, or have any other concerns, please notify a conference organizer as soon as possible.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The WordCamp CITYNAMEHERE team will be available to help participants contact the platform moderators, or to otherwise assist those experiencing unacceptable behavior to feel safe for the duration of the conference.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><br>Volunteer’s screen name starts with “[V]”.You can send a private message to them, and they will connect you with a conference organizer who has the control of the video conferencing software.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Scope</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We expect all conference participants (sponsors, volunteers, speakers, attendees, and other guests) to abide by this code of conduct at all conference platforms and conference-related social events.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Contact Information</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Contact info here! Make sure this includes a way to access the organizers during the event. Having a virtual event, add some type of contact information that anyone can reach you during the event (such as Make WordPress Slack account or email address with an instant notification).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. License And Attribution</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This Code of Conduct is a direct swipe from the awesome work of Open Source Bridge, but with our event information substituted. The original is available at <a href="http://opensourcebridge.org/about/code-of-conduct/">http://opensourcebridge.org/about/code-of-conduct/</a> and is released under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> license.</p>
+<!-- /wp:paragraph -->
