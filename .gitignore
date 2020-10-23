@@ -30,3 +30,5 @@ doc/
 .DS_Store
 .idea
 .secret
+test.md
+*-old*
