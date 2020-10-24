@@ -1701,7 +1701,7 @@ rules:
     pattern:
       - /cache(?![^a-zA-Z\-])/
       - /Cache(?![^a-zA-Z\-])/
-- expected: 近隣地域
+  - expected: 近隣地域
     pattern:
       - /ローカルエリア/
       - /ローカル地域/
@@ -1815,7 +1815,7 @@ rules:
   - expected: 地域コミュニティ
     pattern:  /\blocal community\b/i|/ローカルコミュニティ/
   - expected: チャプタープログラム
-    pattern:  /\bchapter program\b/i
+    pattern:  /\bchapter program\b/i|/ローカルコミュニティ/
   - expected: データサービス
     pattern:  /\bData Services\b/
   - expected: データ
