@@ -1056,12 +1056,12 @@ rules:
     expected: なるほど
   - pattern: さきほど|先程
     expected: 先ほど
-  - pattern: /基([いかきくけこ])|基ず([いかきくけこ])|もとず([いかきくけこ])|もとづ([いかきくけこ])/
-    expected: 基づ$1
-  - pattern:
-      - 元々
-      - 本々
-    expected: もともと
+#  - pattern: /基([いかきくけこ])|基ず([いかきくけこ])|もとず([いかきくけこ])|もとづ([いかきくけこ])/
+#    expected: 基づ$1
+#  - pattern:
+#      - 元々
+#      - 本々
+#    expected: もともと
   - pattern: /基([^数準盤板底礎本])/
     expected: もと$1
   - pattern: /([^追])及び/
@@ -1070,18 +1070,6 @@ rules:
     expected: した上
   - pattern: そのうえ
     expected: その上
-  - pattern: 始めとする
-    expected: はじめとする
-  - pattern: 始めとした
-    expected: はじめとした
-  - pattern: はじめて
-    expected: 初めて
-  - pattern: はじめた
-    expected: 始めた
-  - pattern: はじま
-    expected: 始ま
-  - pattern: はじめ
-    expected: 始め
   - pattern: かたまり
     expected: 塊
   - pattern: やりかた
@@ -1713,6 +1701,10 @@ rules:
     pattern:
       - /cache(?![^a-zA-Z\-])/
       - /Cache(?![^a-zA-Z\-])/
+- expected: 近隣地域
+    pattern:
+      - /ローカルエリア/
+      - /ローカル地域/
   - expected: クエリー文字列
     pattern:
       - QueryString
@@ -1764,8 +1756,8 @@ rules:
     pattern:  /コンポネント/
   - expected: コントローラ
     pattern:  /コントローラー/
-  - expected: サーバー$1
-    pattern:  /サーバ[~ー]/
+  - expected: サーバー
+    pattern:  /サーバ(?!ー)/
   - expected: シェア
     pattern:  /シェア率/
   - expected: ジェスチャ
@@ -1820,6 +1812,10 @@ rules:
 #    pattern:
 #      - table
 #      - Table
+  - expected: 地域コミュニティ
+    pattern:  /\blocal community\b/i|/ローカルコミュニティ/
+  - expected: チャプタープログラム
+    pattern:  /\bchapter program\b/i
   - expected: データサービス
     pattern:  /\bData Services\b/
   - expected: データ
@@ -2297,6 +2293,10 @@ rules:
     pattern:  /\bMeCab\b/i
   - expected: Mechanize
     pattern:  /\bMechanize\b/i
+  - expected: Meetup
+    pattern: 
+    - ミートアップ
+    - meetup
   - expected: memcached
     pattern:  /\bmemcached\b/i
   - expected: $1Microsoft$2
@@ -2377,8 +2377,8 @@ rules:
     pattern:  /PostgreSQL([0-9])/
   - expected: PowerPoint
     pattern:  /\bPower Point\b/
-  - expected: Pull Request
-    pattern:  /プルリクエスト|\bpull request\b|\bPull request\b/
+#  - expected: Pull Request
+#    pattern:  /プルリクエスト|\bpull request\b|\bPull request\b/
   - expected: Python
     pattern:  /\bPython\b/iΩ
   - expected: RADIUS
