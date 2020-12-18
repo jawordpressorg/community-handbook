@@ -1,6 +1,14 @@
+/* 
 # Local WordCamp Sponsorship
+*/
 
-<p>WordCamps are a great opportunity for companies that benefit from a free and open source software like WordPress to give back to the project that’s given them so much. Many companies are built around WordPress. A company that sponsors might have a lot of customers who love WordPress; other companies might just use WordPress, love it, and want to give back.</p>
+/* <p>WordCamps are a great opportunity for companies that benefit from a free and open source software like WordPress to give back to the project that’s given them so much. Many companies are built around WordPress. A company that sponsors might have a lot of customers who love WordPress; other companies might just use WordPress, love it, and want to give back.</p> */
+
+# ローカル WordCamp スポンサーシップ
+
+<p>WordCamp は WordPress のようなオープンソースソフトウェアからの恩恵を被った企業にとって、そのたくさんの恩恵をもたらした WordPress プロジェクトに恩返しができる絶好の機会です。多くの企業が WordPress の周りで立ち上げられています。WordCamp のスポンサーをしているある会社は WordPress を愛する数多くの顧客を持っているかもしれません。また他のある会社は WordPress を使っているだけかもしれませんし、 WordPress を愛しているかもしれませんし、恩返しをしたいかもしれません。</p>
+
+
 <h2>WordCamp sponsorship packages</h2>
 <p>Setting up your local sponsorship packages can be a challenge. Not everyone is accustomed to fundraising, and some organizers develop a nasty case of <a href="https://en.wikipedia.org/wiki/Impostor_syndrome">impostor syndrome</a> when they start looking at how to acknowledge companies that give their event a chunk of cash to help make WordCamp happen. The WordCamp program has an established set of sponsorship rules, which apply to your event. So how do you set up WordCamp sponsorship packages that show gratitude to your sponsors but don’t give away the store?</p>
 <p>We’ve assembled some common WordCamp sponsor acknowledgement methods that are appropriate, respectful of attendees, and easy for your volunteer organizing team to follow through on.  Mix and match to create your own packages*!</p>
