@@ -61,9 +61,9 @@ meetup.com には WordPress 公式のアカウントがあります。meetup.com
 -->
 2. WordPress Meetup には、能力、スキル、経済状況、その他の基準に関わらず、あらゆる人が参加できます。
 <!--
-3.  Meetups are volunteer-run with volunteer speakers. In cases where a modest attendance fee might be necessary, this fee should only cover the costs of the meetup and should not be used to pay speakers or organizers.
+3.  Meetups are volunteer-run with volunteer speakers.
 -->
-3. Meetup は、ボランティアが運営し、スピーカーも無償で登壇しています。少額の参加費が必要になる場合でも、それは Meetup の経費のみに使うものであり、スピーカーや運営スタッフの報酬にすべきではありません。
+3. Meetup は、ボランティアが運営し、スピーカーも無償で登壇しています。
 <!--
 4.  Meetup groups allow events to be organized by any reliable/trusted member of the community.
 -->
@@ -167,57 +167,15 @@ In the end of some of the handbook pages, you will be presented with a quiz to t
 -->
 一部のハンドブックページの文末には、そのページでカバーした Meetup に関する知識をテストできるクイズがついているものがあります。知識の習得を助け、重要な細かい内容も理解していただいたことを確認するためです。クイズに合格するには全問正解する必要がありますが、心配しないでください。何度も挑戦することができます。
 
-[![sample_page](https://make.wordpress.org/community/files/2016/08/sample_page.png)](https://make.wordpress.org/community/files/2016/08/sample_page.png)
+[![](https://make.wordpress.org/community/files/2021/05/contributor-training-quizzes-698x1024.png)](https://make.wordpress.org/community/files/2021/05/contributor-training-quizzes.png)
 
 <!--
-Here is what a reference to a quiz looks like.
+All our quizzes live in the [WordPress Contributor training site](https://wordpress.org/contributor-training/). To be able to use quizzes you need to be logged in to your WordPress.org account. In case you don’t already have a valid WordPress.org account, [you can create one now](https://login.wordpress.org/register).
 -->
-以下はリファレンスクイズの例です。
-
-<!--
-To be able to use quizzes you need first to register at [https://community-self-training.mystagingwebsite.com](https://community-self-training.mystagingwebsite.com/). If you are not registered yet, find an instruction guiding you through the process below.
--->
-クイズを使うには、まず [https://community-self-training.mystagingwebsite.com](https://community-self-training.mystagingwebsite.com/) に登録する必要があります。まだ登録されていない場合は、以下の手順を参照してください。
-
-<!--
-### How to register & subscribe to quizzes [#How to register & subscribe to quizzes](#how-to-register-subscribe%c2%a0to-quizzes)
--->
-### クイズサイトへの登録とコース参加方法
-
-<!--
-1. Go to [My Courses](https://community-self-training.mystagingwebsite.com/my-courses/) link. Scroll the page a bit and fill in the registration form.
--->
-1. [My Courses](https://community-self-training.mystagingwebsite.com/my-courses/) に進み、画面を少しスクロールして「Register」フォームの各項目を記入します。
-
-[![Selection_046](https://make.wordpress.org/community/files/2016/08/Selection_046.png)](https://make.wordpress.org/community/files/2016/08/Selection_046.png)
-
-<!--
-2. Press Register.
--->
-2. [Regiter] ボタンをクリックします。
-
-<!--
-3. Select Meetup organizer training from the menu the right.
--->
-3. 右側の [Courses] から、[Meetup Organizer Training] をクリックします
-
-[![Selection_024](https://make.wordpress.org/community/files/2015/09/Selection_024.png)](https://make.wordpress.org/community/files/2015/09/Selection_024.png)
-
-<!--
-4. Subscribe to a course.
--->
-4. [Start taking this cource] ボタンをクリックします。
-
-[![Selection_026](https://make.wordpress.org/community/files/2015/09/Selection_026.png)](https://make.wordpress.org/community/files/2015/09/Selection_026.png)
-
-<!--
-5. After you see “In progress” status appear below the course name, you are all set to go back to handbook site and start/continue reading it. As you are logged in to the site which hosts quizzes, you can open the link you encounter at the handbook pages and check your knowledge.
--->
-5. コース名の下に「In Progress」のステータスが表示されると、ハンドブックサイトに戻って確認できます。クイズがホスティングされているサイトにログインしている場合、ハンドブックページの下にリンクがある画面でクリックして知識をチェックできます。
-
-[![Selection_027](https://make.wordpress.org/community/files/2015/09/Selection_027.png)](https://make.wordpress.org/community/files/2015/09/Selection_027.png)
+すべてのクイズは [WordPress コントリビュータートレーニングサイト](https://wordpress.org/contributor-training/)にあります。クイズを利用するためには、WordPress.org のアカウントにログインする必要があります。まだ登録されていない場合は、 [こちらから作成できます](https://login.wordpress.org/register)。
 
 <!--
 Good luck with the quizzes! And please use the #community-team channel on [our Slack](https://chat.wordpress.org) to report if a quiz question is incorrect or ambiguous.
+Good luck with the quizzes! And please use the  channel on [our Slack](https://chat.wordpress.org) to report if a quiz question is incorrect or ambiguous.
 -->
-それではがんばってください ! もしクイズの質問が間違っていたり、分かりづらい場合は、コミュニティチャンネル ([英語 Slack](https://chat.wordpress.org) #community-team・[日本語 Slack](http://bit.ly/join-wordslack) #community) でお知らせください。
+それではがんばってください ! もしクイズの質問が間違っていたり、分かりづらい場合は、コミュニティチャンネル ([英語 Slack](https://chat.wordpress.org) [#community-team](https://wordpress.slack.com/archives/C037W5S7X) または[日本語 Slack](http://bit.ly/join-wordslack) [#community](https://wpja.slack.com/archives/C02T7ML20)) でお知らせください。
