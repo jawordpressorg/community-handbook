@@ -8,7 +8,7 @@ Sometimes a group will leave the chapter program. Reasons include:
 
 In the first two cases, the Community Team makes an effort to find new organizers for the group, and if that effort doesn’t result in a new organizer volunteering, the group will be removed from the chapter program.
 
-When a MeetupMeetup All local/regional gatherings that are officially a part of the WordPress world but are not WordCamps are organized through [https://www.meetup.com/](https://www.meetup.com/). A meetup is typically a chance for local WordPress users to get together and share new ideas and seek help from one another. Searching for ‘WordPress’ on meetup.com will help you find options in your area. group is removed from the WordPress chapter account, WordPress steps down as the organizer. WordPress will no longer pay the dues for the account since WP is no longer the owner of the group.
+When a Meetup group is removed from the WordPress chapter account, WordPress steps down as the organizer. WordPress will no longer pay the dues for the account since WP is no longer the owner of the group.
 
 Since there will also not be any other organizers, no one else will be charged dues until another member becomes the organizer. If a group becomes active again, and and the new or now-active organizers would like to re-join the chapter, they should complete the [Meetup Interest Form](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/interest-form/).
 

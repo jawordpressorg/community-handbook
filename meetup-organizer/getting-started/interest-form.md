@@ -1,6 +1,6 @@
 # Meetup Interest Form
 
-We have a central account at meetup.com for WordPress meetups. If you’d like to start a meetupMeetup All local/regional gatherings that are officially a part of the WordPress world but are not WordCamps are organized through [https://www.meetup.com/](https://www.meetup.com/). A meetup is typically a chance for local WordPress users to get together and share new ideas and seek help from one another. Searching for ‘WordPress’ on meetup.com will help you find options in your area. group in your city, we’ll cover the meetup.com dues if you promise to stick to a few simple guidelines with the meetup group:
+We have a central account at meetup.com for WordPress meetups. If you’d like to start a meetup group in your city, we’ll cover the meetup.com dues if you promise to stick to a few simple guidelines with the meetup group:
 
 1.  WordPress Meetups are for the benefit of the WordPress community as a whole, not specific businesses or individuals. All actions that I take as an organizer are with the best interest of the community in mind.
 2.  Membership in the local meetup group is open to all who wish to join, regardless of ability, skill, financial status or any other criteria.
@@ -8,14 +8,16 @@ We have a central account at meetup.com for WordPress meetups. If you’d like t
 4.  Meetup groups allow events to be organized by any reliable/trusted member of the community.
 5.  Meetups are welcoming places where everyone works to foster an accepting environment which is free of discrimination, incitement to violence, promotion of hate, and general jerk-like behavior.
 
-We also ask everyone that organizes WordPress Chapter Meetup to uphold the principles of the WordPress open sourceOpen Source Open Source denotes software for which the original source code is made freely available and may be redistributed and modified. Open Source \*\*must be\*\* delivered via a licensing model, see GPL. project, including the GPLGPL GPL is an acronym for GNU Public License. It is the standard license WordPress uses for Open Source licensing [https://wordpress.org/about/license/](https://wordpress.org/about/license/). The GPL is a ‘copyleft’ license [https://www.gnu.org/licenses/copyleft.en.html](https://www.gnu.org/licenses/copyleft.en.html). This means that derivative work can only be distributed under the same license terms. This is in distinction to permissive free software licenses, of which the BSD license and the MIT License are widely used examples.. This helps protect the user/attendee, who might not realize that by using a non-GPL pluginPlugin A plugin is a piece of software containing a group of functions that can be added to a WordPress website. They can extend functionality or add new features to your WordPress websites. WordPress plugins are written in the PHP programming language and integrate seamlessly with WordPress. These can be free in the WordPress.org Plugin Directory https://wordpress.org/plugins/ or can be cost-based plugin from a third-party or theme, they are giving away the rights that WordPress provides them.
+We also ask everyone that organizes WordPress Chapter Meetup to uphold the principles of the WordPress open source project, including the GPL. This helps protect the user/attendee, who might not realize that by using a non-GPL plugin or theme, they are giving away the rights that WordPress provides them.
 
 These guidelines were created by volunteers active in current meetup groups. They may change over time based on feedback from the WordPress meetup community.
 
 Sound good? To get started, go to [meetup.com](http://meetup.com) and create a username/account for yourself if you don’t already have one. Fill in the form below, and we’ll get back to you within a week to either confirm your new meetup group or ask some additional questions. Note: you can also use this form if you have an existing WordPress meetup group on meetup.com would like to transfer it to the central account so you don’t have to pay dues anymore.
 
-If you are already a co-organizer in meetup group that is part of our chapter program and do want the Meetup Organizer badge to your wordpress.orgWordPress.org The community site where WordPress code is created and shared by the users. This is where you can download the source code for WordPress core, plugins and themes as well as the central location for community conversations and organization. [https://wordpress.org/](https://wordpress.org/) profile, please send email to support@wordcamp.org.
+If you are already a co-organizer in meetup group that is part of our chapter program and do want the Meetup Organizer badge to your wordpress.org profile, please send email to support@wordcamp.org.
 
 **[Apply here now to join the WordPress Meetup chapter program!](https://central.wordcamp.org/meetup-organizer-application/)**
+
+> [Meetup Organizer Application](https://central.wordcamp.org/meetup-organizer-application/)
 
 *   [To-do](# "To-do")

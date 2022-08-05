@@ -4,7 +4,7 @@ Sponsors for the day are important, but one thing that we have not yet touched o
 
 How this works will very much depend on the country that you live in, but a good idea is to contact a local hosting company and discuss the options with them. Once again, make sure the potential host is aware that this is a charity event – in many cases, hosts have free hosting plans for registered non-profit organisations and will be happy to come on board for your event.
 
-Some of your non-profits may already have hosting that they wish to continue using – that isn’t a problem at all and they are welcome to do so. In those instance you will need to get hold of the relevant connection details (FTPFTP FTP is an acronym for File Transfer Protocol which is a way of moving computer files from one computer to another via the Internet. You can use software, known as a FTP client, to upload files to a server for a WordPress website. [https://codex.wordpress.org/FTP\_Clients](https://codex.wordpress.org/FTP_Clients)., etc.) in order to set up their new website.
+Some of your non-profits may already have hosting that they wish to continue using – that isn’t a problem at all and they are welcome to do so. In those instance you will need to get hold of the relevant connection details (FTP, etc.) in order to set up their new website.
 
 ## A few country-specific options
 

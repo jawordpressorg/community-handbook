@@ -1,6 +1,8 @@
-# Organizing Virtual Events
+# Organizing Virtual Meetups
 
-Technology Resources for MeetupMeetup All local/regional gatherings that are officially a part of the WordPress world but are not WordCamps are organized through [https://www.meetup.com/](https://www.meetup.com/). A meetup is typically a chance for local WordPress users to get together and share new ideas and seek help from one another. Searching for ‘WordPress’ on meetup.com will help you find options in your area. Organizers for virtual events
+## Technology Resources for Meetup Organizers for virtual events
+
+You can now request a Zoom Pro account to host your online meetup. Send in your request using the [Online Events Zoom Request form](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/special-virtual-events-zoom-request/), and a community deputy will get back to you with more details.
 
 The WordPress chapter meetup program has always emphasized the importance of in-person events over online events, but if there is any evidence of [community transmission](https://en.wikipedia.org/wiki/Transmission_(medicine)#Definition_and_related_terms) of COVID-19 in your area, we encourage organizing online events for the next few months.
 
@@ -14,33 +16,42 @@ Big “Thank you” to Hugh Lashbrooke and other community members for [sharing 
 *   **Headphones, microphone**: Your computer’s built-in speakers and microphone will suffice, but an external headset will help with clarity.
 *   **Meeting/webinar/streaming software**. More on that below!
 
+## Meetup.com Online Events
+
+Meetup.com has made changes to their event interface in light of their recommendations to take meetups online. Under the location box, you can now designate a meetup as an online event and provide a video URL for your attendees to connect with your video.
+
+![Screenshot of the online event designation feature of meetup.com.](https://make.wordpress.org/community/files/2020/03/meetup-dot-com-online-event-1024x571.png)
+
 ## Free Virtual Event Hosting Tools
 
-**Requirements/Features needed for a presenter talk / event. **
+**Requirements/Features needed for a presenter talk / event.** 
 
-*   One URLURL A specific web address of a website or web page on the Internet, such as a website’s URL www.wordpress.org to join and attend the the event
+*   One URL to join and attend the the event
 *   Chat Window for Q & A and inter-attendee chatter 
 *   Screen sharing / slide-share / video watching – capabilities
 *   Enough space for expected audience
 *   Enough time for the expected length of the event. 
 
-**[Zoom](https://zoom.us/) – Video conferencing App. **
+**[Zoom](https://zoom.us/) – Video conferencing App.** 
 
 *   Cost: free, with different levels of paid accounts; Pro starts at $14.99/month
 *   Free: 100 attendees for 40 minutes and unlimited number of meetings.
 *   Recording: Yes 
 *   Organizer controls of who can share screens: [Yes](https://support.zoom.us/hc/en-us/articles/201362603-Host-and-Co-Host-Controls-in-a-Meeting)
+*   **Community sponsored Zoom Pro accounts are available for online meetups. You can [reserve a Zoom Pro account for your meetup now](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/special-virtual-events-zoom-request/).**
 
-**Note:** If you use Zoom for public meetings, make sure that screen- sharing is enabled for hosts only. Once you make presenters co-hosts, they can share their screens,too. (See also [Zoom video on this page](https://support.zoom.us/hc/en-us/articles/201362603-Host-and-Co-Host-Controls-in-a-Meeting))
+**Note:** If you use Zoom for public meetings, make sure that screen- sharing is enabled for hosts only. Once you make presenters co-hosts, they can share their screens, too. (See also [Zoom video on this page](https://support.zoom.us/hc/en-us/articles/201362603-Host-and-Co-Host-Controls-in-a-Meeting))
 
-**[Google Meet](https://meet.google.com/) **
+![](https://make.wordpress.org/community/files/2020/03/Screen-Shot-2020-03-24-at-3.34.25-PM.png)
 
-*   Cost: Free for G-Suite users
-*   Recording: Yes
-*   Would work well,  if one of your organizers has a G-Suite account and can facilitate meetings. 
-*   *Through July 1, 2020, all G Suite customers can use advanced Hangouts Meet features, like larger meetings (up to 250 participants), live streaming, and recording. — Announcement by Google. *
+**[Google Meet](https://meet.google.com/)** 
 
-[**YouTube Live **](https://support.google.com/youtube/topic/9257891?hl=en-GB&visit_id=637195664133146027-312588770&rd=1)
+*   Cost: Free for anyone with a Google Account.
+*   100 users can attend a single meeting, with no cap on meeting time through September 30, 2020. After that free meetings will be restricted to 60 minutes.
+*   Recording: Available for G-Suite customers, not available for regular Google accounts.
+*   *Google meet would be an ideal platform of choice for your meetup, if one of your organizers has a G-Suite account and can facilitate meetings*. *Through September 30, 2020, all G Suite customers can use advanced Hangouts Meet features, like larger meetings (up to 250 participants), live streaming, and recording. — [Announcement by Google.](https://gsuiteupdates.googleblog.com/2020/03/enabling-hangouts-meet-premium-features.html)* 
+
+[**YouTube Live**](https://support.google.com/youtube/topic/9257891?hl=en-GB&visit_id=637195664133146027-312588770&rd=1) 
 
 If you have access to a YouTube channel, you can enable live stream there as well. It’s a little bit of work to set-up the channel, and go through the verification process. 
 
@@ -50,13 +61,13 @@ If you have access to a YouTube channel, you can enable live stream there as wel
     *   [Verify your YouTube account](https://support.google.com/youtube/answer/171664)
     *   [Enable Live Streaming](https://support.google.com/youtube/answer/9227509?hl=en)
 
-[**PGi **](https://www.pgi.ca/plans-pricing/)
+[**PGi**](https://www.pgi.ca/plans-pricing/) 
 
 *   Video and web conferencing solution
 *   Cost: Different pricing levels, with free unlimited meetings for up to 125 Participants
 *   Recording: Yes
 
-[**Facebook Live**](https://www.facebook.com/facebookmedia/solutions/facebook-livehttps://www.facebook.com/facebookmedia/solutions/facebook-live)
+[**Facebook Live**](https://www.facebook.com/formedia/tools/facebook-live)
 
 *   You can have Live meetings on Facebook for Facebook groups 
 *   Cost: Free 
@@ -68,10 +79,18 @@ If you have access to a YouTube channel, you can enable live stream there as wel
 *   Free: max 2 people on screen, 3 events per month, 5 assets for overlay or theme.
 *   Recording: no. 
 
-[**Jitsi** Meet](https://meet.jit.si/)– open-source Video conferencing platform
+[**Jitsi Meet**](https://meet.jit.si/)– open-source Video conferencing platform
 
 *   Free
 *   Use all day, every day. 🙂
+
+**[Streamyard](https://streamyard.com/)** – web tool for making Live streams on Youtube
+
+*   Cost: Free and Basic account from 25$ / month.
+*   Recording: Yes. You can download Video and Audio.
+*   You can do post-production right in your browser: 6 participants, live chat, branding, and show live comments.
+*   You can connect to Youtube Live, Facebook Live, and Linkedin.
+*   Very easy to use.
 
 ## Tips and Ideas from WordPress Community Organizers
 
@@ -82,7 +101,7 @@ This section was compiled from the comments of WordPress Community organizers. S
 *   **Birds of a Feather** – Breakout rooms for particular topics over lunch
 *   **Interactive Educational** – Speaker presents for 20 minutes (chat silent)  / Live Q & A for 20 min (Free Zoom meeting) 
 *   **Round Robin** – Topic is voted on ahead of time. Meetup members get in a video call. Moderator guides the meeting, and makes sure everyone is heard who wants to be heard. Three sub topics each discussed for 10 minutes / Rest of the time announcements and news. 
-*   **Asynchronous discussion** on web forum (Discourse, bbPressbbPress Free, open source software built on top of WordPress for easily creating forums on sites. [https://bbpress.org](https://bbpress.org)., etc. ) 
+*   **Asynchronous discussion** on web forum (Discourse, bbPress, etc. ) 
 *   **HelpDesk Hours online** – A group of volunteers are available for meetup members to help with their website 
 
 ### Tips for Larger Events
@@ -116,6 +135,13 @@ The **Community Managers Hub (CMXHub)** published a long post with resources and
 
 **Changelog**
 
+*   Updated 4/21/21  
+    Prominently highlighted [Community Zoom Pro accounts](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/special-virtual-events-zoom-request/) that are now available for Meetup organizers.
+*   Updated 6/18/20  
+    Google Meet features
+*   Updated 3/24/20
+    *   Added screenshot and instructions for creating virtual meetups on Meetup.com
+    *   Added screenshot to Zoom setting to restrict screen sharing to hosts only
 *   Updated 3/20/20
     *   Note added re host-only screen sharing ([added after reports of abuse on #community-events slack channel).](https://wordpress.slack.com/archives/C02RQC7RN/p1584663238425400))
 *   Updated 3/13/20

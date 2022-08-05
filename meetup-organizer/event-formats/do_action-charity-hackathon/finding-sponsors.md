@@ -2,7 +2,7 @@
 
 Now that you have got this far in planning your do\_action hackathon, you will notice that the costs for this kind of event are actually relatively low. In fact, the only real costs are for the venue hire and the catering – both of which can often be reduced due to this being a charity event.
 
-When it comes to finding sponsors for your event, it’s best to go with local companies as they know your community the best and can get involved in more practical ways. That being said, the criteria for do\_action sponsorship are the same as for WordCampWordCamp WordCamps are casual, locally-organized conferences covering everything related to WordPress. They're one of the places where the WordPress community comes together to teach one another what they’ve learned throughout the year and share the joy. [Learn more](https://central.wordcamp.org/about/). sponsorship – you can find more details about this in the [WordCamp Organiser’s Handbook](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/planning-details/fundraising/wordcamp-sponsorship/).
+When it comes to finding sponsors for your event, it’s best to go with local companies as they know your community the best and can get involved in more practical ways. That being said, the criteria for do\_action sponsorship are the same as for WordCamp sponsorship – you can find more details about this in the [WordCamp Organiser’s Handbook](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/planning-details/fundraising/wordcamp-sponsorship/).
 
 In return for sponsoring the event, you can offer sponsors anything that makes sense for this kind of thing. Some suggestions are:
 

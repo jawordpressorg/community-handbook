@@ -15,6 +15,6 @@ Creating an inclusive environment is an ongoing process of gentle course correct
 
 **Note:** Very importantly, if the situation turns physically aggressive, violent, or otherwise dangerous, do not try to handle it yourself. Call the police if required.
 
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/responding-to-code-of-conduct-violations/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes) section of the welcome page if you have any questions about quizzes and how to navigate them.
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/responding-to-code-of-conduct-violations/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes) section of the welcome page if you have any questions about quizzes and how to navigate them.
 
 *   [To-do](# "To-do")

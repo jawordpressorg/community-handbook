@@ -4,7 +4,7 @@ In the right hand corner of your open collective account, click on the arrow by 
 
 ![](https://make.wordpress.org/community/files/2019/03/Screenshot-2019-03-15-at-00.34.50-1024x426.png)
 
-Click on the ‘edit collective’ link in the page headerHeader The header of your site is typically the first thing people will experience. The masthead or header art located across the top of your page is part of the look and feel of your website. It can influence a visitor’s opinion about your content and you/ your organization’s brand. It may also look different on different screen sizes..
+Click on the ‘edit collective’ link in the page header.
 
 ![](https://make.wordpress.org/community/files/2019/03/collective3-1024x347.png)
 

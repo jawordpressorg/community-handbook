@@ -1,6 +1,6 @@
 # Welcome Email
 
-Alert: This is a template that may inspire the text for your local MeetupMeetup All local/regional gatherings that are officially a part of the WordPress world but are not WordCamps are organized through [https://www.meetup.com/](https://www.meetup.com/). A meetup is typically a chance for local WordPress users to get together and share new ideas and seek help from one another. Searching for ‘WordPress’ on meetup.com will help you find options in your area.Meetup All local/regional gatherings that are officially a part of the WordPress world but are not WordCamps are organized through [https://www.meetup.com/](https://www.meetup.com/). A meetup is typically a chance for local WordPress users to get together and share new ideas and seek help from one another. Searching for ‘WordPress’ on meetup.com will help you find options in your area. group page.
+Alert: This is a template that may inspire the text for your local Meetup group page.
 
 Feel free to copy and paste this template and customize it for your area.
 

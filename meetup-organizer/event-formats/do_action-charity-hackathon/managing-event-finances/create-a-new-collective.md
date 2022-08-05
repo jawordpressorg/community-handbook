@@ -28,9 +28,9 @@ There’s a lot of information you can add at this point, so take your time to g
 *   **Info**  
     Fill in any extra info you like here – the *Country* and *Long description* are particularly useful but optional.
 *   **Images**  
-    Add an avatarAvatar An avatar is an image or illustration that specifically refers to a character that represents an online user. It’s usually a square box that appears next to the user’s name. (appears at the top of the banner on your collective page) and a cover image (background image for the banner) if you like.
+    Add an avatar (appears at the top of the banner on your collective page) and a cover image (background image for the banner) if you like.
 *   **Members**  
-    Add other members of your organising team who should have access to managing this collective (i.e. editing these details and submitting expenses). Add each member as a “CoreCore Core is the set of software required to run WordPress. The Core Development Team builds WordPress. Contributor” and fill in their name and email address. If they do not have an Open Collective profile then they will receive an email with a sign-up link before they can start to manage things.
+    Add other members of your organising team who should have access to managing this collective (i.e. editing these details and submitting expenses). Add each member as a “Core Contributor” and fill in their name and email address. If they do not have an Open Collective profile then they will receive an email with a sign-up link before they can start to manage things.
 *   **Goals**  
     Add your event budget as a ‘yearly goal’ – you can always change this later as you finalise your budget, so you can leave this empty for now:
 
@@ -44,10 +44,10 @@ There’s a lot of information you can add at this point, so take your time to g
 ![](https://make.wordpress.org/community/files/2019/03/collective5-1024x659.png)
 
 *   **Expenses**  
-    This is optional and probably not necessary. You can dictate an expense policy here to remind your core contributorsCore Contributors Core contributors are those who have worked on a release of WordPress, by creating the functions or finding and patching bugs. These contributions are done through Trac. https://core.trac.wordpress.org. what kind of expenses they can submit.
+    This is optional and probably not necessary. You can dictate an expense policy here to remind your core contributors what kind of expenses they can submit.
 *   **Connected Accounts**  
     Feel free to connect your collective to a community Twitter account to automatically thank people who donate money.
 *   **Advanced**  
-    You can set a new URLURL A specific web address of a website or web page on the Internet, such as a website’s URL www.wordpress.org slug for your collective if you like (it will default to auto-creating a slug from your event name). You can also switch on markdown support if you would like that to be available in the text editors on the site for you.
+    You can set a new URL slug for your collective if you like (it will default to auto-creating a slug from your event name). You can also switch on markdown support if you would like that to be available in the text editors on the site for you.
 
 *   [To-do](# "To-do")

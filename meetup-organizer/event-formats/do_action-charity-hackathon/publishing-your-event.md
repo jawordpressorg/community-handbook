@@ -10,8 +10,8 @@ Once you have your venue & date secured then you are ready to publish your even
 
 In order to add your event to the site you need to be added as an organiser – **to apply as an organiser please fill in [the application form here](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/do_action-charity-hackathon/do_action-event-application/)**.
 
-Once you have been added to the site as an organiser, you will be able to add your event along with all of the relevant details (date, venue and address) in pre-defined metaMeta Meta is a term that refers to the inside workings of a group. For us, this is the team that works on internal WordPress sites like WordCamp Central and Make WordPress. fields. You will also be able to add all of the non-profits that you will be working with on the day – however, if you allow the non-profits to sign up via this site (as outlined on the next page of this handbook) then they will already be saved as drafts for you to activate.
+Once you have been added to the site as an organiser, you will be able to add your event along with all of the relevant details (date, venue and address) in pre-defined meta fields. You will also be able to add all of the non-profits that you will be working with on the day – however, if you allow the non-profits to sign up via this site (as outlined on the next page of this handbook) then they will already be saved as drafts for you to activate.
 
-The URLURL A specific web address of a website or web page on the Internet, such as a website’s URL www.wordpress.org for your event will look something like this: `http://doaction.org/event/event-slug` – you can use this page to promote your event and accept participant sign-ups.
+The URL for your event will look something like this: `http://doaction.org/event/event-slug` – you can use this page to promote your event and accept participant sign-ups.
 
 *   [To-do](# "To-do")

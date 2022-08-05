@@ -1,6 +1,6 @@
 # Getting Started
 
-## What sort of meetupMeetup All local/regional gatherings that are officially a part of the WordPress world but are not WordCamps are organized through [https://www.meetup.com/](https://www.meetup.com/). A meetup is typically a chance for local WordPress users to get together and share new ideas and seek help from one another. Searching for ‘WordPress’ on meetup.com will help you find options in your area. should I organize?
+## What sort of meetup should I organize?
 
 Your WordPress meetup event can be anything you like. Who are the people you have talked to about setting up your meetup interested in? Start there.
 
@@ -41,7 +41,7 @@ Because meetup.com will update your members as you make adjustments to the page,
 Here are some suggestions for event title formats that start with a targeted user level or event type to help your members quickly decide if the event is for them:
 
 *   Beginner: Managing images in WordPress
-*   Intermediate: How to troubleshoot a pluginPlugin A plugin is a piece of software containing a group of functions that can be added to a WordPress website. They can extend functionality or add new features to your WordPress websites. WordPress plugins are written in the PHP programming language and integrate seamlessly with WordPress. These can be free in the WordPress.org Plugin Directory https://wordpress.org/plugins/ or can be cost-based plugin from a third-party
+*   Intermediate: How to troubleshoot a plugin
 *   Social: Bloggers meet and greet
 *   Developer Beginner: Building your first plugin
 *   Developer: Breakfast with Q&A
@@ -52,13 +52,13 @@ Here are some suggestions for event title formats that start with a targeted use
 
 Event organizers for meetups should [follow the same rules as WordCamp](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/planning-details/speakers/) when finding eligible speakers. We do ask that individuals do not schedule meetups in order to sell products or services.
 
-Teaching a workshop organized by an official meetup group is a contribution to the WordPress open sourceOpen Source Open Source denotes software for which the original source code is made freely available and may be redistributed and modified. Open Source \*\*must be\*\* delivered via a licensing model, see GPL. project, just like submitting a patch to coreCore Core is the set of software required to run WordPress. The Core Development Team builds WordPress., writing documentation for the codex, or answering questions in the support forums.
+Teaching a workshop organized by an official meetup group is a contribution to the WordPress open source project, just like submitting a patch to core, writing documentation for the codex, or answering questions in the support forums.
 
 ## Can I get sponsors for our meetup?
 
 Please read the [following post before you continue](https://make.wordpress.org/community/2014/05/07/meetup-sponsorships-and-other-local-community-stuff/).
 
-There are no specific rules around sponsorship, other than [the set of expectations for participation with official WordPress events](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/become-an-organizer/representing-wordpress/) (External link to WordCampWordCamp WordCamps are casual, locally-organized conferences covering everything related to WordPress. They're one of the places where the WordPress community comes together to teach one another what they’ve learned throughout the year and share the joy. [Learn more](https://central.wordcamp.org/about/). handbook). However, we want local communities to focus on sharing knowledge and connecting with each other, not on providing a cheap marketing platform.
+There are no specific rules around sponsorship, other than [the set of expectations for participation with official WordPress events](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/become-an-organizer/representing-wordpress/) (External link to WordCamp handbook). However, we want local communities to focus on sharing knowledge and connecting with each other, not on providing a cheap marketing platform.
 
 Handling money for a community event can get complicated quickly (taxes! transparency!), so we suggest that any and all sponsorship be approached as “in-kind” — for example, when a company sponsors by ordering pizzas or a sandwich platter for a certain event. Meetup group organizers should not use the group as a sponsorship/marketing platform, according to the [five good-faith rules](https://make.wordpress.org/community/handbook/meetup-organizer/meetup-program-basics/#the-five-good-faith-rules).
 
@@ -75,7 +75,7 @@ There are many ways to help attract members to your event. Please keep in mind t
 
 *   Meetup.com: Any scheduled events will be shared with the meetup group via email. Please keep in mind users have the option to turn this feature of meetup off and may not receive your meetup emails.
 *   Meetup.com: group message board
-*   Other Groups: contacting local PHPPHP PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML. [http://php.net/manual/en/intro-whatis.php](http://php.net/manual/en/intro-whatis.php)., JavascriptJavaScript JavaScript or JS is an object-oriented computer programming language commonly used to create interactive effects within web browsers. WordPress makes extensive use of JS for a better user experience. While PHP is executed on the server, JS executes within a user’s browser. [https://www.javascript.com/](https://www.javascript.com/)., social media, blogging, or open source groups (etc) to tell them about a new WordPress group in town
+*   Other Groups: contacting local PHP, Javascript, social media, blogging, or open source groups (etc) to tell them about a new WordPress group in town
 *   Websites: city blogs, local tech community message boards or event listings
 *   Twitter: connect with local users who have an interest in WordPress and community
 *   Flyers: if there’s a local coffee shop where you see other people blogging or coding, put up a flyer there. Same thing with your local co-working space.

@@ -1,8 +1,8 @@
-# Getting Particpants
+# Getting Participants
 
 So you now have your non-profit organisations selected (and added to the event data on the site) – the next step is to start getting people involved in the event. It’s generally a good idea to open up participant applications *at least* a month before the event, but preferably longer if you can spare the time. This is because some people often take a long time to decide if they want to be involved, and it also gives you plenty of time to contact local freelancers and/or agencies to see if you can get them to sign up as well.
 
-*If this is your first time running a do\_action event in your area, then it does often mean a lot of cold-calling to get people to sign up as participants, but once you have done this event at least once then you will find that people will sign up a lot quicker each time. A good idea is to get the word out to your local WordPress meetupMeetup All local/regional gatherings that are officially a part of the WordPress world but are not WordCamps are organized through [https://www.meetup.com/](https://www.meetup.com/). A meetup is typically a chance for local WordPress users to get together and share new ideas and seek help from one another. Searching for ‘WordPress’ on meetup.com will help you find options in your area. members.*
+*If this is your first time running a do\_action event in your area, then it does often mean a lot of cold-calling to get people to sign up as participants, but once you have done this event at least once then you will find that people will sign up a lot quicker each time. A good idea is to get the word out to your local WordPress meetup members.*
 
 To open your event up for sign-ups, all you need to do is change your event status to ‘Accepting participant sign-ups’. Once you have done that, there will be a new form at the bottom of your event page that will allow individuals to do the following:
 

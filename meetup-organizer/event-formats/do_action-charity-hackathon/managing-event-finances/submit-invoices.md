@@ -6,7 +6,7 @@ In the top right-hand corner of your Open Collective account, click on the arrow
 
 ![](https://lh4.googleusercontent.com/4EC2LsjeM3mgTJ3h4vuSNqgYEJcRkOrK5Fm_SseIDHGVzZOcQouwA1ztzHLx5fvs-IPdLVhgbI2k_YmvKqkpqs932EwE1zM_MOFvzjjeuQCJ-VgU2nSQLcHmXfdqy9xIPigZmWp2)
 
-Click on the ‘budget’ link in the page headerHeader The header of your site is typically the first thing people will experience. The masthead or header art located across the top of your page is part of the look and feel of your website. It can influence a visitor’s opinion about your content and you/ your organization’s brand. It may also look different on different screen sizes.:
+Click on the ‘budget’ link in the page header:
 
 ![](https://make.wordpress.org/community/files/2019/03/collective3-1024x347.png)
 

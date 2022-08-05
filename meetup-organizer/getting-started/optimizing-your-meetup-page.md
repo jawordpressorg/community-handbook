@@ -1,6 +1,6 @@
 # Optimizing Your Meetup Page
 
-There are two universal questions people ask themselves when deciding whether to join your meetupMeetup All local/regional gatherings that are officially a part of the WordPress world but are not WordCamps are organized through [https://www.meetup.com/](https://www.meetup.com/). A meetup is typically a chance for local WordPress users to get together and share new ideas and seek help from one another. Searching for ‘WordPress’ on meetup.com will help you find options in your area.. The first is “ARE they Like me?” The second question is “WILL they like me?”
+There are two universal questions people ask themselves when deciding whether to join your meetup. The first is “ARE they Like me?” The second question is “WILL they like me?”
 
 So when someone is looking at a Meetup page, their choice to attend an event will be influenced by whether what they see about your group seems as if it will fit them.
 
@@ -12,7 +12,7 @@ The first opportunity we have to make an impression and demonstrate what the gro
 
 ### About Pages
 
-Your About Page is where you have the first opportunity to introduce your purpose or goal. This is where you put your mission statement and where you should be very clear about what you are about. It may not just be enough to say “we are a group about WordPress.” If however, you say “we are WordPress users who teach and learn from each other, who enjoy sharing knowledge, and who are passionate about encouraging others into WordPress and Open SourceOpen Source Open Source denotes software for which the original source code is made freely available and may be redistributed and modified. Open Source \*\*must be\*\* delivered via a licensing model, see GPL.’” you are introducing both the mission to advance WordPress and the inclusive nature of the event.
+Your About Page is where you have the first opportunity to introduce your purpose or goal. This is where you put your mission statement and where you should be very clear about what you are about. It may not just be enough to say “we are a group about WordPress.” If however, you say “we are WordPress users who teach and learn from each other, who enjoy sharing knowledge, and who are passionate about encouraging others into WordPress and Open Source’” you are introducing both the mission to advance WordPress and the inclusive nature of the event.
 
 If you are interested in a template for that page that you can edit and adjust for your own group, you can [find that here](https://make.wordpress.org/community/handbook/meetup-organizer/resources/about-page/).
 
