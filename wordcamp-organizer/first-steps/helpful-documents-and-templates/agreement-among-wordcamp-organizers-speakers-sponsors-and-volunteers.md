@@ -22,7 +22,7 @@
 <!--        *   embrace the WordPress license; If distributing WordPress-derivative works (themes, plugins, WP distros), any person or business officially associated with WordCamp should give their users the same freedoms that WordPress itself provides: 100% GPL or compatible, the same guidelines we follow on WordPress.org.-->
     *   WordPress ライセンスの理念を受け入れること。WordPress の二次的 (派生) 著作物 (テーマ、プラグイン、 WordPress ディストリビューション) を配布している個人や企業は、 WordPress 自体が提供している自由を派生物のユーザーに対しても提供すべきである。つまり、WordPress.org と同じガイドライン、100% GPL または互換ライセンスであること。
 <!--        *   don’t promote companies or people that violate the trademark or distribute WordPress derivative works which aren’t 100% GPL compatible-->
-    *   WordPress の商標を侵害したり100% GPL 互換ライセンスではない WordPress 派生物を配布している会社や個人を宣伝、推奨しないこと。
+    *   WordPress の商標を侵害したり100% GPL 互換ライセンスではない WordPress 派生物を配布している会社や個人を宣伝・助長しないこと。
 <!--5.  I agree that WordCamps are not-for-profit events, organized with budget and funding transparency.-->
 5.  WordCamp は非営利のイベントであり、予算および資金調達に関して透明な運営を行う必要があることに賛同します。
 <!--6.  I agree that WordCamps should be accessible to as many people as possible, regardless of financial status.-->
