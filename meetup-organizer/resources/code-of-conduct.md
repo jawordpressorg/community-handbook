@@ -32,7 +32,6 @@ This code of conduct outlines our expectations for participant behavior as well 
 We invite all sponsors, volunteers, speakers, attendees, and other participants to help us realize a safe and positive community experience for everyone.
 -->
 誰にとっても安全で有益なコミュニティ体験の場が実現するよう、私たちは、すべてのスポンサー、ボランティア、スピーカー、一般来場者、それ以外の関係者にも協力をお願いしています。
--->
 
 <!--
 2\. Open Source Citizenship
