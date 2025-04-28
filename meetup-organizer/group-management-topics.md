@@ -2,9 +2,9 @@
 
 ### At what point should someone be given different admin levels of access to the group?
 
-There are a three levels of meetup access, you can read about the specific from the link below.
+There are four levels of access as a member of a Meetup group’s leadership team. You can read about the specifics from the link below.
 
-Meetup member levels: https://help.meetup.com/hc/en-us/articles/360002862252-Adding-additional-Admins-to-your-Pro-account
+Managing a Leadership Team: https://help.meetup.com/hc/en-us/articles/360002879411-Managing-a-leadership-team
 
 There are no set rules surrounding member user level access. This is a group decision. It is suggested that if you are actively involved with scheduling events and interacting with members, your role should allow you to connect with the members to keep them informed of your events.
 

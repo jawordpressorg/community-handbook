@@ -1,6 +1,6 @@
 # Welcome Email
 
-Alert: This is a template that may inspire the text for your local Meetup group page.
+This is a template that may inspire the text for your local Meetup group page.
 
 Feel free to copy and paste this template and customize it for your area.
 

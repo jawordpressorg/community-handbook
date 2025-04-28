@@ -17,4 +17,8 @@ Keep your sanity and divvy up these jobs among the organizing team.
 *   [Supplies](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/planning-details/supplies/)
 *   [Backup Plans](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/planning-details/backup-plans/)
 
+Check out this [calendar of WordCamp planning milestones](https://docs.google.com/spreadsheets/d/1780h9E5srRKGVAP0ppYhUARqY6ln787M1mcEiIQw8i0/edit?usp=sharing). Your WordCamp dashboard also contains a handy Planning Checklist:
+
+[![](https://make.wordpress.org/community/files/2024/05/Screenshot-2024-05-02-at-10.06.57%E2%80%AFAM-1024x487.png)](https://make.wordpress.org/community/files/2024/05/Screenshot-2024-05-02-at-10.06.57%E2%80%AFAM.png)
+
 *   [To-do](# "To-do")

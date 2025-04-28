@@ -1,6 +1,6 @@
 # About Page
 
-Alert: This is a template that may inspire the text for your local meetup group page.
+This is a template that may inspire the text for your local meetup group page.
 
 Feel free to copy and paste this template and customize it for your area.
 

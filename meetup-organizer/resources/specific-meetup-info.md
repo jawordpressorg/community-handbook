@@ -1,6 +1,6 @@
 # Specific Meetup Info
 
-Alert: This is a template that may inspire the text for your local Meetup group page.
+This is a template that may inspire the text for your local Meetup group page.
 
 Please be aware that the first three paragraphs are mutually exclusive, so if more than one paragraph applies to the group, then we recommend that it is rewritten spefically for the group.
 

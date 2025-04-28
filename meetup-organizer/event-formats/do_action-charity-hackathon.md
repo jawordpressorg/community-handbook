@@ -4,15 +4,15 @@
 
 ## What is do\_action?
 
-do\_action hackathons are community-organized events that focus on using WordPress to give deserving charitable organizations their own online presence. Each do\_action event includes participants from the local WordPress community coming together to plan and build brand new websites for a number of local organizations in one day.
+[do\_action hackathons](https://doaction.org/) are community-organized events that focus on using WordPress to give deserving charitable organizations their own online presence. Each do\_action event includes participants from the local WordPress community coming together to plan and build brand-new websites for a number of local organizations in one day.
 
 The goal of do\_action is to support these charitable organizations by giving them a fresh and dynamic online presence. This enables them to get on with the work that they already do so well without basic website management getting in the way of their productivity.
 
 ## How do the hackathons work?
 
-Each hackathon is organised by members of the local community. Once the non-profit organizations for the day are chosen, the sign up form for the event is then activated and anyone can sign up to be involved in the event as a participant. Signing up involves selecting the organization that you would like to work with and then selecting your role on the build team for their website. Each build team has a number of roles available for it, which can vary depending on the needs of the organization. In general, the available roles are: Project Manager, Designer, Developer (x2), Social Media Manager, Content Manager and Quality Assurance Tester.
+Each hackathon is organized by members of the local community. Once the non-profit organizations for the day are chosen, the signup form for the event is then activated, and anyone can sign up to be involved in the event as a participant. Signing up involves selecting the organization you would like to work with and selecting your role on the build team for their website. Each build team has many roles available, which can vary depending on the organization’s needs. In general, the available roles are Project Manager, Designer, Developer (x2), Social Media Manager, Content Manager, and Quality Assurance Tester.
 
-Each event will also offer training to the non-profit organizations on how to use WordPress effectively. This empowers them to be able to manage their own websites going forward.
+Each event will also offer training to non-profit organizations on how to use WordPress effectively. This empowers them to be able to manage their own websites in the future.
 
 ## Where does the name come from?
 

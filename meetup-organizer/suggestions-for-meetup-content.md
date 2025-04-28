@@ -8,6 +8,7 @@ Meetups are an important part of the WordPress experience. It’s good to meet p
 *   Play talks from WordPress.tv. during the Meetup.
 *   Lightning talks are a great way to help new speakers and encourage participation.
 *   Q & A sessions at Meetups are always a good way to help the audience with speciifc questions and find out where they are.
+*   Learn WordPress ([learn.wordpress.org)](http://learn.wordpress.org) contains a wealth of learning materials that your meetup group can use. [Check out this video](https://www.youtube.com/watch?v=6bbq95Ep0ng), which explores how meetup organizers can use Learn WordPress with their meetup group.
 
 ## Meetup Topic Categories
 

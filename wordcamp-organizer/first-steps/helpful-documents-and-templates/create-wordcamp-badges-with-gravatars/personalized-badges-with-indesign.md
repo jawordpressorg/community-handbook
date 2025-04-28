@@ -51,7 +51,7 @@ Note that the header for the image column has to begin with “@”. This lets I
 
 Now that you have a proper CSV file you can create the merged document. If you have any static artwork, place it in a Master page, and then make sure that your first page has that Master page applied. Next, place text frames and image frames (if you’re using images) where you’d like the varying content to go. It’s easier to adjust the font, color, size, etc. after you have placed the content from the CSV file.
 
-You can download [our sample template](http://cl.ly/383Z0i0Q102I), or make your own.
+You can download [our sample template](https://drive.google.com/file/d/1PNZmv3I7YIRIqNe5qw8NP4oHwgF2tjbX/view?usp=drive_link), or make your own.
 
 #### Using the Data Merge panel to place the content
 

@@ -8,21 +8,21 @@ These “four freedoms” are codified into a software license called [the GPL, 
 
 #gallery-1 { margin: auto; } #gallery-1 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 50%; } #gallery-1 img { border: 2px solid #cfcfcf; } #gallery-1 .gallery-caption { margin-left: 0; } /\* see gallery\_shortcode() in wp-includes/media.php \*/
 
-[![](https://make.wordpress.org/community/files/2016/10/Freedom-to-run-300x225.jpg)](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/gpl-primer/freedom-to-run/#main)
+**[![](https://make.wordpress.org/community/files/2016/10/Freedom-to-run-300x225.jpg)](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/gpl-primer/freedom-to-run/#main)**
 
 Freedom to run
 
-[![](https://make.wordpress.org/community/files/2016/10/Freedom-to-study-300x241.jpg)](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/gpl-primer/freedom-to-study/#main)
+**[![](https://make.wordpress.org/community/files/2016/10/Freedom-to-study-300x241.jpg)](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/gpl-primer/freedom-to-study/#main)**
 
 Freedom to study
 
   
 
-[![](https://make.wordpress.org/community/files/2016/10/Freedom-to-share-300x165.jpg)](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/gpl-primer/freedom-to-share/#main)
+**[![](https://make.wordpress.org/community/files/2016/10/Freedom-to-share-300x165.jpg)](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/gpl-primer/freedom-to-share/#main)**
 
 Freedom to copy and share
 
-[![](https://make.wordpress.org/community/files/2016/10/Freedom-to-modify-300x234.jpg)](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/gpl-primer/freedom-to-modify/#main)
+**[![](https://make.wordpress.org/community/files/2016/10/Freedom-to-modify-300x234.jpg)](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/gpl-primer/freedom-to-modify/#main)**
 
 Freedom to modify
 

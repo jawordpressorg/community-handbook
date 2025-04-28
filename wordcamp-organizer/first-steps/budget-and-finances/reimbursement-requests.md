@@ -10,7 +10,9 @@ To request a reimbursement through your WordCamp site, go to *Dashboard > Budge
 
 From the Reimbursement Requests screen, you can choose to *‘Add New’* request or see all submitted Reimbursement Requests for your WordCamp:
 
-[![](https://make.wordpress.org/community/files/2016/02/2-1024x613.png)](https://make.wordpress.org/community/files/2016/02/2.png)
+![](https://make.wordpress.org/community/files/2016/02/2-1024x613.png)
+
+[](https://make.wordpress.org/community/files/2016/02/2.png)
 
 Let’s walk through submitting a new reimbursement request! Make sure you’ve gathered all of your receipts and payment details before you get started.
 
@@ -79,6 +81,6 @@ As you add additional expenses, the total on the top right of the post will upda
 
 And that’s all! You can add a new expense, save your Reimbursement Request as a Draft and to keep adding your out-of-pocket purchases during the organizing process. Submit your Reimbursement Request when you’re sure you won’t be making any more out-of-pocket purchases.
 
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/reimbursement-requests-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/reimbursement-requests-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
 *   [To-do](# "To-do")
