@@ -17,7 +17,7 @@ Meetup group URL (if there is no meetup group in your city, please start one bef
 
 Anything you'd like to tell us about yourself or what you hope to do with this do\_action event?
 
-Submit 
+Submit   
 
 Δdocument.getElementById( "ak\_js\_1" ).setAttribute( "value", ( new Date() ).getTime() );
 

@@ -4,7 +4,7 @@ This is a template that may inspire the text for your local meetup group page.
 
 Feel free to copy and paste this template and customize it for your area.
 
-[The **Online Code of Conduct** (for online events) can be found here.](https://make.wordpress.org/community/handbook/virtual-events/online-code-of-conduct/)
+Here is the [Community Code of Conduct](https://make.wordpress.org/handbook/community-code-of-conduct/). And here is the [Online Code of Conduct](https://make.wordpress.org/community/handbook/virtual-events/online-code-of-conduct/) (for online events).
 
 **1\. Purpose**
 
@@ -60,6 +60,6 @@ We are available via the ‘Contact’ button over in the left hand sidebar
 
 **9\. License And Attribution**
 
-This Code of Conduct is heavily borrowed from the awesome work of Open Source Bridge. The original is available at [http://opensourcebridge.org/about/code-of-conduct/](http://opensourcebridge.org/about/code-of-conduct/) and is released under a Creative Commons Attribution-ShareAlike license.
+This Code of Conduct is heavily borrowed from the awesome work of Open Source Bridge. The original is available at [https://opensource.com/code-of-conduct](https://opensource.com/code-of-conduct) and is released under a Creative Commons Attribution-ShareAlike license.
 
 *   [To-do](# "To-do")

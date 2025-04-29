@@ -22,10 +22,25 @@ It is also possible to get help from the WordPress.tv moderator squad with post-
 
 ## No logos/sponsors in video
 
-Whether you rely on amazing volunteers or end up paying for video, please don’t include sponsor or production company logos in the final videos; WordPress.tv is a non-commercial community site and not a place for advertising.
+We have more information about the policy of logos in WordCamp videos in [this handy guide](https://make.wordpress.org/community/handbook/wordcamp-organizer/video/logos-in-wordcamp-videos/).
 
-If you are able to find a local video production company willing to donate their time to filming and producing your WordCamp videos, please address this with them from the beginning. While the adding logos/credits is very common in the film industry (especially for any donated work) it is not a part of videos on WordCamp.tv.
+## Music and Copyright Considerations
 
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/video-planning-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
+To comply with global copyright laws, when organizing a WordPress event, please only use royalty-free, public domain, or Creative Commons-licensed music in the live event space, in recorded video, and in live streams. [You can find public domain and CCO music on Openverse.](https://openverse.org/search/audio?q=music&license=pdm,cc0)
+
+#### **✅ Music Compliance Checklist**
+
+Before your event, confirm the following:
+
+*   **Will music be played in the event space, live streams, or recordings?**  
+    If yes, confirm that it is royalty-free, public domain, or Creative Commons-licensed music.
+*   **Are vendors or production teams using music?**  
+    If yes, verify that it is royalty-free, public domain, or Creative Commons-licensed music.
+*   **Have you reviewed applicable copyright guidelines?**  
+    Copyright laws can vary by location. For further guidance, visit the [World Intellectual Property Organization’s (WIPO) music copyright resource](https://href.li/?https://www.wipo.int/en/web/music).
+
+By following these steps, you can prevent disruptions to your live streams, maintain control over event content, and ensure compliance with copyright laws. Please note that this is not legal advice, and it remains the responsibility of organizers, vendors, contributors, and others to ensure compliance with applicable laws.
+
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/video-planning-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
 *   [To-do](# "To-do")

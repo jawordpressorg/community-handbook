@@ -1,6 +1,6 @@
 # Duke
 
-[![Duke_Ellington](https://make.wordpress.org/community/files/2015/09/Duke_Ellington-238x300.jpg)](https://make.wordpress.org/community/files/2015/09/Duke_Ellington.jpg)The “**Duke Ellington” **camera case contains **two** complete camera kits.
+[![Duke_Ellington](https://make.wordpress.org/community/files/2015/09/Duke_Ellington-238x300.jpg)](https://make.wordpress.org/community/files/2015/09/Duke_Ellington.jpg)The “**Duke Ellington”** camera case contains **two** complete camera kits.
 
 Edward Kennedy “Duke” Ellington was an American composer, pianist and bandleader of jazz orchestras. Ellington is generally considered to have elevated the perception of jazz to an art form on a par with other traditional musical genres.
 
@@ -58,5 +58,9 @@ Name(required)
 Email(required) 
 
 What are you missing?(required)
+
+Submit   
+
+Δdocument.getElementById( "ak\_js\_3" ).setAttribute( "value", ( new Date() ).getTime() );
 
 *   [To-do](# "To-do")

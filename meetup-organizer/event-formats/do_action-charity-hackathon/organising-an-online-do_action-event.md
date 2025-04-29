@@ -6,7 +6,7 @@ If you are organising an online/virtual do\_action event, you can do things a li
 
 1.  **Organise a country-wide do\_action event.** Since these events are going to be virtual, it makes sense to bring in talents from the whole country, as well as reach more non-profit organisations that would otherwise be possible.
 2.  **Spread the work out over a few days/weeks.** In order to give people the time to work on the websites for the non-profit organisations, allow them to work over a longer time period than just one day. A format I quite like the idea of is giving each team 1 week to complete their work.
-3.  **Provide virtual communication channels.** Use your local WordPress community Slack group (or create one if you don’t have one already) and set up separate channels for each team to communicate. You could also use some of [the tools we suggest for meetups](https://make.wordpress.org/community/handbook/meetup-organizer/resources/organizing-virtual-events/) to expand on the communication options.
+3.  **Provide virtual communication channels.** Use your local WordPress community Slack group (or create one if you don’t have one already) and set up separate channels for each team to communicate. You could also use some of [the tools we suggest for virtual events.](https://make.wordpress.org/community/handbook/virtual-events/tools-for-running-a-virtual-event/) to expand on the communication options.
 
 **Want to learn more about how to organize an online do\_action charity hackathon? Check out this live Tuesday Training video to learn more!**
 

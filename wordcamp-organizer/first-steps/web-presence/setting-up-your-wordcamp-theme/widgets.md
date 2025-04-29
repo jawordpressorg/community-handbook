@@ -2,11 +2,11 @@
 
 In addition to the widgets included in WordPress Core, there are several others available to you.
 
-## WordCamp-specific Content
+## WordCamp\-specific Content
 
 *   **Speakers, Sessions, and Organizers** – These will all show a list of their corresponding posts.
 *   **Sponsors** – This will show all of the sponsors, grouped by their sponsorship level. Make sure that you visit the Order Sponsor Levels page under the Sponsors menu in order to set the levels according to how much they contributed, with multi-event sponsors at the top.  
-    (**Note**: Do you have an [Ad Blocker](https://en.wikipedia.org/wiki/Ad_blocking) enabled in your browser? It’s common for ad blockers to hide the sponsors widget on wordcamp sites, because it looks to them like a bunch of ads).
+    (**Note**: Do you have an [Ad Blocker](https://en.wikipedia.org/wiki/Ad_blocking) enabled in your browser? It’s common for ad blockers to hide the sponsors widget on WordCamp sites, because the sponsor logos meet their criteria for being considered an ad.
 
 ## Mailing Lists and E-mail Notifications
 

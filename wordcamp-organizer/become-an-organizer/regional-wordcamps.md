@@ -1,31 +1,52 @@
 # Regional WordCamps
 
-## Regional WordCamp expectations (alpha version)
+A Regional WordCamp is a WordCamp that represents the WordPress communities in a geographical area larger than one city/metro area.
 
-> **Important:** this is a new program, and our team is still figuring out how these kinds of events will fit within the broader context of our existing network of meetups and WordCamps. Due to staffing or resource constraints, the team may decide to limit the number of regional WordCamps that we approve per year, to better serve the global community. This set of expectations will definitely change over time.
+Regional WordCamps can be a great way to bring a community together to celebrate, represent, and grow local WordPress communities in a region or country. As such, they contribute to the primary goal for the WordPress Global Community Team: to support the creation and growth of WordPress meetup groups and annual WordCamps in as many cities as possible in the world. 
 
-A Regional WordCamp is a special kind of WordCamp that represents the WordPress communities in a geographical area larger than one city/metro area.
+## Goals and Requirements for Hosting a Regional Camp
 
-The goal of a Regional WordCamp is to celebrate, represent, and grow local WordPress communities in the affected region. A primary goal for the [WordPress Global Community Team](https://make.wordpress.org/community) is to help support the creation and growth of  WordPress meetup groups and annual WordCamps in as many cities as possible in the world. Regional WordCamps work toward that goal by connecting people who weren’t already active in their local WordPress community and inspiring attendees to start communities in their hometowns.
+The intent is always for regional WordCamps to connect people who weren’t already active in their local WordPress community and inspire attendees to start communities in their hometowns. Connect. Inspire. Contribute.
 
-**Sounds great! How do I get started?**
+**Goals for regional WordCamps:**
 
-Before you apply, make sure you have the following:
+*   Inspire local organizers to grow and/or energize local communities and local events.
+*   Encourage consistent local events across the region, meaning regular meetups and WordCamps in multiple cities.
+*   Foster local organizer representation and turnover, building a healthy community that brings in new people.
+*   Cultivate WordCamps with a focus on diversity and inclusion.
 
-**1\. Established WordPress communities in your target region:** To celebrate the local community in your region, there has to be some level of local community established already. Before applying to organize a regional WordCamp, there should be at least 3 (but possibly more) cities in your region with a local group that meet monthly, and that have hosted at least one WordCamp. The size of your region (in geography and population) will affect the expected number of established communities.
+**Regional WordCamps are required to:**
 
-**2\. Experienced WordCamp organizers:** The organizing team for a regional WordCamp should include experienced event organizers that represent all of the established WordPress communities in the region.
+*   Have organizers from multiple areas in the region. The larger the WordCamp, the more organizers that will be needed.
+*   Have an active meetup in the city where it’s being held or a meetup that is being reactivated while planning the WordCamp.
+*   Move from city to city each year.
+*   Place importance on diversity and inclusion among speakers, sponsors, and volunteers (this includes representation across age, gender, sexual orientation, class, etc.).
+*   Maintain two-year terms for lead organizers.
 
-**3\. Stable, healthy local communities:** If more than one of the communities in the region has suffered financial shortfalls in organizing their WordCamp, or has had difficulties meeting expectations for transparency or inclusion in community organizing, we might ask applicants to address those issues before moving forward with a regional WordCamp.
+**Applying for a regional WordCamp:** Regional WordCamps do not need to go through additional steps, and can directly apply to organize a camp for their region using the [regular WordCamp application form](https://central.wordcamp.org/wordcamp-organizer-application/).
 
-**After a regional WordCamp is approved for pre-planning**, we’ll expect all the other stuff we ask WordCamp organizers to do, plus:
+Regional WordCamp applications will continue to be evaluated on a case-by-case basis by WordCamp Central deputies, based on the above criteria.
 
-*   for the lead organizer of the event to take [the introductory section of the Community Deputy training course](https://community-self-training.mystagingwebsite.com/modules/open-source/?course_id=10200).
-*   for you and your team to be good examples of [the values of the WordPress project](https://make.wordpress.org/community/handbook/wordcamp-organizer/become-an-organizer/representing-wordpress/) at work. Inclusion and transparency should be your bywords from start to finish.
-*   that at least three people on your organizing team have participated on another WordCamp organizing team (they don’t have to have been lead organizers).
-*   that you organize the event in collaboration with an experienced community deputy, who will help you model our best practices and meet the event goals.
-*   that a member of your team or your mentor post a regular update (at least every two months, but monthly is preferred) on the progress of your event planning to [make.wordpress.org/community](https://make.wordpress.org/community).
+## Common FAQs
 
-If you’d like to start apply to organize a regional WordCamp, please fill out [this application](https://make.wordpress.org/community/handbook/wordcamp-organizer/become-an-organizer/organizer-application/). (It’s the same one as our regular WordCamp application, so it should look familiar!)
+**I live in a small country, why do you suggest we have multiple WordCamps?**
+
+Travel can be difficult for many different people. For some, having a WordCamp that’s even an hour away can prevent them from attending. Local WordCamps, no matter the size of the country they’re in, allow more opportunities for a wider range of community members to participate.
+
+**I thought we could have regional WordCamps after the pandemic! What happened?**
+
+Some countries and regions are using regional WordCamps to kick-start events after the pandemic in an effort to get their local communities excited and engaged again. As long as the goals and requirements described below are fully understood and followed, communities can host regional WordCamps in the future.
+
+We are always happy to discuss your WordCamp plans with you. Simply email [support@wordcamp.org](mailto:support@wordcamp.org) as needed.
+
+**Isn’t it better to have bigger, regional events? Why are you stopping us?**
+
+Bigger isn’t always better, and sometimes “bigger” creates new challenges for a community. Large WordCamps can be overwhelming and complicated to plan, making it difficult to find new organizers willing to help out. 
+
+Smaller WordCamps often provide more opportunity for impactful relationship building with an easier to repeat structure. They’re also less intimidating, and can be more comfortable for new people. If done well, they increase diversity because they are more accessible. They’re great places to safely build up to more community involvement. And, they can be great places to innovate and try new formats!
+
+After all, it’s the content and connections that matter, not the number of attendees.
+
+> **Thinking about a regional WordCamp but still not sure? Reach out to the Community Team at support@wordcamp.org!**
 
 *   [To-do](# "To-do")
