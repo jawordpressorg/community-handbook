@@ -1,7 +1,4 @@
-<!--
-# Participant’s Guide
--->
-# 参加者ガイド
+# Participant&#8217;s Guide
 
 <!--
 While minor details may vary depending on the location of the do\_action event, there are a number of things that all do\_action participants need to take note of.
@@ -13,10 +10,7 @@ While minor details may vary depending on the location of the do\_action event,
 -->
 ## 当日の構成
 
-<!--
 Your event organisers will be in touch with you about starting times, but the general structure of the day of a do\_action hackathon is that you will start work in the morning and work through until about 5pm. Meals will all be provided for you and the day will end with each team presenting their work to everyone else followed by a celebratory supper for everyone in attendance.
--->
-イベント主催者から開始時間について連絡がありますが、一般的な do\_action ハッカソンの一日の流れは、朝から作業を始めて、午後5時ごろに終了するというものです。ランチが提供され、各チームが自分たちの作品を他の人に発表し、その後、出席者全員のために懇親会が行われ、一日が終わります。
 
 <!--
 ## What is expected of participants
@@ -52,3 +46,5 @@ To keep you going for the day you will be provided with food, coffee, tea and s
 The non-profit organisations will each have at least one representative there on the day. As the build team for their new website you will work directly with them, but your Project Manager will act as the liaison between the non-profit and the rest of the team. For a portion of the day (usually an hour or two), the non-profit representatives will be removed from your working space and will receive training on how to use WordPress effectively. This is to give them the skills to continue working with their new websites, as well as to give the build teams some space to work without the non-profit directly involved – we have found this to be hugely beneficial for the team as well as the non-profit.
 -->
 当日は各非営利団体の担当者が最低1名参加します。新しいサイトの制作チームとして、その方と直接作業をすることになりますが、プロジェクトマネージャーは非営利団体と他のチームとの間の連絡係としての役割を担います。イベント当日の一部 (通常1～2時間) は、非営利団体の担当者は制作スペースから外され、WordPress の効果的な使い方についてのトレーニングを受けます。これは、新しいサイトの制作を続けるためのスキルを身につけてもらうためであり、また、非営利団体が直接関与せずに作業を行うための時間をチームに与えるためでもあります。
+
+*   [To-do](# "To-do")

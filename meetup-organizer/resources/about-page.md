@@ -4,9 +4,9 @@
 # About ページテンプレート
 
 <!--
-Alert: This is a template that may inspire the text for your local meetup group page.
+This is a template that may inspire the text for your local meetup group page.
 -->
-注意：これは、地域の Meetup グループページの参考用のテンプレートです。
+これは、地域の Meetup グループページの参考用のテンプレートです。
 
 <!--
 Feel free to copy and paste this template and customize it for your area.
@@ -67,3 +67,5 @@ Check out our presentation archive – \[insert your archive link here\]
 Or read up more about our User or Developer events and get more details about our Code of Conduct on our About Pages.
 -->
 運用や開発に関するイベントについては、このページにある行動規範について参照ください。
+
+*   [To-do](# "To-do")

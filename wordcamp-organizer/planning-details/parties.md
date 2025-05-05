@@ -34,6 +34,6 @@ An open bar is usually only feasible if you have a lot of money from somewhere a
 **Con:** People become inebriated more quickly when there’s an open bar, you may need a liquor permit (if you are not at a bar), you will need additional event insurance, and you should plan to provide taxis for anyone not safe to drive home.  
 **Verdict:** Will make you very popular, but is very expensive and carries some risk so requires extra planning.
 
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/parties-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/parties-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
 *   [To-do](# "To-do")

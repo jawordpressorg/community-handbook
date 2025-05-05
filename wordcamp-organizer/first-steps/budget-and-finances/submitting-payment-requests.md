@@ -10,7 +10,9 @@ Wires, ACH transfers, and checks are all part of an automated system of payments
 
 It is also possible for vendors to be paid using credit cards, though this is not a preferred method. Because of time required, and the high risk of fraudulent charges, we use this only when absolutely necessary.
 
-Vendor payment requests are made from the comfort of your very own WordCamp dashboard.[![WordCamp Testing dashboard](https://make.wordpress.org/community/files/2015/09/WordCamp-Testing-dashboard-1024x688.png)](https://make.wordpress.org/community/files/2015/09/WordCamp-Testing-dashboard.png)
+[![WordCamp Testing dashboard](https://make.wordpress.org/community/files/2015/09/WordCamp-Testing-dashboard-1024x688.png)](https://make.wordpress.org/community/files/2015/09/WordCamp-Testing-dashboard.png)
+
+Vendor payment requests are made from the comfort of your very own WordCamp dashboard.
 
 From here you can choose to create a new request or see all submitted requests for your WordCamp.
 
@@ -96,6 +98,6 @@ Payments requests are processed Monday through Friday (except on US Bank Holiday
 
 **Cancelled**: The payment was cancelled by WordCamp Central (usually due to an organizer’s request).
 
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/vendor-payments/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/vendor-payments/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
 *   [To-do](# "To-do")

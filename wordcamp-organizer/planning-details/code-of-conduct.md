@@ -1,14 +1,14 @@
 # Code of Conduct
 
-Below is the WordCamp code of conduct that you can customize with the name for your event and your contact information.
+Below is the WordCamp code of conduct that you can customize with the name for your event and your contact information. And here is the [Community Code of Conduct](https://make.wordpress.org/handbook/community-code-of-conduct/).
 
-We also recommend the organizing team read this article on [how to take a harassment report](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports).
+We also recommend the organizing team read this article on [how to take a harassment report](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports), or complete portions of the [WordPress Incident Response Team Training](https://learn.wordpress.org/course/incident-response-team-training/), especially the module on Taking Incident Reports.
 
-If a code of conduct violation results in the removal of an attendee or attendees from WordCamp, we’ll ask you to fill out [this incident report](https://make.wordpress.org/community/files/2017/10/Incident-Report-Form.pdf) and send it to support@wordcamp.org.
+If a code of conduct violation results in the removal of an attendee or attendees from WordCamp, we’ll ask you to fill out [this incident report](https://make.wordpress.org/community/files/2017/10/Incident-Report-Form.pdf) and send it to reports@wordpress.org.
 
 **1\. Purpose**
 
-WordCamp CITYNAMEHERE believes our community should be truly open for everyone. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, preferred operating system, programming language, or text editor.
+WordCamp CITYNAMEHERE believes our community should be truly open for everyone. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, age, caste, social class, preferred operating system, programming language, or text editor, among other identifying characteristics.
 
 This code of conduct outlines our expectations for participant behavior as well as the consequences for unacceptable behavior.
 
@@ -59,6 +59,12 @@ Contact info here! Make sure this includes a way to access the organizers during
 
 **9\. License And Attribution**
 
-This Code of Conduct is a direct swipe from the awesome work of Open Source Bridge, but with our event information substituted. The original is available at [http://opensourcebridge.org/about/code-of-conduct/](http://opensourcebridge.org/about/code-of-conduct/) and is released under a [Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/) license.
+This Code of Conduct is a direct swipe from the awesome work of Open Source Bridge, but with our event information substituted. The original was published at `http://opensourcebridge.org/about/code-of-conduct/` ([archive](https://web.archive.org/web/20191024152904/opensourcebridge.org/about/code-of-conduct/ "Internet Archive link")) and was released under a [Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/) license.
+
+**Statement about Socials or Supplemental Events (where applicable)**
+
+Social and supplemental events are intended to provide networking and additional educational opportunities, as well as an opportunity to unwind after a full WordCamp. They should also be places where attendees can feel safe and secure.
+
+We want you to enjoy yourself at these events, and we want you to do so safely. If you experience a Code of Conduct violation, see a violation, are concerned about the well-being, safety or behavior of another attendee, or have a general question (we understand that violations are not always obvious!) contact us immediately by notifying a WordCamp organizer or emailing [reports@wordpress.org](mailto:reports@wordpress.org). For in-person events, if you need help or are unable to comfortably or safely remove yourself from a situation you do not want to be in, organizers will prioritize assisting you immediately and discretely. Some examples are: not feeling well; your transportation arrangements fall through; you are intoxicated, you are alone or with someone you do not trust, you are overwhelmed, you have experienced or witnessed a Code of Conduct violation. Please ask any nearby event volunteer or organizer to help you.
 
 *   [To-do](# "To-do")

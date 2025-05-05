@@ -1,37 +1,33 @@
-<!--
-# When a Group Leaves the Chapter Program
--->
-# グループがチャプタープログラムから離脱する場合
+# Leaving the Chapter Program
 
-<!--
-Sometimes a group will leave the chapter program. Reasons include:
--->
-グループがチャプタープログラムを離れることもあります。理由には以下のようなものがあります。
+If your group is struggling, needs help, or is ready to leave the chapter program, email [support@wordcamp.org](mailto:support@wordcamp.org).
 
-<!--
-1.  The lead organizer needs to step down and cannot find a replacement.
--->
-1.  リードオーガナイザーが辞任するが、代わりのオーガナイザーを見つけることができない。
-<!--
-2.  The group hasn’t had an event in 6 or more months, and the organizer doesn’t have plans to organize another event.
--->
-2.  半年以上イベントを開催しておらず、オーガナイザーは以後のイベントを計画する予定がない。
-<!--
-3.  A group decides they no longer want to be part of the chapter.
--->
-3.  グループが、WordPress Meetup のチャプターの一部になりたくないと決めた時。
+Sometimes a group will leave the chapter program. Reasons can include:
 
-<!--
-In the first two cases, the Community Team makes an effort to find new organizers for the group, and if that effort doesn’t result in a new organizer volunteering, the group will be removed from the chapter program.
--->
-最初の2つのケースでは、コミュニティチームがグループの新しいオーガナイザーを探します。それでも新しいオーガナイザーが見つからない場合、そのグループはチャプタープログラムから削除されます。
+*   The lead organizer needs to step down and cannot find a replacement.
+*   The group hasn’t had an event in 6 or more months, and the organizer doesn’t have plans to organize another event.
+*   A group decides they no longer want to be part of the WordPress Meetup Chapter Program.
 
-<!--
-When a Meetup group is removed from the WordPress chapter account, WordPress steps down as the organizer. WordPress will no longer pay the dues for the account since WP is no longer the owner of the group.
--->
-Meetup グループが 公認 WordPress Meetup のチャプターアカウントから削除されると、WordPress アカウントはオーガナイザーとして辞任します。 WordPress アカウントはグループの所有者ではなくなるため、会費の支払いはされなくなります。
+When the meetup needs a new organizer, the Community Team attempts to find one within the group. However, the group will be removed from the chapter program if a new organizer can’t be found.
 
-<!--
-Since there will also not be any other organizers, no one else will be charged dues until another member becomes the organizer. If a group becomes active again, and and the new or now-active organizers would like to re-join the chapter, they should complete the [Meetup Interest Form](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/interest-form/).
--->
-他のオーガナイザーもいないので、他のメンバーがオーガナイザーになるまで、誰も会費を請求されません。グループが再度アクティブになり、新規または現在アクティブになったオーガナイザーがチャプターに再参加したい場合は、[Meetup 応募フォーム](https://ja.wordpress.org/get-involved/meetup/meetup-interest-form/)から申請する必要があります。
+## Steps to Removing a Group from the Chapter
+
+1.  A member of the Community Team will email the group that it will be closed in two weeks and direct them to other WordPress Chapter Meetups if any are available.
+2.  The meetup group is marked as “**Retired**” in the Meetup.com directory. 
+3.  A member of the Community Team will email our point of contact at meetup.com to receive all data related to the closed group. Once we remove a group, we lose access to their data in the meetup.com report tool.
+
+## Dues Once a Group is Removed
+
+WordPress no longer pays the dues for the account since WordPress is no longer the owner of the group. Since there are no other organizers, no one will be charged dues until another member becomes the organizer. 
+
+## When the group decided to withdraw from the WordPress Meetup Chapter Program
+
+1.  Send an email to [support@wordcamp.org](mailto:support@wordcamp.org) expressing your wish to leave the chapter group.
+2.  The program supporter will confirm that the decision to leave is the will of all the co-organizers.
+3.  Once the will of all the co-organizers has been confirmed, the program supporter will contact [Meetup.com](http://meetup.com/) and ask them to transfer the organizer account to the representative member of the co-organizers.
+
+## Re-joining the WordPress Chapter Meetup Program
+
+If a group becomes active again, and the new or now-active organizers would like to re-join the chapter, they should complete the [Meetup Interest Form](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/interest-form/).
+
+*   [To-do](# "To-do")

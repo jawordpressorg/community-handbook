@@ -21,10 +21,11 @@ WordPress でもっと多くのことをするために人々がつながり、�
 *   **Show and Tell** – This is a discussion of a member’s current website or project. You need a projector and screen, a room with chairs and/or tables, and a willing volunteer. The group member shows their project and describe what problems they have run into. The group can discuss possible solutions, highlight great points in the design, or just learn from each other.
 -->
 *   **発表会** - メンバーが現在作成中の Web サイトやプロジェクトについて議論する会です。プロジェクターとスクリーン、部屋と椅子と/または机、そして手伝ってくれるボランティアが必要です。グループのメンバーは自分のプロジェクトを提示し、どういった問題に遭遇したのかを説明します。グループは可能な解決策を議論したり、デザインの良い点を指摘したり、または単にお互いに学び合うことができます。
+*   [**Diverse Speaker Workshop**](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) – You can run this workshop to encourage and train people from under-represented groups in your community to speak at your meetups and WordCamp.
 <!--
-*   **Charity Hackathon** – We have a pre-built format for charity hackathons named _do_action_, as well as [an extensive handbook](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/do_action-charity-hackathon/) for how to organise an event like this.
+*   **Charity Hackathon** – We have a pre-built format for charity hackathons named *do\_action*, as well as [an extensive handbook](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/do_action-charity-hackathon/) for how to organise an event like this.
 -->
-*   **チャリティーハッカソン** – _do_action_ と呼ばれるチャリティーハッカソンの作成済みの形式を用意しています。また、このようなイベントをどのように運営するかについて[詳しいハンドブック](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/do_action-charity-hackathon/)もあります。
+*   **チャリティーハッカソン** – *do\_action* と呼ばれるチャリティーハッカソンの作成済みの形式を用意しています。また、このようなイベントをどのように運営するかについて[詳しいハンドブック](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/do_action-charity-hackathon/)もあります。
 <!--
 *   **Coworking/Workalong** – Sometimes the best way to stay motivated on a personal project is to have people to talk to when you get stuck. To host a Workalong, you will need power outlets, wifi, tables and chairs, and a space that can hold the number of people that will join you. Then, work alongside your peers while you bounce ideas off one another.
 -->
@@ -42,7 +43,7 @@ WordPress でもっと多くのことをするために人々がつながり、�
 -->
 *   **ワークショップ** – これをやるためには大勢の前でプロジェクトを軽快に渡り歩ける人が必要になるでしょう。必要とされた時に助けることに精通した人たちが数人いることも役に立ちます。電源コンセントや Wi-Fi 環境、プロジェクターやスクリーン、可能であればマイクも利用できるべきです。
 <!--
-*   **Grouped Lightning Talk** – Pick a theme and instead of doing one long talk about it, have a number of lightning talks. This will help highlighting more community members, that might be reluctant to do a long talk. Ideas: WordPress plugins, productivity tools, business tools, etc…
+*   **Grouped Lightning Talk** – Pick a theme and instead of doing one long talk about it, have a number of lightning talks. This will help highlighting more community members, that might be reluctant to do a long talk. Ideas: WordPress plugins, productivity tools, business tools, etc.
 -->
 *   **グループでのライトニングトーク** - テーマを選んで、その内容について長く話すのではなく複数のライトニングトークをやりましょう。これは多くの長い時間話しをすることに消極的なコミュニティメンバーにハイライトを当てることに役立ちます。アイディア：WordPressのプラグイン・生産性向上ツール・ビジネスツールなど
 
@@ -51,7 +52,6 @@ This is just a short list. The possibilities are endless. And do not forget that
 -->
 これは短いリストでしかありません。可能性は無限大です。そして、忘れてはいけないのはいくつかのイベントは WordPress 愛好家を集め WordPress でもっとやる気を込めて Meetup イベントにすることができます。
 
-<!--
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/planning-a-variety-of-events/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes) section of the welcome page if you have any questions about quizzes and how to navigate them.
--->
-ヒント: この記事についての[クイズ](https://community-self-training.mystagingwebsite.com/quiz/planning-a-variety-of-events/)があります。クイズや、そのナビゲーションについての質問がある場合はウェルカムページの[クイズ](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes)セクションをお読みください。
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/planning-a-variety-of-events/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes) section of the welcome page if you have any questions about quizzes and how to navigate them.
+
+*   [To-do](# "To-do")

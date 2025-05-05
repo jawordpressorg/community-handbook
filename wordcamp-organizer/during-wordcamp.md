@@ -39,6 +39,6 @@ WordCamp Central has great custom WordPress.org lanyards that we’ll ship to yo
 
 Be sure to ask everyone to help clean up at the end. Some organizing teams schedule volunteers for a clean-up shift! Leaving a clean space behind will keep your relationship with the venue on good terms. If you leave a big mess, they may not be interested in having you back next year if you would like to have WordCamp there again.
 
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/during-wordcamp-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/during-wordcamp-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
 *   [To-do](# "To-do")

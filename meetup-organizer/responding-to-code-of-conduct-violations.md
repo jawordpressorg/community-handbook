@@ -38,7 +38,6 @@ Creating an inclusive environment is an ongoing process of gentle course correct
 -->
 **注意事項:** 非常に重要なのは、攻撃的、暴力的、それ以外にも危険な状況になった場合、自分自身で対応しないこと。必要であれば、警察に通報しましょう。
 
-<!--
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/responding-to-code-of-conduct-violations/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes) section of the welcome page if you have any questions about quizzes and how to navigate them.
--->
-ヒント: この記事について[ひとつのクイズ](https://community-self-training.mystagingwebsite.com/quiz/responding-to-code-of-conduct-violations/)があります。クイズについてどのように回答すればよいかなどなにか質問があれば[クイズについて](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes)を読んでください。
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/responding-to-code-of-conduct-violations/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes) section of the welcome page if you have any questions about quizzes and how to navigate them.
+
+*   [To-do](# "To-do")

@@ -14,6 +14,6 @@ Keep in touch with WordCamp Central during your early planning stages. If you ge
 
 If a WordCamp organizing team sets a date and books a venue but then fails to update/interact with the community for more than a month during the planning period, then WordCamp Central will contact that team and try to help them get back on track. If the organizing team can’t make progress in the next month, the team will be asked to either add more organizers who can help correct the course or postpone/reschedule their event.
 
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/first-steps-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/first-steps-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
 *   [To-do](# "To-do")
