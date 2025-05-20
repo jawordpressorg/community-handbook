@@ -12,4 +12,6 @@ We hope to go back to in-person gatherings with original guidelines for planning
 
 [Learn more about how to apply for an online event!](https://make.wordpress.org/community/handbook/virtual-events/welcome/applying-for-a-virtual-event/)
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -59,4 +59,6 @@ Resources:
 
 ***Resources on this page are provided as a part of the Global Sponsorship program.*** [***Read more about Global Community Sponsorship here.***](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/fundraising/global-community-sponsorship-for-event-organizers/)
 
+<!--
 *   [To-do](# "To-do")
+-->

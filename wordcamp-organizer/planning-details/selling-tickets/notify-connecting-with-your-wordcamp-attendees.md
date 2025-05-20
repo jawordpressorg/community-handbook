@@ -52,4 +52,6 @@ You can use the **Preview** button to preview what the email will look like befo
 
 Finally the **Send Emails** button will send the mail to the selected recipients.  
 
+<!--
 *   [To-do](# "To-do")
+-->

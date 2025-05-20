@@ -30,4 +30,6 @@ WordPress no longer pays the dues for the account since WordPress is no longer t
 
 If a group becomes active again, and the new or now-active organizers would like to re-join the chapter, they should complete the [Meetup Interest Form](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/interest-form/).
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -83,4 +83,6 @@ Central realizes the planning process and managing the event is a big task, so i
 
 **[Here](https://make.wordpress.org/community/2023/06/06/what-happens-when-a-wordcamp-doesnt-provide-a-transparency-report/) is more information on what happens if a Transparency report if not submitted.**
 
+<!--
 *   [To-do](# "To-do")
+-->

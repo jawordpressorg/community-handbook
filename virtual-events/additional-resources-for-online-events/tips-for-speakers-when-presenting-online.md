@@ -42,4 +42,6 @@ When presenting in person, connecting with your audience is more accessible thro
 
 While remote tools might not give us the exact same methods of connecting, it *can* help to make sure you focus on the camera in front of you *—* as if it were a person *—* rather than at your screen. It’s a slight change that can help audience members feel directly engaged by your speech, rather than just looking at the slides on the screen. 
 
+<!--
 *   [To-do](# "To-do")
+-->

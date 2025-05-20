@@ -15,4 +15,6 @@ If you want to add translations for your language, follow these steps:
 
 All teams follow the color coding as defined by the meta team on [https://make.wordpress.org/meta/handbook/documentation/profile-badges/](https://make.wordpress.org/meta/handbook/documentation/profile-badges/)
 
+<!--
 *   [To-do](# "To-do")
+-->

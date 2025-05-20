@@ -13,4 +13,6 @@ The intention here isn’t to stop companies from gaining exposure (that happens
 
 WordCamp speakers are chosen based on their knowledge and experience as individuals and not their company affiliation, and company promotion throughout a slide deck suggests that the opposite is true. An informational slide with the speaker’s company makes sense as information about who is speaking, but the rest of the slide deck should be dedicated to the content being presented.
 
+<!--
 *   [To-do](# "To-do")
+-->

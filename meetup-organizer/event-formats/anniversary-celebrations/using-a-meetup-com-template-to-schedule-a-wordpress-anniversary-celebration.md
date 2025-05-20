@@ -26,4 +26,6 @@ Publish the event!
 
 Feel free to use this image as the featured image for your meetup event. [Click to download](https://make.wordpress.org/community/files/2023/02/wp20-web-banner-1.png) the high quality png.
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -38,4 +38,6 @@ Here are some suggestions from the Marketing Team ([Original Community Blog Post
 
 Need even more ideas? You can find them in this [blog post](https://make.wordpress.org/community/2017/01/16/collecting-ideas-methods-for-meetups-promotion-growth/)!
 
+<!--
 *   [To-do](# "To-do")
+-->

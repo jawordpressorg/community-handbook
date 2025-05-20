@@ -6,4 +6,6 @@ Once you decide which option is best for you, can you [view the full instruction
 
 There are also [templates available from previous WordCamps](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/wordcamp-name-badge-templates/).
 
+<!--
 *   [To-do](# "To-do")
+-->

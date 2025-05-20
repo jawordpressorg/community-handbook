@@ -24,4 +24,6 @@ The criteria for selecting your non-profits are rather broad, so this is very m
 
 Other than that, you are welcome to make your own calls with the non-profits that you select.
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -178,4 +178,6 @@ Here is [a quiz](https://wordpress.org/contributor-training/quiz/venue-and-date-
 
 [#wordpress-dev](https://make.wordpress.org/community/tag/wordpress-dev/)
 
+<!--
 *   [To-do](# "To-do")
+-->

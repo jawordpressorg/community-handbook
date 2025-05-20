@@ -81,4 +81,6 @@ If you need to take a report about an incident that may violate the [code of con
     *   If they are making the report anonymously, you can reassure them that we will do everything we can to make sure their name is anonymous. 
 8.  Follow up by sharing with the WordPress Global Community Team’s Incident Response Team by emailing [reports@wordpress.org](reports@wordpress.org) or filling out [the incident report](https://central.wordcamp.org/incident-report/), especially if confidentiality is required.
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -44,4 +44,6 @@ If in doubt, don’t overthink it. If you’re planning a meetup and no clear to
 
 Above all, it can help to see online meetups as an opportunity. Those who might not normally be able to attend may have more flexibility without the commute to your meetup space. With new members, you may see new volunteers to speak, or even organize, events in the future. By creating a safe space where members can continue to learn, bond, and connect with one another, we can continue to keep our local communities strong!
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -42,4 +42,6 @@ Hit play on the video(s):
 
 See also [Instructions to translate WPDiversity material](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/instructions-to-translate-wpdiversity-material/)
 
+<!--
 *   [To-do](# "To-do")
+-->

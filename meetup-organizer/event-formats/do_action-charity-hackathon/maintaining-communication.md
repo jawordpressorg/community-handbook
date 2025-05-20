@@ -8,4 +8,6 @@ The amount that you communicate with your participants is up to you, so stick wi
 
 If you go to the **do\_action Tools** page in the doaction.org dashboard (once you are logged in as an organiser), then you will find a handy form that will allow you to email everyone who will be taking part in your event. You can filter the recipients by role and non-profit, so it’s very flexible and will allow you to keep in touch with people as much as you need.
 
+<!--
 *   [To-do](# "To-do")
+-->

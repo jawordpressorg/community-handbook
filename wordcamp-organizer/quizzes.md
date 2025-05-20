@@ -10,4 +10,6 @@ Good luck with the quizzes! And please use the [#community-team](https://wordp
 
 [#community-team](https://make.wordpress.org/community/tag/community-team/)
 
+<!--
 *   [To-do](# "To-do")
+-->

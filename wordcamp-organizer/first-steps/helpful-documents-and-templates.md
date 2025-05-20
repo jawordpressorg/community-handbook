@@ -29,4 +29,6 @@
 
 *   [Sample Visa Letter Template:](https://docs.google.com/document/d/18prEfUYWqK2rP6gaI3GUK5znGfk8yZJs6l_2Di5rBWI/edit?usp=sharing) you can now generate visa letters from the tool under the “Docs” menu on your WordCamp site. This template is kept here as a historical reference.
 
+<!--
 *   [To-do](# "To-do")
+-->

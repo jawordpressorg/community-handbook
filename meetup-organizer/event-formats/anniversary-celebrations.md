@@ -92,4 +92,6 @@ Note: In case of shipping delays, please fill out the request as early as possib
 
 Click to [download high quality png](https://make.wordpress.org/community/files/2023/02/wp20-web-banner-1.png) version.
 
+<!--
 *   [To-do](# "To-do")
+-->

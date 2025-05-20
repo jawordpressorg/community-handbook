@@ -23,4 +23,6 @@ Here are the steps to do that.
 
 For more information on the WordPress.tv video shortcode [please see the documentation on VideoPress on the Jetpack website](https://jetpack.com/support/videopress/).
 
+<!--
 *   [To-do](# "To-do")
+-->

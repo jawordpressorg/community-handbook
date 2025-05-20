@@ -88,4 +88,6 @@ In addition to the Allyship training, the following resources contain helpful in
 
 [Submit a form.](https://make.wordpress.org/community/handbook/wordcamp-organizer/first-steps/inclusive-and-welcoming-events/community-inclusion-initiatives/)
 
+<!--
 *   [To-do](# "To-do")
+-->

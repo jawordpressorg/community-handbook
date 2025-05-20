@@ -56,4 +56,6 @@ The regular [WordCamp sponsorship rules](https://make.wordpress.org/community/ha
 *   We never share info of the attendees with a sponsor
 *   It’s not allowed to have promoted sessions/content, for example: “session sponsored by the sponsor XYZ”
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -13,4 +13,6 @@ This handbook gives community members a playbook to help guide them through orga
 
 If you find there’s information that you need that is missing from this handbook, please mention it in the [#community-team](https://make.wordpress.org/community/tag/community-team/) channel on Making WordPress Slack or email support@wordcamp.org.
 
+<!--
 *   [To-do](# "To-do")
+-->

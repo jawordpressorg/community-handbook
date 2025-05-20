@@ -115,4 +115,6 @@ Many organizers like setting up tools such as [FreeScout](https://freescout.net/
 *   You can forward emails to a Google group address, or [enable a support inbox](https://support.google.com/a/answer/167430?hl=en) if you want to (You will need to contact WordCamp Central if you would like to enable this feature). 
 *   If you are hosting an online event for your community, you are encouraged to use the built-in YouTube account to broadcast your videos and Google Meet to facilitate organizer meetings or hangouts with WordCamp organizers. 
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -14,4 +14,6 @@ The incident response team tries to respond to all reports within 72 hours of re
 
 [The Incident Response Team Handbook](https://make.wordpress.org/community/handbook/irt/) contains additional information about the Incident Response Team, including its members and processes.
 
+<!--
 *   [To-do](# "To-do")
+-->

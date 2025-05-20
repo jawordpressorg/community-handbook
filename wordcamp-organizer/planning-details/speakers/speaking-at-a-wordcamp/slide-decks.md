@@ -24,4 +24,6 @@ All talks (and slide decks) must respect the GPL. In practice, this means any Wo
 
 When including images, text, videos, and any other materials that the speaker themselves didn’t produce, make sure that they are using them in accordance with copyright laws and/or the Terms of Use of the provider. Note that the Fair Use laws are interpreted differently in different countries.
 
+<!--
 *   [To-do](# "To-do")
+-->

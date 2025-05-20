@@ -26,4 +26,6 @@ More information about Meetup Sponsors:
 1\. [Can I get sponsors for our Meetup?](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/#can-i-get-sponsors-for-our-meetup)  
 2\. [Meetup Sponsorships and Other Local Community Stuff](https://make.wordpress.org/community/2014/05/07/meetup-sponsorships-and-other-local-community-stuff/)
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -51,4 +51,6 @@ Fill out all the required fields, and for “Description” be sure to add the U
 
 Next select your video file using the file chooser, and start your upload. Be sure not to power down your computer or disconnect from the internet until the upload is complete.
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -7,4 +7,6 @@ Here are some helpful resources for organizers!
 *   [Helpful Resources from Global Sponsors](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/helpful-resources-from-global-sponsors/)
 *   [Helpful Documents and Templates](https://make.wordpress.org/community/handbook/wordcamp-organizer/first-steps/helpful-documents-and-templates/)
 
+<!--
 *   [To-do](# "To-do")
+-->

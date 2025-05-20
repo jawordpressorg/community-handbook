@@ -33,4 +33,6 @@ Reactivating a group by organizing an online meetup group is only a part of the 
 
 We still don’t know when things will get back to normal and when it will be the same to meet in person again, but that day will come for sure! Please keep in mind that members of your group are also exhausted and fatigued. You may not get instant results, but as you keep organizing events as part of your group, you will see your group members slowly being active. It will also help them stay prepared as we move back to in-person events in future.
 
+<!--
 *   [To-do](# "To-do")
+-->

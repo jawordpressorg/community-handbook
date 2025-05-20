@@ -18,4 +18,6 @@ When a volunteer needs to request payment for a vendor, or request reimbursement
 
 If you have questions about the handling or retention of personal or financial data on wordcamp.org, please [email us](mailto:support@wordcamp.org?Subject=Data%Privacy%inquiry) and we’ll be happy to answer your questions.
 
+<!--
 *   [To-do](# "To-do")
+-->

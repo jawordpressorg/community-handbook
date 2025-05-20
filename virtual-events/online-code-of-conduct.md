@@ -66,4 +66,6 @@ Contact info here! Make sure this includes a way to access the organizers during
 
 This Code of Conduct is a direct swipe from the awesome work of Open Source Bridge, but with our event information substituted. [The original can be viewed at the Internet Archive’s Wayback Machine](https://web.archive.org/web/20191206083557/http://opensourcebridge.org/about/code-of-conduct/) and is released under a [Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/) license.
 
+<!--
 *   [To-do](# "To-do")
+-->

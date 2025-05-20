@@ -47,4 +47,6 @@ Some examples of things that you *cannot* offer to sponsors are:
 
 If there is anything that you would like to offer to your sponsors that we have not mentioned here and you feel might be acceptable, **please email** [**support@wordcamp.org**](mailto:support@wordcamp.org) **to ask about it before making any promises.**
 
+<!--
 *   [To-do](# "To-do")
+-->

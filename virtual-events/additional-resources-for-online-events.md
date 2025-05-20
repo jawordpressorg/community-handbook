@@ -9,4 +9,6 @@ This section includes some helpful resources for organizers of online events, as
 *   [Zoom Security Settings](https://make.wordpress.org/community/handbook/virtual-events/additional-resources-for-online-events/zoom-security-settings/)
 *   [Chat moderation during livestream](https://make.wordpress.org/community/handbook/virtual-events/additional-resources-for-online-events/chat-moderation-during-livestream/)
 
+<!--
 *   [To-do](# "To-do")
+-->

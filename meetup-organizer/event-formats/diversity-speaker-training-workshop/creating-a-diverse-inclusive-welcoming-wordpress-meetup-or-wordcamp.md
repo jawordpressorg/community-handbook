@@ -54,4 +54,6 @@
 *   [Organizations Supporting WordPress.org: New Working Group Proposal](https://make.wordpress.org/meta/2023/08/09/organizations-supporting-wordpress-org/)  
     The proposal for a centralized working group to collect WordPress resources from all independent organizations, including ones that support Inclusion and Diversity.
 
+<!--
 *   [To-do](# "To-do")
+-->

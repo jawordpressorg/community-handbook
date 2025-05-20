@@ -23,4 +23,6 @@ Click ‘save’ when you are done.
 
 Now that your event budget is published you can start looking for sponsor and [submitting invoices for vendor payments](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/do_action-charity-hackathon/managing-event-finances/submit-invoices/).
 
+<!--
 *   [To-do](# "To-do")
+-->

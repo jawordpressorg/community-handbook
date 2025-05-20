@@ -34,4 +34,6 @@
     *   Watch our video on how to join the WordPress Slack: [](http://bit.ly/setupwp2slack)[http://bit.ly/setupwp2slack](http://bit.ly/setupwp2slack)
     *   Join our Slack channel: [#diverse-speaker-support](https://wordpress.slack.com/archives/C028SE81N3H)
 
+<!--
 *   [To-do](# "To-do")
+-->

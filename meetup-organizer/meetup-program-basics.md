@@ -97,4 +97,6 @@ First, [check whether there is already an active WordPress meetup group in your 
 
 To learn more, take the [Meetup Program Basices 2 quiz](https://wordpress.org/contributor-training/quiz/meetup-program-basics-2/). Read the [quizzes](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes) section of the welcome page if you have any questions about quizzes and how to navigate them
 
+<!--
 *   [To-do](# "To-do")
+-->

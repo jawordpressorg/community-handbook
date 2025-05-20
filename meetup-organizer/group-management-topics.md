@@ -72,4 +72,6 @@ The goal of group communication should be to better the communities understandin
 
 Here is [a quiz](https://wordpress.org/contributor-training/quiz/group-management-topics/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes) section of the welcome page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

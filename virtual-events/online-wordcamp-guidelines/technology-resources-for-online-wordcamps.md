@@ -58,4 +58,6 @@ WordCamp Austin 2020 used a paid version of [Mozilla Hubs](https://hubs.mozilla.
 
 [Gather](https://hubilo.com/) is a virtual conference tool with customizable maps and interactive objects. Used by [WordCamp Taiwan 2021 Online](https://taiwan.wordcamp.org/2021/).
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -30,4 +30,6 @@ These points are all important things to remember as in-person WordCamp activity
 
 *The content on this page was originally published as [a blog post on Make/Community](https://make.wordpress.org/community/2023/01/25/wordpress-community-support-wordpress-foundation-entity-structure/) by @harmonyromo.*
 
+<!--
 *   [To-do](# "To-do")
+-->

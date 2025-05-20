@@ -26,4 +26,6 @@ In some cases, we will ship [video kits](https://make.wordpress.org/community/ha
 
 Here is [a quiz](https://wordpress.org/contributor-training/quiz/supplies-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -20,4 +20,6 @@ This will open up a new section where you will be required to fill in the reques
 
 **A receipt/invoice is required for** ***all*** **expenses, so do not** **submit without including one. All submitted expenses will be reviewed before payment from the WordPress Foundation account.**
 
+<!--
 *   [To-do](# "To-do")
+-->

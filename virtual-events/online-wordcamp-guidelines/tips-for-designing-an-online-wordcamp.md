@@ -49,4 +49,6 @@ Labels were used for specific roles within the design team, for example, visual 
 *   There is a chance that once all the bumps are smoothed out on day one, your second day will be calmer, so this may be a better day to watch talks or to work on last-minute adjustments to closing remark slides.
 *   Video calls are great to focus work during the event, text works but to speed process hop on a video and share screens to just get it done.
 
+<!--
 *   [To-do](# "To-do")
+-->

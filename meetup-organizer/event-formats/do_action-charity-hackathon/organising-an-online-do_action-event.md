@@ -10,4 +10,6 @@ If you are organising an online/virtual do\_action event, you can do things a li
 
 **Want to learn more about how to organize an online do\_action charity hackathon? Check out this live Tuesday Training video to learn more!**
 
+<!--
 *   [To-do](# "To-do")
+-->

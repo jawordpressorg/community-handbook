@@ -11,4 +11,6 @@ This section contains suggestions for organizing online WordPress meetups.
 *   [Overview of Casual Online Gatherings](https://make.wordpress.org/community/handbook/virtual-events/online-meetup-guidelines/overview-of-casual-online-gatherings/)
 *   [Organize Learn WordPress Online Workshops for your WordPress Meetup](https://make.wordpress.org/community/handbook/virtual-events/online-meetup-guidelines/organize-learn-wordpress-discussion-groups-for-your-wordpress-meetup/)
 
+<!--
 *   [To-do](# "To-do")
+-->

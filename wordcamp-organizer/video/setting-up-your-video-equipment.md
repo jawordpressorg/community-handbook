@@ -55,4 +55,6 @@ Watch the following video to see how to set up your camera for use with a wirele
 
 Here is [a](https://community-self-training.mystagingwebsite.com/quiz/setting-up-your-video-equipment-2/) [quiz](https://wordpress.org/contributor-training/quiz/setting-up-your-video-equipment-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

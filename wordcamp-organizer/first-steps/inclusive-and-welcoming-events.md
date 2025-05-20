@@ -117,4 +117,6 @@ Participants in this panel also referenced a few resources that they hope you wi
 *   [WordPress Community in person events Code of Conduct](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/code-of-conduct/) 
 *   [WordPress Community online events Code of Conduct](https://make.wordpress.org/community/handbook/virtual-events/online-code-of-conduct/) 
 
+<!--
 *   [To-do](# "To-do")
+-->

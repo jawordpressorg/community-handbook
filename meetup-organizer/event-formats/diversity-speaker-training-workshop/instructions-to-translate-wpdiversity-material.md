@@ -47,4 +47,6 @@ If you need clarifications about the original content, reach out on the [#divers
 
 If you have questions about the Lesson Plan & subtitle translation process, contact a [Translation Coordinator](https://make.wordpress.org/training/handbook/faculty-program/) (marked as “TC” on the linked page) in the [#training](https://wordpress.slack.com/archives/C02RW657Q) channel on the WordPress Slack.
 
+<!--
 *   [To-do](# "To-do")
+-->

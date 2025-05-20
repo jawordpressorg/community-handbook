@@ -129,4 +129,6 @@ We are available via the ‘Contact’ button over in the left hand sidebar
 
 This Code of Conduct is heavily borrowed from the awesome work of Open Source Bridge. The original is available at [https://opensource.com/code-of-conduct](https://opensource.com/code-of-conduct) and is released under a Creative Commons Attribution-ShareAlike license.
 
+<!--
 *   [To-do](# "To-do")
+-->

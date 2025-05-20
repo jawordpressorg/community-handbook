@@ -159,4 +159,6 @@ There is a complete list at make.wordpress.org, but below is a list, along with 
 
 Here is [a quiz](https://wordpress.org/contributor-training/quiz/planning-a-contributor-day/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

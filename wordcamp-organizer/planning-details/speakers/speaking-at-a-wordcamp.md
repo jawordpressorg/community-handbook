@@ -38,4 +38,6 @@ You were accepted to speak? Exciting! Keep these things in mind when putting tog
 
 Here is [a quiz](https://wordpress.org/contributor-training/quiz/speaking-at-a-wordcamp-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

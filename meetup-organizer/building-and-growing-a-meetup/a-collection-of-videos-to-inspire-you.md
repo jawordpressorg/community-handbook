@@ -83,4 +83,6 @@ Whether you host or attend a WordPress Meetup, there are a number of things you 
 
 [WordSeshTV – Growing your WordPress Meetup](https://www.youtube.com/watch?time_continue=2&v=s-t7EewJMbc) Many of us first got into the WordPress Community through MeetUps. Looking back at WordSesh tips on WordPress Meetups we see how to make it happen.
 
+<!--
 *   [To-do](# "To-do")
+-->

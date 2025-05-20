@@ -78,4 +78,6 @@ See also [Instructions to translate WPDiversity material](https://make.wordpress
 
 If any links on this page are broken, please alert [#community-team](https://make.wordpress.org/community/tag/community-team/) in Making WordPress Slack
 
+<!--
 *   [To-do](# "To-do")
+-->

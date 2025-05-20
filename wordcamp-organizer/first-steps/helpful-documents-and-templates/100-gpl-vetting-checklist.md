@@ -100,4 +100,6 @@ If not, then the speaker does not meet the requirements for promotion by a WordC
 
 11) Your speaker does not distribute or promote WordPress-derivatives. Make sure they respect the trademark and are a good representative of the WordPress project, and you’re good to go.
 
+<!--
 *   [To-do](# "To-do")
+-->

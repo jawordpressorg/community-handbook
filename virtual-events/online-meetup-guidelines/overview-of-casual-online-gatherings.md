@@ -41,4 +41,6 @@ Turns out Twitch is no longer just for gamers to livestream themselves! If you h
 *   Password protect and manage who can get in ([resharing from this post](https://make.wordpress.org/community/2020/06/30/tuesday-trainings-tips-for-managing-an-online-meetup/)) to prevent any mishaps.
 *   Avoid holding sessions at the same time [as community meetings](https://make.wordpress.org/meetings/) so people aren’t having to pick and choose favorites.
 
+<!--
 *   [To-do](# "To-do")
+-->

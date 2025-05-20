@@ -54,4 +54,6 @@ This is just a short list. The possibilities are endless. And do not forget that
 
 Here is [a quiz](https://wordpress.org/contributor-training/quiz/planning-a-variety-of-events/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes) section of the welcome page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

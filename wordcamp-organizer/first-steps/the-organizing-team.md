@@ -35,4 +35,6 @@ The expectation is that all WordCamp organizing team members and volunteers will
 
 Here is [a quiz](https://wordpress.org/contributor-training/quiz/the-organizing-team-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

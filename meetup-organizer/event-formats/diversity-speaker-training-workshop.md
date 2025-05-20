@@ -34,4 +34,6 @@ Resources for WordPress Meetup and WordCamp Organizers
 
 [#community-events](https://make.wordpress.org/community/tag/community-events/), [#diverse-speaker-support](https://make.wordpress.org/community/tag/diverse-speaker-support/)
 
+<!--
 *   [To-do](# "To-do")
+-->

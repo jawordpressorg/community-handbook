@@ -191,4 +191,6 @@ If you browse to **Tickets > Tools** you’ll see a bunch of cool stuff that w
 
 Here is [a quiz](https://wordpress.org/contributor-training/quiz/using-camptix-event-ticketing-plugin-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

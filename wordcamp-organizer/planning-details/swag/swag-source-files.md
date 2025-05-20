@@ -49,4 +49,6 @@ This file is for printing sheets of stickers that include all the current teams 
 
 This file is for printing buttons for each contributing team: [contributor-button-icons-2017.pdf](https://make.wordpress.org/community/files/2018/03/contributor-button-icons-2017.pdf)
 
+<!--
 *   [To-do](# "To-do")
+-->

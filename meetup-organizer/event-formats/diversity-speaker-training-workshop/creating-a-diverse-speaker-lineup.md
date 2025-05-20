@@ -28,4 +28,6 @@
 *   [Supporting Black Voices in WordPress](https://make.wordpress.org/community/2020/07/15/supporting-black-voices-in-wordpress/)  
     A helpful list of tips for addressing Black voices specifically.
 
+<!--
 *   [To-do](# "To-do")
+-->

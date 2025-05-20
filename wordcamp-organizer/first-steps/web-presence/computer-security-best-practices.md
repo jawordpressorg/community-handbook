@@ -68,4 +68,6 @@ Yes. Think of how much you value everything on your computer and on web services
 *   If you notice anything suspicious on your accounts such as weird behavior or emails you don’t recognize, [let us know immediately](mailto:support@wordcamp.org).
 *   If you have any questions about anything above, [let us know](mailto:support@wordcamp.org).
 
+<!--
 *   [To-do](# "To-do")
+-->

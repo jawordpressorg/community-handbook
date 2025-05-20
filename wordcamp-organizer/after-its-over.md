@@ -13,4 +13,6 @@ Oh, and get some rest: you’ve earned it!
 
 Here is [a quiz](https://wordpress.org/contributor-training/quiz/after-its-over-2/) on this article. Read the [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

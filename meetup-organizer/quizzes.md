@@ -12,4 +12,6 @@ Finally, all of the quizzes will be at the end of the section, as this example s
 
  Good luck with the quizzes, and please use the [#community-team](https://wordpress.slack.com/archives/C037W5S7X) channel on [our Slack](https://chat.wordpress.org) to report if a quiz question is incorrect or ambiguous. If you need to find them later, all of our quizzes live in the [WordPress Contributor training site](https://wordpress.org/contributor-training/).
 
+<!--
 *   [To-do](# "To-do")
+-->

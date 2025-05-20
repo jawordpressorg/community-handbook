@@ -14,4 +14,6 @@ When the hack
 
 Make sure to celebrate the work and rest up. Your team truly deserves it!
 
+<!--
 *   [To-do](# "To-do")
+-->

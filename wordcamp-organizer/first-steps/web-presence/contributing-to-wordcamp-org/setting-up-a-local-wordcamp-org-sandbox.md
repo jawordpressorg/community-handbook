@@ -21,4 +21,6 @@ If you’d like to check out an alternative to the Docker environment, there’s
 *   [CampSite-2017 theme style guide](https://github.com/lucijanblagonic/wceu-2018)
 *   [WordCamp Europe 2018](https://github.com/lucijanblagonic/wceu-2018)
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -62,4 +62,6 @@ https://stimpunks.org/2022/10/25/five-ways-to-welcome-all-bodyminds-to-your-lear
 
 *Props to [Joe Simpson, Jr.](https://profiles.wordpress.org/joesimpsonjr/) for creating this handbook page.*
 
+<!--
 *   [To-do](# "To-do")
+-->

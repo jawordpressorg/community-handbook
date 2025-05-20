@@ -30,4 +30,6 @@ If you’d like to read more about WordPress and the GPL, here are some great re
 
 [#community-team](https://make.wordpress.org/community/tag/community-team/)
 
+<!--
 *   [To-do](# "To-do")
+-->

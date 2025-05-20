@@ -39,4 +39,6 @@ The password for these pages defaults to `do_action`, but a random password is g
 
 Because the participants are automatically added to the teams, you could feasibly have sign-ups from people who are in no way qualified to fill the role that they have chosen. While this is unlikely (as people are probably not going to sign up for a job that they are not suited for), it can happen. If you are unsure about a particular applicant then spend some time searching for them on the internet to see what you can find. If you see some clear red flags then get in touch with them and ask them about it, but remember to always give them the benefit of the doubt. The vetting of participants is up to you as the event organiser.
 
+<!--
 *   [To-do](# "To-do")
+-->

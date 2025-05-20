@@ -12,4 +12,6 @@ Interested in organizing a **WordPress event that is different than a WordCamp?*
 
 [Apply to Organize a WordPress Event](https://central.wordcamp.org/event-organizer-application/)
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -100,4 +100,6 @@ Finally, the welcome email is a great way of introducing your group to new membe
 -->
 [ここにウェルカムメールを作成するために使用できるテンプレート](https://make.wordpress.org/community/handbook/meetup-organizer/resources/welcome-email/) があります。
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -14,4 +14,6 @@ There are a few countries where do\_action events have been run before, so we ar
 
 In South Africa, local hosting provider, [xneelo](https://xneelo.co.za/), are happy to provide sponsored hosting for registered non-profit organisations. You can contact them directly and they will help you with sorting things out.
 
+<!--
 *   [To-do](# "To-do")
+-->

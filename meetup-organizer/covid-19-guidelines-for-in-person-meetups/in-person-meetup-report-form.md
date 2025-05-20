@@ -4,4 +4,6 @@ If an organizer or community member needs to connect with Community Team Deputie
 
 [Submit a form.](https://make.wordpress.org/community/handbook/meetup-organizer/covid-19-guidelines-for-in-person-meetups/in-person-meetup-report-form/)
 
+<!--
 *   [To-do](# "To-do")
+-->

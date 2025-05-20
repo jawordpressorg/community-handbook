@@ -17,4 +17,6 @@ Once you have identified a few eligible venues in your area, then get out there 
 
 When securing a date with your venue, it’s best to give yourself at least 2-3 months lead time before the actual event. The more you can have the better as this will allow you ample time to plan your event, as well as have participant sign-ups open for a decent amount of time.
 
+<!--
 *   [To-do](# "To-do")
+-->

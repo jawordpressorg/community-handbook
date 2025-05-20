@@ -12,4 +12,6 @@ If you are interested, you can start right away by [organizing an online worksho
 
 If you would like some guidance on using the Learn WordPress platform, check out our [Tuesday Training](https://make.wordpress.org/community/tag/tuesdaytrainings/) posts on the topic: [How to be an excellent online workshop facilitator](https://make.wordpress.org/community/2020/08/11/tuesday-trainings-how-to-be-an-excellent-discussion-group-leader/) and [How to organize a successful online workshop](https://make.wordpress.org/community/2020/12/08/tuesday-trainings-how-to-organize-a-successful-discussion-group/).
 
+<!--
 *   [To-do](# "To-do")
+-->

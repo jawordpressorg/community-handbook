@@ -38,4 +38,6 @@ Check the local guidelines on what information should be gathered (and how) in c
 
 Be sure to follow [Data Handling Best Practices](https://make.wordpress.org/community/handbook/wordcamp-organizer/first-steps/web-presence/data-handling-best-practices/) and make sure that the list isn’t accessible to others aside from you and/or your co-organisers. Destroy the list one month after the event. It is prohibited to use the list for any other purpose than in situations where attendees might have been exposed to COVID-19 and should not be shared with anyone other than Community Team Deputies or local health authorities. Possible misuse of the list is a [Code of Conduct](https://make.wordpress.org/community/handbook/meetup-organizer/resources/code-of-conduct/) violation.
 
+<!--
 *   [To-do](# "To-do")
+-->

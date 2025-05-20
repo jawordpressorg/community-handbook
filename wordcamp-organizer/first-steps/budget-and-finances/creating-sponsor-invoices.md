@@ -128,4 +128,6 @@ Just like with the vendor payment requests, each invoice will have a different s
 
 [![Checking Invoice Status](https://make.wordpress.org/community/files/2016/02/9Sponsor-Invoices-%E2%80%B9-WordCamp-Testing-2014-%E2%80%94-WordPress-300x126.png)](https://make.wordpress.org/community/files/2016/02/9Sponsor-Invoices-%E2%80%B9-WordCamp-Testing-2014-%E2%80%94-WordPress.png)
 
+<!--
 *   [To-do](# "To-do")
+-->

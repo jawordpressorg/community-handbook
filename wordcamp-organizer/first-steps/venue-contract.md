@@ -26,4 +26,6 @@ Some venues, such as schools, libraries, etc., might not have a procedure or tem
 *   With a signed contract, the venue and WPCS accept some conditions in case of event cancellation, etc.
 *   A contract signed by an international entity like WPCS elicits a bigger commitment from the venue.
 
+<!--
 *   [To-do](# "To-do")
+-->

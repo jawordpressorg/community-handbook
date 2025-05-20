@@ -50,4 +50,6 @@ There’s a lot of information you can add at this point, so take your time to g
 *   **Advanced**  
     You can set a new URL slug for your collective if you like (it will default to auto-creating a slug from your event name). You can also switch on markdown support if you would like that to be available in the text editors on the site for you.
 
+<!--
 *   [To-do](# "To-do")
+-->

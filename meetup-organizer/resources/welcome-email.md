@@ -93,4 +93,6 @@ If you have any questions or concerns, please get in touch with one of the organ
 -->
 質問やなにか心配なことがある場合は、オーガナイザー (運営者) または現在のメンバーの誰かにご連絡ください。喜んでお手伝いします。Meeup グループに参加していただきありがとうございます。お会いするのを楽しみにしています。
 
+<!--
 *   [To-do](# "To-do")
+-->

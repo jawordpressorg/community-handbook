@@ -29,4 +29,6 @@ Interested in mentoring? Apply to become an Event Supporter or Program Supporter
 
 If you have any questions about the mentorship program, please send us an email at [support@wordcamp.org](mailto:support@wordcamp.org).
 
+<!--
 *   [To-do](# "To-do")
+-->

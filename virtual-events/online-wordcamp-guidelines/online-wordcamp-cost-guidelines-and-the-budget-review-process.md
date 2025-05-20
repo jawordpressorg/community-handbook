@@ -82,4 +82,6 @@ We have paused plans to spend money on swag, T-shirts, or other typical WordCamp
 
 There are a lot of popular event platforms out there, and you might be wondering why those platforms aren’t being recommended. At this time, [none of these tools are fully accessible](https://make.wordpress.org/community/2020/04/03/online-conference-platform-concerns/), so they are not a good fit for WordCamps. If you come across any other platforms that you think might be a good fit for WordCamps and are fully accessible, please let the Community team know by emailing support@wordcamp.org. 
 
+<!--
 *   [To-do](# "To-do")
+-->

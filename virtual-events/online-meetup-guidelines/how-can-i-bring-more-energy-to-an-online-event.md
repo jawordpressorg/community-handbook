@@ -222,4 +222,6 @@ Ask people to show their pet (or plant, or kids, or a fun selfie! It can be a pi
 
 Depending on the size of the event, you may do this by inviting people on video. With bigger groups, we strongly recommend using the chat to post the pictures as this takes significantly less time. 
 
+<!--
 *   [To-do](# "To-do")
+-->

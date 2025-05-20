@@ -40,4 +40,6 @@ We also ask everyone associated with a WordPress Chapter Meetup in an official c
 
 For more information on encouraging diverse speakers and audiences, see the handbook section “[Creating Diverse and Inclusive Meetups](https://make.wordpress.org/community/handbook/meetup-organizer/building-and-growing-a-meetup/creating-diverse-and-inclusive-meetups/)”.
 
+<!--
 *   [To-do](# "To-do")
+-->

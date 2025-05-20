@@ -55,4 +55,6 @@ For WordCamp organizers who are considering cancelling or postponing their event
 
 You can also refer to the handbook page for Meetup organizers titled [“Organizing Virtual Events”](https://make.wordpress.org/community/handbook/meetup-organizer/resources/organizing-virtual-events/) for some more livestream ideas and tips.
 
+<!--
 *   [To-do](# "To-do")
+-->

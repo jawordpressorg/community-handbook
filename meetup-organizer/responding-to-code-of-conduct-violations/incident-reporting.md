@@ -23,4 +23,6 @@ If the report is *about* a community organizer, then we’ll reach out to the co
 
 The Incident Response Team tries to respond to all reports within 72 hours of receiving the report. Resolving the issue reported may take as long as 2-3 months, depending on the nature of the issue.
 
+<!--
 *   [To-do](# "To-do")
+-->

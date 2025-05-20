@@ -24,4 +24,6 @@ In those cases, please follow these steps to create a sponsor agreement:
 
 And all done! 🙂
 
+<!--
 *   [To-do](# "To-do")
+-->

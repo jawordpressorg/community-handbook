@@ -16,4 +16,6 @@ If your event is NOT [running the money through WordPress Community Support, PBC
 12.  **Submit the payment request when all the required fields are filled out correctly and the invoice is attached.** [![Submit the request](https://make.wordpress.org/community/files/2016/03/Submit-the-request-300x214.png)](https://make.wordpress.org/community/files/2016/03/Submit-the-request.png)
 13.  **The Vendor Payments queue is cleared daily, and you’ll be notified when payment had been initiated.**
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -121,4 +121,6 @@ Keep reminding the team that everyone has something worth sharing. It is not the
       
     Publishing your full speaker lineup still allows you to do social announcements in thoughtful/even batches, but also is a transparent way to display your attention to diversity and inclusion.
 
+<!--
 *   [To-do](# "To-do")
+-->

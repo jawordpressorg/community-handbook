@@ -8,4 +8,6 @@ The venue contact should also be informed that someone with a severe allergy wil
 
 If you have questions about how to ensure that an attendee with severe allergies is safe at your event, email support@wordcamp.org and a community team deputy will help.
 
+<!--
 *   [To-do](# "To-do")
+-->

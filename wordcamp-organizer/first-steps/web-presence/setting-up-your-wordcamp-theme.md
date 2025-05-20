@@ -30,4 +30,6 @@ To add a **register button**, make sure *“Show a featured button in the menu.�
 
 You can add web fonts by browsing to the Appearance > Fonts menu. If there’s a popular collection of open-source fonts that you’d like to use, but it isn’t available, let us know and we’ll try to add it.
 
+<!--
 *   [To-do](# "To-do")
+-->

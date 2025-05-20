@@ -15,4 +15,6 @@ In addition to the widgets included in WordPress Core, there are several others 
 *   **Campaign Monitor** – You can obtain the Campaign URL from your Campaign Monitor list settings; it will look something like *http://username.createsend.com/t/t/s/sjlk/*
 *   **Subscribe to Specific Post** – This will let visitors enter their e-mail address on specific posts/pages/etc and receive e-mail notifications when the contents of that post change. Configuration options are located in the *Settings* menu, under *Email Post Changes.*
 
+<!--
 *   [To-do](# "To-do")
+-->

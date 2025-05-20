@@ -23,4 +23,6 @@ There are two ways to sponsor: through the Global Community program, or through 
 *   [2017 WordPress Global Community Sponsorship program](https://make.wordpress.org/community/handbook/wordcamp-organizer/first-steps/budget-and-finances/global-sponsorship-program-for-2017/)
 *   [2016 WordPress Global Community Sponsorship program](https://make.wordpress.org/community/2016-global-sponsorship-program/)
 
+<!--
 *   [To-do](# "To-do")
+-->

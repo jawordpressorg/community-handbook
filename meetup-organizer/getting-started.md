@@ -152,4 +152,6 @@ There are many ways to help attract members to your event. Please keep in mind t
 *   **Social Media:** Connect with local users who have an interest in WordPress and community
 *   **Flyers:** If there are local spaces where you see other people blogging or coding, put up a flyer there. Coffee shops and coworking spaces are good examples.
 
+<!--
 *   [To-do](# "To-do")
+-->

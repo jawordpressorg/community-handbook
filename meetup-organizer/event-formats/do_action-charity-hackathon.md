@@ -27,4 +27,6 @@ There are two ways to get involved in do\_action: You can sign up to participate
 
 *To find out a bit more about what do\_action is and how it works, here is the recap from the [event in Zurich](https://make.wordpress.org/community/2018/05/21/do_action-zurich-2018/) and here’s a video from the 2014 do\_action event in Cape Town:*
 
+<!--
 *   [To-do](# "To-do")
+-->

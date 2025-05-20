@@ -70,4 +70,6 @@ By following these steps, you can prevent disruptions to your live streams, main
 
 [Learn more about getting your videos ready to publish online →](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/video/after-the-event-post-production/)
 
+<!--
 *   [To-do](# "To-do")
+-->

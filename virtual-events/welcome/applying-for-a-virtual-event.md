@@ -10,4 +10,6 @@ Learn more about applying for:
 
 We will be approving online events for 2020 per the [guidelines shared here](https://make.wordpress.org/community/handbook/virtual-events/welcome/new-guidelines-for-virtual-events-in-2020/).
 
+<!--
 *   [To-do](# "To-do")
+-->

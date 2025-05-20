@@ -38,4 +38,6 @@ This is all up to you to work what makes the most sense for your event and your 
 -->
 以上のことをやるかどうかは、あなた次第です。あなたのイベントとスポンサーに最も適したことをしてください。一般的な話として、スポンサーは、このような小さな見返りのある慈善活動に、投資として喜んで寄付をするものです。
 
+<!--
 *   [To-do](# "To-do")
+-->

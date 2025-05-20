@@ -28,4 +28,6 @@ Feel free to use the following image as the featured image for your meetup event
 
 [![](https://make.wordpress.org/community/files/2024/08/SotW-2024-Watch-Party-banner-1024x576.jpg)](https://make.wordpress.org/community/files/2024/08/SotW-2024-Watch-Party-banner-scaled.jpg)
 
+<!--
 *   [To-do](# "To-do")
+-->

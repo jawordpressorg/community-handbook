@@ -38,4 +38,6 @@ In the options dialogue box, it is recommended to select the Adobe PDF Preset �
 **EPS**  
 To export an EPS, go to File > Save As (Shift Cmd S) and select Illustrator EPS as your file type. Select “Use Artboards” and choose which ones to export. It will export each artboard as its own EPS file, with the file name appended with the artboard name and number (so it can be helpful to label your dartboards accordingly!) In the EPS dialogue box, it is helpful to check “Embed Fonts” and “Include Linked Files” and make sure your preset is set to High Resolution for printing (for rendering any effects like glows or shadows).
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -10,4 +10,6 @@ Under the WordPress Chapter Meetup Program, any member of the group may organize
 **That’s about it!** Oh, and follow [the Five Good Faith Rules](#five-good-faith-rules) mentioned at the beginning. If you have a problem with one of them, talk to us about it. You can email support@wordpress.org or find us in the Make WordPress Slack channel.  
 When you become a co-organizer of a Meetup, you will receive a Meetup Organizer badge. To request a badge, please refer to the [Community Profile Badges page](https://make.wordpress.org/community/handbook/community-deputy/resources-and-tools/community-profile-badges/).
 
+<!--
 *   [To-do](# "To-do")
+-->

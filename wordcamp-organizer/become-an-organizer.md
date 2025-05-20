@@ -49,4 +49,6 @@ Interested in organizing a **WordPress event that is different than a WordCamp?
 
 Take the course [What is a WordCamp?](https://wordpress.org/contributor-training/quiz/what-is-a-wordcamp/) to learn more. Read the [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

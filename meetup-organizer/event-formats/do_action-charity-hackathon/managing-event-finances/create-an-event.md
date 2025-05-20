@@ -24,4 +24,6 @@ This will take you to the event creation form:
 
 Once your collective and event have been created, you will need to [set a budget for your event](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/do_action-charity-hackathon/set-event-budget/) so that you have a public goal to work towards.
 
+<!--
 *   [To-do](# "To-do")
+-->

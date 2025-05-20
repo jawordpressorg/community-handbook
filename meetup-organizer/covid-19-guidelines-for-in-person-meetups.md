@@ -27,4 +27,6 @@ These are strong recommendations for attendees. Organizers can help by confirmin
 
 These reminders will be added to WordCamp ticket purchase page
 
+<!--
 *   [To-do](# "To-do")
+-->

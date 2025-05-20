@@ -57,4 +57,6 @@ In order to make sure that speakers can see their feedback when logged in, pleas
 
 It is recommended that speakers be notified before the event that attendees will be able to submit feedback to them. This way they can be mentally prepared and expect the email notifications that they will receive once their feedback has been moderated.
 
+<!--
 *   [To-do](# "To-do")
+-->

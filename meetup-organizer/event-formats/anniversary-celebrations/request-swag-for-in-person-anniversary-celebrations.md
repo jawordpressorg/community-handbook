@@ -4,4 +4,6 @@ Once you have scheduled your [in-person Anniversary Celebration](https://make.w
 
 [Submit a form.](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/anniversary-celebrations/request-swag-for-in-person-anniversary-celebrations/)
 
+<!--
 *   [To-do](# "To-do")
+-->

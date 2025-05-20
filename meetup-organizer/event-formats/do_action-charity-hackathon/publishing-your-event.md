@@ -14,4 +14,6 @@ Once you have been added to the site as an organiser, you will be able to add yo
 
 The URL for your event will look something like this: `http://doaction.org/event/event-slug` – you can use this page to promote your event and accept participant sign-ups.
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -18,4 +18,6 @@ It’s a good idea to have name badges for all attendees (non-profit representat
 
 Aside from the name badges, having some basic stationery available for the teams is helpful. If you can get a notebook and pen for each individual, that would be great, but if not, then one notebook for each team is also helpful. This gives them space to sketch designs, plan UI flows, and take helpful notes. There’s a good chance that one of your sponsors can provide branded notebooks for this, so chat with them about that.
 
+<!--
 *   [To-do](# "To-do")
+-->

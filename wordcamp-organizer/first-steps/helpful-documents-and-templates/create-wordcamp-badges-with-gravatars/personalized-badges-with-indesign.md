@@ -79,4 +79,6 @@ The possibilities are endless! You can run the PDF through a batch Photoshop act
 
 This process is the first iteration of this functionality, and there’s a lot of room for improvement. If you’d like to help make it better, you can contribute feedback and code to [#262-meta](https://meta.trac.wordpress.org/ticket/262).
 
+<!--
 *   [To-do](# "To-do")
+-->

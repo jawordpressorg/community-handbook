@@ -57,4 +57,6 @@ Don’t forget to bring your WordPress spirit! Dust off some of your favorite Wo
 
 All `#WP20` posts will be aggregated and shared real-time on the [WordPress 20th Anniversary website](https://wp20.wordpress.net/).
 
+<!--
 *   [To-do](# "To-do")
+-->

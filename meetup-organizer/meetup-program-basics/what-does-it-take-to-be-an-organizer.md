@@ -18,4 +18,6 @@ We also ask everyone that organizes WordPress Chapter Meetup to uphold the princ
 
 Are you ready to sign up? [Complete the application form here](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/interest-form/)
 
+<!--
 *   [To-do](# "To-do")
+-->

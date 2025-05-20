@@ -35,4 +35,6 @@ For WordPress.com logo, [open this folder](https://drive.google.com/drive/folder
 
 [Additional Kinsta logos can be found here](https://drive.google.com/drive/folders/1XqLvC0nryban8c4PxbA_57Ft9wfoXJjE?usp=sharing)
 
+<!--
 *   [To-do](# "To-do")
+-->

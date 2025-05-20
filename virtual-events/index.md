@@ -8,4 +8,6 @@ This site is a handbook for WordPress community organizers who want to host onli
 
 In addition to providing these [new guidelines](https://make.wordpress.org/community/handbook/virtual-events/welcome/new-guidelines-for-virtual-events-in-2020/), this site also provides instructions on [how to apply for a online WordCamp](https://make.wordpress.org/community/handbook/virtual-events/welcome/applying-for-a-virtual-event/). As online events are fundamentally different from in-person events, there are also recommendations and suggested best practices for speakers and organizers of virtual events, provided by experienced community members.
 
+<!--
 *   [To-do](# "To-do")
+-->

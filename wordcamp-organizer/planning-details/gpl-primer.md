@@ -75,4 +75,6 @@ When vetting a company that sells plugins or themes, look at their terms of serv
 
 When vetting an organizer/speaker/company that is an agency or works for an agency, keep in mind that the GPL only applies to WordPress derivatives that are *distributed* works. If someone builds someone a WordPress theme or plugin for that person’s personal/business use, then the GPL does not require that the theme/plugin/derivative be publicly distributed. You don’t have to examine the licenses of all the custom themes someone has built in their agency work.
 
+<!--
 *   [To-do](# "To-do")
+-->

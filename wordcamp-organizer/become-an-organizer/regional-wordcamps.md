@@ -49,4 +49,6 @@ After all, it’s the content and connections that matter, not the number of att
 
 > **Thinking about a regional WordCamp but still not sure? Reach out to the Community Team at support@wordcamp.org!**
 
+<!--
 *   [To-do](# "To-do")
+-->

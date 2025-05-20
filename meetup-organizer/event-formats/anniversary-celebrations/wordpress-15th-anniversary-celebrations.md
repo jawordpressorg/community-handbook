@@ -50,4 +50,6 @@ If you’re meeting at a place that is unusual for your group, make sure to post
 
 Share your celebration with the WordPress world by posting photos or videos using the [#wp15](https://make.wordpress.org/community/tag/wp15/) hashtag. All [#wp15](https://make.wordpress.org/community/tag/wp15/) posts will be aggregated and shared real-time on the WordPress 15th Anniversary website, which will be launched in April 2018.
 
+<!--
 *   [To-do](# "To-do")
+-->

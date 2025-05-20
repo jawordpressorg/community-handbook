@@ -11,4 +11,6 @@
 *   **Collaborate with other nearby groups to find speakers.** This works especially well for online events, where both presenters and attendees are not constrained by location.
 *   **Look within your meetup group.** Your meetup group is made up of all sorts of tremendously talented and experienced individuals. Frequently people don’t think of themselves as presenters because no one has given them the opportunity or training to be a presenter. Open up speaker requests internally to your group, and encourage first-time speakers.
 
+<!--
 *   [To-do](# "To-do")
+-->

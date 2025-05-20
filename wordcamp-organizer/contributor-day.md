@@ -10,4 +10,6 @@ If you’re planning to do a Contributor Day as part of your WordCamp, don’t f
 
 We have Contributor Badge Stickers that we send to WordCamps hosting Contributor Days. When [requesting your WordCamp’s swag](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/swag/#requesting-swag), please be sure to let WordCamp Central know how many attendees you expect for your contributor day so we can order an appropriate amount of stickers for your event!
 
+<!--
 *   [To-do](# "To-do")
+-->

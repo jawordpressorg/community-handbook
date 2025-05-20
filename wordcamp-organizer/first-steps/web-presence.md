@@ -45,4 +45,6 @@ As a reminder, WordCamp.org sites are covered by the [WordPress.org privacy poli
 
 Here is [a quiz](https://wordpress.org/contributor-training/quiz/web-presence-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -42,4 +42,6 @@ To change the settings for future events, log into Zoom’s web interface and go
 *   [Hosting Troll-Free/Playful/Interactive Virtual Events with Zoom](https://docs.google.com/document/d/1KLRrnm6g5YvD8QRSPwwNWq6NPk9FYvMpZPy_XEyOmMM/edit#heading=h.1on1dg3umpkx)
 *   [Safety and Security While Video Conferencing with Zoom](https://www.wordfence.com/blog/2020/04/safety-and-security-while-video-conferencing/)
 
+<!--
 *   [To-do](# "To-do")
+-->

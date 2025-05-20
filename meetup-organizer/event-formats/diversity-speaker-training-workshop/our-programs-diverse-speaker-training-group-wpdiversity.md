@@ -198,4 +198,6 @@ Thank you very much for your time and dedication!
 
 [<- Back to main Diverse Speaker Training Group (#WPDiversity) page](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/)
 
+<!--
 *   [To-do](# "To-do")
+-->

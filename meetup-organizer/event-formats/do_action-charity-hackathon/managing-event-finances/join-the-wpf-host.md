@@ -12,4 +12,6 @@ You will get a message that says “application pending”. Wait for approval to
 
 And that’s it – next step is [creating an event within your collective](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/do_action-charity-hackathon/managing-event-finances/create-an-event/).
 
+<!--
 *   [To-do](# "To-do")
+-->

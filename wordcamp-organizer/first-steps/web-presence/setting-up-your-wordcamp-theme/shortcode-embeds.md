@@ -132,4 +132,6 @@ The default [WordPress Embeds](https://codex.wordpress.org/Embeds#Okay.2C_So_Wha
 
 If there’s a third-party service you’d like to use with your WordCamp site, and think other organizers can benefit from it, feel free to [get in touch](http://central.wordcamp.org/contact-us/), we’re always open to suggestions.
 
+<!--
 *   [To-do](# "To-do")
+-->

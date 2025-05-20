@@ -6,4 +6,6 @@ Open Collective allows organisations (known as ‘collectives’) to publish the
 
 If that all sounds a little confusing, then don’t worry – just follow the docs here to get it all set up correctly. To start off, you need to [create a new collective](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/do_action-charity-hackathon/managing-event-finances/create-a-new-collective/).
 
+<!--
 *   [To-do](# "To-do")
+-->

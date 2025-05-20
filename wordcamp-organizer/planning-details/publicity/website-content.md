@@ -183,4 +183,6 @@ You may wish to include:
 
 *Thank you @AlexDenning and Alexandra Karapidaki for this at WCEU Contributor Day. [Original Post in the Community Blog](https://make.wordpress.org/community/2017/06/21/proposed-wordcamp-editorial-calendar/)*
 
+<!--
 *   [To-do](# "To-do")
+-->

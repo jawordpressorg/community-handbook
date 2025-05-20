@@ -105,4 +105,6 @@ Here is [a quiz](https://wordpress.org/contributor-training/quiz/global-communit
 
 [#events-2](https://make.wordpress.org/community/tag/events-2/)
 
+<!--
 *   [To-do](# "To-do")
+-->

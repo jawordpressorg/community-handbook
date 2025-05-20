@@ -20,4 +20,6 @@ Excess funds are not to be pocketed by the organizers; organizers are considered
 
 Please consider taking the [Should you be an organizer? course](https://wordpress.org/contributor-training/quiz/should-you-be-an-organizer/). Read [Quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

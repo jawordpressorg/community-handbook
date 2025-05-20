@@ -50,4 +50,6 @@ If an issue arises where an organizing team member considers resigning, make sur
 
 Even if you leave the organizing team for the event, you still have the chance to participate as an attendee as long as Code of Conduct violations didn’t occur.
 
+<!--
 *   [To-do](# "To-do")
+-->

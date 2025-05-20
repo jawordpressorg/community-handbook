@@ -39,4 +39,6 @@ If you are availabe to add plugins and read error logs, add this plugin to your 
 
 Possible bugs can be discussed in [#meta-wordcamp](https://make.wordpress.org/community/tag/meta-wordcamp/) on [Slack](https://make.wordpress.org/chat/) and reported in [Meta Trac](https://meta.trac.wordpress.org/) ticket if the bug seems to be in the Events API. Bugs in Dashboard widget can be reported in [Core Trac](https://core.trac.wordpress.org/).
 
+<!--
 *   [To-do](# "To-do")
+-->

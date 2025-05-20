@@ -171,4 +171,6 @@ Following these suggestions will help in the road to including more people; that
 
 *   [Inclusive and Welcoming Events](https://make.wordpress.org/community/handbook/wordcamp-organizer/first-steps/inclusive-and-welcoming-events/)
 
+<!--
 *   [To-do](# "To-do")
+-->

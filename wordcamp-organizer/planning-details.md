@@ -21,4 +21,6 @@ Check out this [calendar of WordCamp planning milestones](https://docs.google.co
 
 [![](https://make.wordpress.org/community/files/2024/05/Screenshot-2024-05-02-at-10.06.57%E2%80%AFAM-1024x487.png)](https://make.wordpress.org/community/files/2024/05/Screenshot-2024-05-02-at-10.06.57%E2%80%AFAM.png)
 
+<!--
 *   [To-do](# "To-do")
+-->

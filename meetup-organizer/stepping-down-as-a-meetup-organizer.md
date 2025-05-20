@@ -54,4 +54,6 @@ Ideally, multiple members will team up as co-organizers, and we welcome all who 
 
 \[ORGANIZER’S  NAME\]
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -43,4 +43,6 @@ By following these steps, you can prevent disruptions to your live streams, main
 
 Here is [a quiz](https://wordpress.org/contributor-training/quiz/video-planning-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

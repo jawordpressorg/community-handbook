@@ -37,4 +37,6 @@ Check out the following section in the WordCamp organizer handbook for some hand
 
 > [Google Workspace for WordCamps](https://make.wordpress.org/community/handbook/wordcamp-organizer/first-steps/web-presence/g-suite-for-wordcamps/)
 
+<!--
 *   [To-do](# "To-do")
+-->

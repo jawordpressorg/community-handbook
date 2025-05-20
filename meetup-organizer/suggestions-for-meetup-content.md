@@ -252,4 +252,6 @@ It’s also a great way for new speakers or new members of your Meetup to feel c
 -->
 新しいスピーカーや新しいメンバーが気軽に話すのに最適な方法です。 これは重圧が少ないプレゼンテーションです。
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -37,4 +37,6 @@ To request that your existing group join the WordPress Meetup Chapter Program, p
 
 [Apply to Join the WordPress Meetup Chapter Program](https://central.wordcamp.org/meetup-organizer-application/)
 
+<!--
 *   [To-do](# "To-do")
+-->

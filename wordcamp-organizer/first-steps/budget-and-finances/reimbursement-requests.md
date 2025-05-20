@@ -83,4 +83,6 @@ And that’s all! You can add a new expense, save your Reimbursement Request as 
 
 Here is [a quiz](https://wordpress.org/contributor-training/quiz/reimbursement-requests-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

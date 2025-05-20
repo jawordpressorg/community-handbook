@@ -36,4 +36,6 @@ Also, if you haven’t already given us the official address of your venue, plea
 
 Thanks so much!
 
+<!--
 *   [To-do](# "To-do")
+-->
