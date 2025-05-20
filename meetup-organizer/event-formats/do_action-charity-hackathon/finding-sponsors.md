@@ -3,9 +3,15 @@
 -->
 # スポンサーを見つける
 
+<!--
 Now that you have got this far in planning your do\_action hackathon, you will notice that the costs for this kind of event are actually relatively low. In fact, the only real costs are for the venue hire and the catering – both of which can often be reduced due to this being a charity event.
+-->
+さあ、ハッカソンを計画することになりました。この種のイベントにかかる費用は実際には比較的低いことがわかるでしょう。実際、必要な費用は会場を借りる費用とケータリングくらいです。 - チャリティーイベントですからこれらの費用は両方とも、かなり減らすことができます。
 
+<!--
 When it comes to finding sponsors for your event, it’s best to go with local companies as they know your community the best and can get involved in more practical ways. That being said, the criteria for do\_action sponsorship are the same as for WordCamp sponsorship – you can find more details about this in the [WordCamp Organiser’s Handbook](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/planning-details/fundraising/wordcamp-sponsorship/).
+-->
+イベントスポンサーを見つけることに関しては、地元の企業に行くのが最善の方法です。地元の企業は、あなたの地域社会を最もよく知っていおり、実践的な方法で関わることができるからです。とはいえ、スポンサーシップの基準は、WordCamp のスポンサーシップと同じです。 - 詳しくは [WordCamp Organiser’s Handbook](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/planning-details/fundraising/wordcamp-sponsorship/) を参照してください。
 
 <!--
 In return for sponsoring the event, you can offer sponsors anything that makes sense for this kind of thing. Some suggestions are:

@@ -52,7 +52,10 @@ This is just a short list. The possibilities are endless. And do not forget that
 -->
 これは短いリストでしかありません。可能性は無限大です。そして、忘れてはいけないのはいくつかのイベントは WordPress 愛好家を集め WordPress でもっとやる気を込めて Meetup イベントにすることができます。
 
+<!--
 Here is [a quiz](https://wordpress.org/contributor-training/quiz/planning-a-variety-of-events/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes) section of the welcome page if you have any questions about quizzes and how to navigate them.
+-->
+この記事についての[クイズ](https://wordpress.org/contributor-training/quiz/planning-a-variety-of-events/)があります。クイズや、そのナビゲーションについての質問がある場合はウェルカムページの[クイズ](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes)セクションをお読みください。
 
 <!--
 *   [To-do](# "To-do")

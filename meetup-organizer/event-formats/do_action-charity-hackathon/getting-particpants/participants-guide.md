@@ -1,4 +1,7 @@
+<!--
 # Participant&#8217;s Guide
+-->
+# 参加者ガイド
 
 <!--
 While minor details may vary depending on the location of the do\_action event, there are a number of things that all do\_action participants need to take note of.
@@ -10,7 +13,10 @@ While minor details may vary depending on the location of the do\_action event,
 -->
 ## 当日の構成
 
+<!--
 Your event organisers will be in touch with you about starting times, but the general structure of the day of a do\_action hackathon is that you will start work in the morning and work through until about 5pm. Meals will all be provided for you and the day will end with each team presenting their work to everyone else followed by a celebratory supper for everyone in attendance.
+-->
+イベント主催者から開始時間について連絡がありますが、一般的な do\_action ハッカソンの一日の流れは、朝から作業を始めて、午後5時ごろに終了するというものです。ランチが提供され、各チームが自分たちの作品を他の人に発表し、その後、出席者全員のために懇親会が行われ、一日が終わります。
 
 <!--
 ## What is expected of participants
