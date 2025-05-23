@@ -147,7 +147,7 @@ You may wish to include:
 *   A very brief intro, including a link to become a sponsor and buy tickets if these are still available.
 *   Content provided by your sponsors.
 *   Example from [WordCamp London 2017 (stall sponsors post)](https://2017.london.wordcamp.org/2017/02/13/a-huge-thank-you-to-our-stalls-sponsors/)
-*   Example from [WordCamp San Diego 2017 ](https://2017.sandiego.wordcamp.org/2017/03/20/thank-you-wordcamp-san-diego-2017-gold-sponsors/)
+*   Example from [WordCamp San Diego 2017](https://2017.sandiego.wordcamp.org/2017/03/20/thank-you-wordcamp-san-diego-2017-gold-sponsors/) 
 
 ## Announce schedule
 
@@ -179,8 +179,10 @@ You may wish to include:
 *   Example from [WordCamp London 2017 (about social events)](https://2017.london.wordcamp.org/2017/03/03/are-you-coming-to-wcldn-alone-and-want-to-meet-new-people/)
 *   Example from [WordCamp London 2017 (about menu)](https://2017.london.wordcamp.org/2017/03/14/whats-on-the-menu-at-wordcamp-london/)
 *   Example from [WordCamp Orange County 2017 about after party](https://2017.oc.wordcamp.org/wordcamp-orange-county-after-party-at-durty-nellys/)
-*   Example from [WordCamp Orange County 2017 about food](https://2017.oc.wordcamp.org/food-trucks-add-goodness-to-wordcamp-orange-county/)
+*   Example from [WordCamp Orange County 2017 about food](https://2017.oc.wordcamp.org/food-trucks-add-goodness-to-wordcamp-orange-county/) 
 
 *Thank you @AlexDenning and Alexandra Karapidaki for this at WCEU Contributor Day. [Original Post in the Community Blog](https://make.wordpress.org/community/2017/06/21/proposed-wordcamp-editorial-calendar/)*
 
+<!--
 *   [To-do](# "To-do")
+-->

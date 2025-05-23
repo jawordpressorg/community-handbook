@@ -4,7 +4,7 @@ The global community team uses WordCamp.org sites to budget, track, and log even
 
 ### Entity and fiscal team
 
-The WordPress global community team uses the [WordPress Foundation’s](http://wordpressfoundation.org/) subsidiary corporation, [WordPress Community Support PBC](https://make.wordpress.org/community/handbook/wordcamp-organizer/first-steps/budget-and-finances/running-the-money-through-wpcs/#how-does-this-work). A group of financial administrators,  volunteers who review and process payment and reimbursement requests currently includes: Andrea Middleton, Cami Kaos, Courtney Patubo-Kranzke, Hugh Lashbrooke, Josepha Haden, and Rocio Valdivia. Two volunteers also provide bookkeeping support: Julia Ulrich and Kim Hustad.
+The WordPress global community team uses the [WordPress Foundation’s](http://wordpressfoundation.org/) subsidiary corporation, [WordPress Community Support PBC](https://make.wordpress.org/community/handbook/wordcamp-organizer/first-steps/budget-and-finances/running-the-money-through-wpcs/#how-does-this-work). A group of financial administrators,  volunteers who review and process payment and reimbursement requests currently includes: Angela Jin, Erica Varlese, Hari Shanker, and Naoko Takano. Harmony Romo also provides bookkeeping support.
 
 ### Sponsor invoices and revenue
 
@@ -18,4 +18,6 @@ When a volunteer needs to request payment for a vendor, or request reimbursement
 
 If you have questions about the handling or retention of personal or financial data on wordcamp.org, please [email us](mailto:support@wordcamp.org?Subject=Data%Privacy%inquiry) and we’ll be happy to answer your questions.
 
+<!--
 *   [To-do](# "To-do")
+-->

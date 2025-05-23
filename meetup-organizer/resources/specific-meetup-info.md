@@ -4,9 +4,9 @@
 # Meetup の具体的情報
 
 <!--
-Alert: This is a template that may inspire the text for your local Meetup group page.
+This is a template that may inspire the text for your local Meetup group page.
 -->
-注: これはローカル Meetup グループページのテキストの参考にしていただくためのテンプレートです。
+これはローカル Meetup グループページのテキストの参考にしていただくためのテンプレートです。
 
 <!--
 Please be aware that the first three paragraphs are mutually exclusive, so if more than one paragraph applies to the group, then we recommend that it is rewritten spefically for the group.
@@ -47,3 +47,7 @@ If any of this sounds like you, we would love to see you at our next meetup.
 Hope to see you soon!
 -->
 お会いできるのを楽しみにしています。
+
+<!--
+*   [To-do](# "To-do")
+-->

@@ -16,6 +16,13 @@ That said, who doesn’t secretly hope to meet Matt Mullenweg at their WordCamp?
 
 If you aim for at least 80% local/regional and no more than 20% visiting, you’re doing great. If you’re veering toward more out-of-towners than locals, we start to wonder if you’ve really gotten to know who’s in your local community. Are there really no people doing cool stuff with WordPress? Sometimes that is the case, we know. If you have virtually no local community yet, and are hosting a WordCamp in an attempt to kick-start one, then we understand that you will likely need to bring in outside speakers for almost everything, and can help connect you to some likely people.
 
+### Speaker Diversity
+
+Along with building up your local community as speakers, we also recommend building up diversity in your speakers. WordCamp organizers should strive for a goal of 50% of speakers from underrepresented groups in their community. For organizers who are not sure how to meet these expectations, we offer these resources:
+
+*   Refer to the [Building a Diverse Speaker Roster](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/speakers/building-a-diverse-speaker-roster/) section in the WordCamp Organizer Handbook
+*   Run the [Diverse Speaker Training Workshop](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) in your local community
+
 ### How to Choose Them
 
 There are a number of ways to identify potential speakers.
@@ -35,7 +42,7 @@ Once you have a list of potential speakers, you need to vet them to see if they 
 
 As you start getting speakers to commit, add them to your website – even if you don’t have a schedule yet. Seeing the program grow over time builds interest among potential attendees, and it gives the speakers (not to mention bloggers, people on Twitter, etc.) somewhere to link to when they post the fact that they’re speaking at your WordCamp. Don’t wait until you’ve finalized the schedule; be as open as possible as you are confirming speakers.
 
-Make sure you send your speakers an official confirmation email when you’ve made your decision (either yes or no). At this point, gather more of their contact information, get a bio, and enter it all in the Speakers section of your yyyy.cityname.wordcamp.org site. That’s also a good time to remind speakers to design their presentations to be family-friendly (free of profanity and sexual content), accurate, and 100% GPL.
+Make sure you send your speakers an official confirmation email when you’ve made your decision (either yes or no). At this point, gather more of their contact information, get a bio, and enter it all in the Speakers section of your cityname.wordcamp.org/202x site. That’s also a good time to remind speakers to design their presentations to be family-friendly (free of profanity and sexual content), accurate, and 100% GPL.
 
 Some WordCamps also make the speakers authors on the site and ask each speaker to write a blog post about their topic, why they’re excited about the upcoming WordCamp, and asking the attendees if there are any specific questions they’d like to have answered in the presentation. This is universally popular with attendees, as it makes it easier for them to choose sessions to attend, gets them excited about WordCamp, and creates a connection (via comments on your site) that makes it easier to approach people in person on the day of the event. Every blog post is also another chance for people to promote your WordCamp, so be sure to publicize each one via Twitter, Facebook, mailing list, etc.
 
@@ -47,6 +54,8 @@ Speaking at a WordCamp is considered a volunteer contribution to the WordPress p
 
 It’s generally not necessary to help with speaker travel if an organizer team keeps their speaker roster local; and for many speakers, traveling to speak at a conference is a legitimate business expense. Many WordCamps have used Skype and Google hangouts to include out-of-town speakers without incurring travel costs if they don’t have a local expert to speak on a topic the community really wants to hear about. Events like SXSW, DrupalCon, and Open Source Bridge do not cover speaker travel, and following those examples has seemed to serve WordCamps quite well.
 
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/speakers-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/speakers-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

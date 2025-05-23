@@ -7,7 +7,7 @@ Anyone involved in your WordCamp in an official role is representing WordPress. 
 General things we feel strongly about:
 
 *   WordPress users! Lately there have been quite a few people wanting to organize WordCamps for the publicity value, who don’t even use WordPress to power their own blogs/sites. If you’re looking to stand up and be a WordPress community leader, you need to be  a WordPress user. It seems silly to have to state that explicitly, but there you have it.
-*   No discrimination on the basis of economic or social status, race, color, ethnic origin, national origin, creed, religion, political belief, sex, sexual orientation, marital status, age, or disability. They shouldn’t engage in discriminatory practices, and you shouldn’t discriminate against anyone.
+*   No discrimination on the basis of economic or social status, race, color, ethnic origin, national origin, creed, religion, political belief, sex, sexual orientation, gender expression, marital status, age, caste, or disability. They shouldn’t engage in discriminatory practices, and you shouldn’t discriminate against anyone.
 *   No incitement to violence, or promotion of hate on our watch, please.
 *   No spammers.
 *   No jerks. That sounds silly, too, but it’s kind of important. If someone is in an official role and winds up alienating a chunk of your local WordPress community, that hurts WordPress as a whole. Anyone you choose to take on an official role should be able to behave appropriately.
@@ -26,6 +26,8 @@ If you’d like to read more about WordPress and the GPL, here are some great re
 [Themes are GPL, too](https://wordpress.org/news/2009/07/themes-are-gpl-too/)  
 [Why WordPress Themes are Derivative of WordPress](http://markjaquith.wordpress.com/2010/07/17/why-wordpress-themes-are-derivative-of-wordpress/)
 
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/representing-wordpress-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/representing-wordpress-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

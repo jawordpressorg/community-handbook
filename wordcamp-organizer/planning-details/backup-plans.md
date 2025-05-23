@@ -16,10 +16,12 @@ Even the best-planned event is subject to the whims of fate and the inconvenienc
 *   If there’s a disruption with local mass transit or a road closure, will people still be able to get to the venue? What alternate routes would you suggest. Have maps prepared in advance so you can put them on your site if needed.
 *   If the food is never delivered, or arrives and has gone bad, or you run out of food before everyone’s eaten, what will you do?
 
-We often say that WordCamps are the embodiment of the WordPress open source project and community. Take a page from the guidebook of the WordPress core developers, who like to say, “[I need a backup plan to the backup plan, to back up my backup plan.](http://www.youtube.com/watch?v=vsUdMsistpM)” Try to think of everything that could possibly go wrong, and prepare for it.
+We often say that WordCamps are the embodiment of the WordPress open source project and community. Take a page from the guidebook of the WordPress core developers, who like to say, “I need a backup plan to the backup plan, to back up my backup plan.” Try to think of everything that could possibly go wrong, and prepare for it.
 
 *Past WordCamp Organizers: Have you had something unexpected happen? Tell us about it in the comments, so new organizers can learn from your pain and think about your situation when developing their backup plans.*
 
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/backup-plans-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/backup-plans-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

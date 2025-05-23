@@ -20,9 +20,9 @@ WordCamp sponsorship is not an exchange of money for marketing/advertising at th
 
 **Fourth**, think about businesses in your community in general. Are there any that tend to support non-profit events in your city? Does anyone in your meetup group have connections to any businesses? Are there any that just plain have something you need for your event? You can find in-kind support in unexpected places: a restaurant might be willing to donate some food, or at least give you a serious discount, in exchange for acknowledgement and maybe giving a coupon to attendees that will drive business after WordCamp is over. An office supply store might be willing to donate a box or two of paper. Not every form of support is a cash donation; every bit helps. A “supporters coupon pack” is a good way to give supporters the benefit of increased exposure without plastering your event with logos, naming rights, banners, etc.
 
-**Fifth**, hit up WordPress-based businesses that are not local but tend to support WordCamps around the world. Why is this fourth? Because a) there is a lot of competition for these sponsors and budgets are not infinite, so if you can raise money locally, do so; and b) because these companies will find you on the wordcamp.org schedule and contact you of their own volition, so you should focus your outreach on potential supporters that need more encouragement to get involved.
+**Fifth**, hit up WordPress-based businesses that are not local but tend to support WordCamps around the world. Why is this fifth? Because a) there is a lot of competition for these sponsors and budgets are not infinite, so if you can raise money locally, do so; and b) because these companies will find you on the wordcamp.org schedule and contact you of their own volition, so you should focus your outreach on potential supporters that need more encouragement to get involved.
 
-**Finally**, if you are having the worst time and can’t find any sponsors, use the forums on this site for advice from past organizers, and contact WordCamp Central for help.
+**Finally**, if you are having the worst time and can’t find any sponsors, contact WordCamp Central for help.
 
 ### A Note on Giveaways
 
@@ -50,6 +50,8 @@ When payment has been received, be sure to let the supporter know. At this point
 
 Depending on how you do name badges, you may wish to identify supporters with a special badge, lanyard color, sticker, etc. For large WordCamps, having a separate sign-in table for supporters is often helpful. Don’t forget to thank the supporters. Without them, you couldn’t have done it.
 
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/fundraising-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/fundraising-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

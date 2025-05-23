@@ -1,5 +1,5 @@
 <!--
-# Participant’s Guide
+# Participant&#8217;s Guide
 -->
 # 参加者ガイド
 
@@ -52,3 +52,7 @@ To keep you going for the day you will be provided with food, coffee, tea and s
 The non-profit organisations will each have at least one representative there on the day. As the build team for their new website you will work directly with them, but your Project Manager will act as the liaison between the non-profit and the rest of the team. For a portion of the day (usually an hour or two), the non-profit representatives will be removed from your working space and will receive training on how to use WordPress effectively. This is to give them the skills to continue working with their new websites, as well as to give the build teams some space to work without the non-profit directly involved – we have found this to be hugely beneficial for the team as well as the non-profit.
 -->
 当日は各非営利団体の担当者が最低1名参加します。新しいサイトの制作チームとして、その方と直接作業をすることになりますが、プロジェクトマネージャーは非営利団体と他のチームとの間の連絡係としての役割を担います。イベント当日の一部 (通常1～2時間) は、非営利団体の担当者は制作スペースから外され、WordPress の効果的な使い方についてのトレーニングを受けます。これは、新しいサイトの制作を続けるためのスキルを身につけてもらうためであり、また、非営利団体が直接関与せずに作業を行うための時間をチームに与えるためでもあります。
+
+<!--
+*   [To-do](# "To-do")
+-->

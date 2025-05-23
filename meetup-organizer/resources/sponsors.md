@@ -8,41 +8,24 @@
 -->
 ### スポンサーとの関係
 
-<!--
-From the earliest days of our Meetup, our venues have been provided under sponsorship agreements. Initially these were venues like co-working spaces that provided their space free of charge in exchange for us promoting them. As business changed, we found ourselves paying for the venue and having to find sponsors who would cover that cost. Recently, after even that got too expensive we have had to go looking for new venues and new sponsorship arrangements.
--->
-Meetup が始まったころから、Meetup の会場はスポンサー契約のもとで提供されてきました。 当初、これらの会場は、会場を無料で提供してくれるコワーキングスペースのようなものでした。 しかし、状況が変化すると、私達自身で会場費を支払い、その料金をまかなうためのスポンサーを見つけなければなりませんでした。また最近ではより高価な会場費にともない、新しい会場やスポンサーを探す必要がでてきました。
+From the earliest days of our Meetup, our venues have been provided under sponsorship agreements. Initially, these were venues like co-working spaces that provided their space free of charge in exchange for us promoting them. As the business changed, we found ourselves paying for the venue and having to find sponsors who would cover that cost. Recently, after even that got too expensive we have had to go looking for new venues and new sponsorship arrangements.
 
-<!--
-It has been a challenge. We looked at a bunch of options including university campuses, Bars and pubs, local community centres/venues. They all had their challenges. We found that university needed a connection at the venue, usually, we did not have that, and we wanted to meet at times that do not work so well for the campus. Bars and pubs often have a minimum spend if you are using their room, so it is going to cost money, and as we try to steer away from venues that provide alcohol for the meetup. They did not seem viable either. Local community centere could have been viable, but often are in regional suburbs and we were keen to be in an easily accessible, central place. We did find a local library that has fantastic facilities, and is affordable, but it was not really easy to get to… so many issues! Finally we emailed the Meetup group to let people know we were looking, and asked if they could offer any suggestions. One of our members who is a tenant at a new co-working venue introduced us. So here we are again with a free venue. Central to the city, close to public transport and really workable. All of our needs met, and we could have saved a whole lot of hassle if we had asked the group first. So, while the sponsorship arrangements may differ, either in-kind sponsorships like venue provision, or monetary sponsorships for payment of Meetup fees, or pizza, the sponsorship relationship can be a little bit tricky to navigate. Here are some tips on finding sponsorships that have a mutual benefit that is even, rather than more in favor of one party than the other. Here is how you go about looking for sponsorship.
--->
-それは挑戦でした。大学の教室、バーやパブ、地域の公民館など、様々な場所を検討しましたが、いずれも課題を抱えていました。大学を使用するには Meetup との関連性（※教員が Meetup に参加している等）を必要としていましたが、私達にはありませんでした。バーやパブは最低使用料が必要で、これも費用に繋がりますし、Meetup とお酒は切り離したいところです。この両者は選択肢としては難しそうでした。一方、有望と思われた地域の公民館はたいてい郊外にあります。私達としては、交通に便利な市街地にしたいと考えていました。値段も手頃で設備も最高な図書館を見つけたと思ったら、簡単に行ける場所にはなかったなど、問題が山積みでした。私達が場所を探しており、なにかよい提案は受けられないか。最終的には WordPress Meetup グループにメールで問い合わせを行いました。
-その後、Meetup グループより新しいコワーキングスペースの賃借人であるメンバーの紹介をうけ、再び無料の会場が使えるようになりました。街の中心部にあり、公共交通機関が近く、とても便利な会場です。こうしてすべての要求が満たされましたが、最初に WordPress Meetup グループに問い合わせていれば、もっと面倒が少なくて済んだかもしれません。
-このように協賛のかたちというのは、会場のような現物提供、または Meetup の費用やピザ代の提供など金銭的なものなど様々で、これら協賛者の関係の調整が難しいことがあります。ここでは一方的ではない、相互利益をもったスポンサーを見つける上でのヒントや方法を紹介します。
+It has been a challenge. We looked at a bunch of options including university campuses, bars and pubs, and local community centers/venues. They all had their challenges. We found that the university needed a connection at the venue, usually, we did not have that, and we wanted to meet at times that do not work so well for the campus. Bars and pubs often have a minimum spend if you are using their room, so it is going to cost money, and we try to steer away from venues that provide alcohol for the meetup. They did not seem viable either. Local community centers could have been viable, but often are in regional suburbs and we were keen to be in an easily accessible, central place. We did find a local library that has fantastic facilities and is affordable, but it was not really easy to get to… so many issues!
 
-<!--
-1.  It is often better to ask. The best fit sponsors are not always going to come to you – and if they do approach you, figure out what they are selling before you blindly take their money. You need sponsors who understand WordPress, not just who want a platform for peddling their goods or services.
--->
-1.  自分たちから（スポンサーになってくれるか）尋ねましょう。最良のスポンサーが向こうからやってくるとは限りません。そして、もし先方から申し込みがあったら、いきなり資金援助を受けるのではなく、まず彼らが何を販売しているかを把握しておきましょう。Meetup グループが必要としているのは、WordPress を理解してくれるスポンサーであり、商品やサービスの売り場を探している人たちではありません。
-<!--
+Finally, we emailed the Meetup group to let people know we were looking and asked if they could offer any suggestions. One of our members who is a tenant at a new co-working venue introduced us. So here we are again with a free venue. Central to the city, close to public transport, and really workable. All of our needs were met, and we could have saved a whole lot of hassle if we had asked the group first. So, while the sponsorship arrangements may differ, either in-kind sponsorships like venue provision, monetary sponsorships for payment of Meetup fees, or pizza, the sponsorship relationship can be a little bit tricky to navigate. Here are some tips on finding sponsorships that have a mutual benefit that is even, rather than more in favor of one party than the other. Here is how you go about looking for sponsorship.
+
+1.  It is often better to ask. The best-fit sponsors are not always going to come to you – and if they do approach you, figure out what they are selling before you blindly take their money. You need sponsors who understand WordPress, not just those who want a platform for peddling their goods or services.
 2.  Approach sponsors with whom you have something in common or who would have a natural connection with your audience.
--->
-2.  参加者と自然なつながりのあるもの、または共感できるものをもつスポンサーに交渉しましょう。
-<!--
-3.  Have a strong, professional sounding sponsorship email request or sales document outlining what your group is about and why you would be a strong fit for developing a sponsorship arrangement. If you look like you take it seriously, sponsors will take you seriously.
--->
-3.  WordPress 熟練者の説得力のある響きを持ったスポンサー募集のメール、または Meetup グループの概要をきちんと説明する資料を用意し、なぜ協賛関係の構築をするのかを説明しましょう。真剣な態度でのぞめば、スポンサーも真剣に答えてくれるでしょう。
-<!--
+3.  Have a strong, professional-sounding sponsorship email request or sales document outlining what your group is about and why you would be a strong fit for developing a sponsorship arrangement. If you look like you take it seriously, sponsors will take you seriously.
 4.  If a sponsor decides to come on board, respect their branding on your website and in your communications about them.
--->
-4.  スポンサーの参加が決定したら、ウェブサイト上やコミュニケーションの際にスポンサーのブランドを尊重しましょう。
-<!--
-5.  Keep in touch with your sponsor, send them pictures of your Meetup, keep them up to date with how they are helping you. Do not 5.  just see them as a cash dispenser. Build a relationship with them. As that relationship develops and continues, your mutual benefit grows with your group.
--->
-5.  スポンサーとは連絡を密に取り、Meetup の写真を送りましょう。彼らのサポートがどのように役立ったか常に伝えましょう。彼らをキャッシュディスペンサーのように考えてはいけません。関係を築いていきましょう。関係が深まり継続するほど、Meetup グループにおける相互の利益が大きくなってきいきます。
+5.  Keep in touch with your sponsor, send them pictures of your Meetup, and keep them up to date with how they are helping you. Do not just see them as cash dispensers. Build a relationship with them. As that relationship develops and continues, your mutual benefit grows with your group.
+
+[Here is a template](https://make.wordpress.org/community/handbook/meetup-organizer/resources/sponsor-email/) for the kind of email that is useful for approaching sponsors. Two more words of caution about sponsorship: First, do not let sponsorship change the nature of your group. If the things a sponsor wants from you start to look like they are making your Meetup feel less like an Open Source and WordPress meetup, think very carefully about continuing. You have a culture to preserve. Do not let money get in the way of that. Second, sponsorship is not about making a profit for your group. It is not about storing up resources, and it is not about providing high-end, fancy spaces or food – it is simply about having your needs met. Try and keep your needs modest so that your sponsorship needs are not exorbitant.  
+  
+More information about Meetup Sponsors:  
+1\. [Can I get sponsors for our Meetup?](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/#can-i-get-sponsors-for-our-meetup)  
+2\. [Meetup Sponsorships and Other Local Community Stuff](https://make.wordpress.org/community/2014/05/07/meetup-sponsorships-and-other-local-community-stuff/)
 
 <!--
-If you are interested in a template for the kind of email that is useful for approaching sponsors, it too is available in the download pack from the link on this slide. Two more words of caution about sponsorship. First, do not let sponsorship change the nature of your group. If the things a sponsor wants from you start to look like they are making your Meetup feel less like an Open Source and WordPress meetup, think very carefully about continuing. You have a culture to preserve. Do not let money get in the way of that. Second, sponsorship is not about making a profit for your group. It is not about storing up resources, and it is not about providing high end, fancy spaces or food – it is simply about having your needs met. Try and keep your needs modest so that your sponsorship needs are not exorbitant.
+*   [To-do](# "To-do")
 -->
-スポンサー誘致の際に利用できるメールのテンプレートに興味がある場合は、このスライドのリンクよりダウンロードパックに含まれています。
-スポンサーとの関係における注意点をさらに2つ挙げておきます。まず一つめは、スポンサーに Meetup グループの本質を変えさせないこと。もしスポンサーの求めるものが、あなたの Meetup をオープンソースや WordPress の精神を損なうならば、その関係を続けるべきか慎重に考えるべきです。守るべき文化があります。金銭的なものにそれをゆずるべきではありません。二つめは、協賛関係は決してグループに利益をもたらすものではないということです。予備の資金や高級な空間や料理を得るためのものではなく、あくまで、必要とするものを満たすためのものです。スポンサーへの要求が過剰にならないよう謙虚な姿勢に徹しましょう。

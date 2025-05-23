@@ -16,6 +16,10 @@ Please note that the **url** must contain a URL from the **new.livestream.com** 
 
 You can also stream your event via Ustream.tv with the shortcode. For example:
 
+```
+[ustream id=36117299 width=480 height=302]
+```
+
 *   **id** – specifies the id of the stream
 *   **live** – set to 1 if streaming live; or omit it for a recorded video
 *   **width** – specifies the width of the player in pixels
@@ -25,7 +29,9 @@ You can also stream your event via Ustream.tv with the shortcode. For example:
 
 You can also stream your event via DaCast.com with the \[dacast\] shortcode. For example:
 
-\[dacast broadcaster\_id="012345" channel\_id="67890" width="640" height="360"\]
+```
+[dacast broadcaster_id="012345" channel_id="67890" width="640" height="360"]
+```
 
 *   **broadcaster\_id** – the ID of the account
 *   **channel\_id** – the ID of the channel
@@ -36,7 +42,9 @@ You can also stream your event via DaCast.com with the \[dacast\] shortcode. For
 
 You can also add captions to your live streams with StreamText.net and the \[streamtext\] shortcode.
 
-\[streamtext event="IHaveADream"\]
+```
+[streamtext event="IHaveADream"]
+```
 
 The following additional parameters are optional:
 
@@ -52,7 +60,7 @@ The following additional parameters are optional:
 
 ## Eventbrite
 
-If your WordCamp is running ticketing through the third-party service Eventbrite, you can embed the ticketing form using the \[`eventbrite]` shortcode with the following attributes:
+If your WordCamp is running ticketing through the third-party service Eventbrite, you can embed the ticketing form using the `[eventbrite]` shortcode with the following attributes:
 
 *   **width** – specifies the width of the player in pixels or %
 *   **height** – specifies the height of the player in pixels
@@ -60,14 +68,21 @@ If your WordCamp is running ticketing through the third-party service Eventbrite
 
 ## Google Forms
 
-To embed a Google Form in your post or page, you can use the shortcode, though it’s easier to simply copy and paste the embed code given when sharing a Google Form, into your post or page, which will automatically be converted into the proper shortcode with attributes. For example:
+To embed a Google Form in your post or page, you can use the `[googleapps]` shortcode, though it’s easier to simply copy and paste the embed code given when sharing a Google Form, into your post or page, which will automatically be converted into the proper shortcode with attributes. For example:
+
+```
+[googleapps domain="docs" dir="spreadsheet/embeddedform" query="formkey=dDdDZ2ZnVWFtRjNlZGp6cnl6a0d0S2c6MQ" width="760" height="639"]
+```
 
 You can then control the width and height of your embedded form by changing the shortcode attributes.
 
 ## Gravatar
 
-You can use the Gravatar shortcode to easily embed a gravatar in any post. The two available attributes are the e-mail address and the size of the avatar in pixels.  
-`[ gravatar email='email@address.com' size='50' ]`
+You can use the Gravatar shortcode to easily embed a gravatar in any post. The two available attributes are the e-mail address and the size of the avatar in pixels.
+
+```
+[gravatar email='email@address.com' size='50']
+```
 
 ## MailChimp
 
@@ -81,9 +96,11 @@ Visit that URL, which will redirect you to the full URL of your subscription for
 
 Enter that URL as an attribute with the MailChimp shortcode, like this:
 
-\[mailchimp url="http://example.us6.list-manage2.com/subscribe?u=3fbb5a8dfe2d6ff73c390a87e&id=a00d08b369"\]
+```
+[mailchimp url="http://example.us6.list-manage2.com/subscribe?u=3fbb5a8dfe2d6ff73c390a87e&id=a00d08b369"]
+```
 
-This will result in a MailChimp subscription form, which you can further customize with CSS. Please note, that if you’d like to use the name field with your list, the Field Tag in your field settings on MailChimp should say “NAME” (al caps).
+This will result in a MailChimp subscription form, which you can further customize with CSS. Please note, that if you’d like to use the name field with your list, the Field Tag in your field settings on MailChimp should say “NAME” (all caps).
 
 ## Campaign Monitor
 
@@ -91,7 +108,9 @@ The Campaign Monitor shortcode allows you to embed a newsletter subscription for
 
 [![Campaign Monitor Shortcode](https://plan.wordcamp.org/files/2012/10/Screen-Shot-2012-11-27-at-4.43.06-PM.png)](https://plan.wordcamp.org/files/2012/10/Screen-Shot-2012-11-27-at-4.43.06-PM.png)
 
-\[campaign-monitor url="http://username.createsend.com/t/t/s/sjlk/"\]
+```
+[campaign-monitor url="http://username.createsend.com/t/t/s/sjlk/"]
+```
 
 Embed reversal will also work. If you copy the generated form HTML from Campaign Monitor, paste it in your HTML editor on WordCamp.org and hit Save, it should be automatically converted into a shortcode with the correct attributes.
 
@@ -101,6 +120,10 @@ Once the WordCamp videos have been published on WordPress.tv, you can embed the 
 
 The shortcode is:
 
+```
+[wpvideo abcdefgh]
+```
+
 For full instructions on how to add a video to your WordCamp site, please refer to the page [Adding videos to your WordCamp site](https://make.wordpress.org/community/handbook/wordcamp-organizer/video/adding-videos-to-your-wordcamp-site/).
 
 ## Other Embeds
@@ -109,4 +132,6 @@ The default [WordPress Embeds](https://codex.wordpress.org/Embeds#Okay.2C_So_Wha
 
 If there’s a third-party service you’d like to use with your WordCamp site, and think other organizers can benefit from it, feel free to [get in touch](http://central.wordcamp.org/contact-us/), we’re always open to suggestions.
 
+<!--
 *   [To-do](# "To-do")
+-->

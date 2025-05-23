@@ -26,15 +26,23 @@ The pages of this site should answer the most common questions about organizing 
 **Q.** I see the rules regarding official involvement have a higher bar now regarding licensing of derivative code. Can my commercial plugin or theme company still sponsor a WordCamp?  
 **A.** Commercial WordPress-based businesses are welcome to sponsor or provide speakers and volunteers to any WordCamp as long as any distributed plugins or themes are 100% GPL — in other words, if you provide your users with the same freedoms that WordPress itself provides, so your customers don’t have to guess or be confused about what’s allowed — and as long as you are respecting the [WordPress trademark policy](http://wordpressfoundation.org/trademark-policy/). Whether you charge for these plugins or themes doesn’t matter.
 
+**Q.** Can I share attendee information (i.e., email addresses) with the sponsors of my WordCamp?  
+**A.** NO. Sharing attendee information is not allowed, and cannot be provided as a sponsor benefit. Please review [WordPress.org’s Privacy Policy](https://wordpress.org/about/privacy/) for more details.
+
 **Q.** How much do WordCamps cost?  
 **A.** Ticket price varies by event, but ranges from free to about $20 per day. The actual costs of putting on the event are usually a fair bit higher, with the difference being offset by donations and financial support from local businesses and the broader WordPress community.
 
 **Q.** Putting on a WordCamp sounds like a lot of work. Can I give myself a salary from the budget to cover the time I will lose that I could have been working on paying projects?  
 **A.** Nope. Organizing a WordCamp is considered a volunteer contribution to the WordPress project, not a paid gig. If you would like to organize a for-profit conference about WordPress, you are welcome to do so as long as you do not call it a WordCamp and do not infringe on the WordPress trademark. There is room for both WordCamps and profit-centric events in the WordPress community.
 
+**Q.** Can I request non-profit discounts from vendors for the WordCamp I’m organizing?  
+**A.**  WordPress Community Support, PBC (WPCS) is a “public benefit corporation” created specifically to be the financial and legal support for WordCamps, and is a separate entity from the WordPress Foundation. [You can read about the distinction between the two entities here](https://make.wordpress.org/community/handbook/wordcamp-organizer/first-steps/budget-and-finances/wordpress-community-support-wordpress-foundation-entity-structure/). The purpose of WPCS is not to make a profit, but rather to benefit WordPress community programs. However, the PBC is taxed as a for-profit corporation by the IRS. This means most WordCamps and Meetup groups cannot take advantage of most non-profit discounts from vendors.
+
 **Q.** Why do people organize WordCamps?  
 **A.** Organizing a WordCamp is a lot of work, but it’s also extremely rewarding. In addition to the personal and professional benefits of getting to know more people in your local WordPress community, it’s extremely satisfying to bring all these people together and remind everyone that together we are more than the sum of our parts, just like WordPress.  
 *  
 Have a question we didn’t answer? Leave a comment and we’ll post an answer as soon as we can.*
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -1,6 +1,6 @@
 # Count
 
-[![Count_Basie](https://make.wordpress.org/community/files/2015/09/Count_Basie-290x300.jpg)](https://make.wordpress.org/community/files/2015/09/Count_Basie.jpg)The **“Count”**Camera Kit.  
+[![Count_Basie](https://make.wordpress.org/community/files/2015/09/Count_Basie-290x300.jpg)](https://make.wordpress.org/community/files/2015/09/Count_Basie.jpg)The **“Count”** Camera Kit.  
 William James “Count” Basie was an American jazz pianist, organist, bandleader, and composer. He created innovations like the use of two “split” tenor saxophones, emphasizing the rhythm section, riffing with a big band, using arrangers to broaden their sound, and others.
 
 **Count’s** color tag is **Golden Rod** and contains:  
@@ -32,4 +32,10 @@ Email(required)
 
 What are you missing?(required)
 
+Submit   
+
+Δdocument.getElementById( "ak\_js\_6" ).setAttribute( "value", ( new Date() ).getTime() );
+
+<!--
 *   [To-do](# "To-do")
+-->

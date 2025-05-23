@@ -1,6 +1,6 @@
 # Oscar
 
-[![Oscar_Peterson](https://make.wordpress.org/community/files/2015/09/Oscar_Peterson-300x261.jpg)](https://make.wordpress.org/community/files/2015/09/Oscar_Peterson.jpg)The **“Oscar”**Camera Kit.  
+[![Oscar_Peterson](https://make.wordpress.org/community/files/2015/09/Oscar_Peterson-300x261.jpg)](https://make.wordpress.org/community/files/2015/09/Oscar_Peterson.jpg)The **“Oscar”** Camera Kit.  
 Oscar Emmanuel Peterson was a Canadian jazz pianist and composer. He was called the “Maharaja of the keyboard” by Duke Ellington, but simply “O.P.” by his friends. He released over 200 recordings, won eight Grammy Awards, and received numerous other awards and honours. He is considered to have been one of the greatest jazz pianists.
 
 **Oscar’s** color tag is **Neon** and contains:  
@@ -32,4 +32,10 @@ Email(required)
 
 What are you missing?(required)
 
+Submit   
+
+Δdocument.getElementById( "ak\_js\_4" ).setAttribute( "value", ( new Date() ).getTime() );
+
+<!--
 *   [To-do](# "To-do")
+-->

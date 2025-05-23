@@ -16,4 +16,6 @@ When considering how to handle personal data, please be sure to always:
 *   Refuse to share information with any vendor whose data handling policies do not match or exceed [those of WordPress.org](https://wordpress.org/about/privacy/), or for any reason other than WordCamp organizing necessities.
 *   [Notify us](mailto:support@wordcamp.org) if you discover or suspect that the security of data collected via WordCamp.org/WordPress.org has been compromised.
 
+<!--
 *   [To-do](# "To-do")
+-->

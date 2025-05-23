@@ -3,7 +3,7 @@
 **[![Miles_Davis](https://make.wordpress.org/community/files/2015/09/Miles_Davis-300x300.jpg)](https://make.wordpress.org/community/files/2015/09/Miles_Davis.jpg)“Miles Davis” Camera Kit**  
 Miles Dewey Davis III was an American jazz musician, trumpeter, bandleader, and composer. Widely considered one of the most influential musicians of the 20th century. Miles Davis was, together with his musical groups, at the forefront of several major developments in jazz music, including bebop, cool jazz, hard bop, modal jazz, and jazz fusion.
 
-**Miles’** color tag is **Red **and contains**:  
+**Miles’** color tag is **Red** and contains**:  
 \****Product names link to manufacturer’s online manual (if available)*
 
 *   **Camera:** [Canon Vixia HF M50](https://wptv.files.wordpress.com/2015/08/canonhfm50-hfm52-hfm500-im3-n-en.pdf)  
@@ -55,4 +55,10 @@ Email(required)
 
 What are you missing?(required)
 
+Submit   
+
+Δdocument.getElementById( "ak\_js\_7" ).setAttribute( "value", ( new Date() ).getTime() );
+
+<!--
 *   [To-do](# "To-do")
+-->

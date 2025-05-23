@@ -4,7 +4,7 @@
 **– If the sponsorship package is an amount higher of $10k**  
 **– If it’s a legal requirement of the sponsor’s country (like the case of SiteGround)**
 
-In those cases, please follow these steps to create a sponsor agreement (*only create the agreement for those sponsorships where one of the two cases above apply*):
+In those cases, please follow these steps to create a sponsor agreement:
 
 1) Go to your WordCamp site’s dashboard and click on the menu: ‘Docs’
 
@@ -24,4 +24,6 @@ In those cases, please follow these steps to create a sponsor agreement (*only c
 
 And all done! 🙂
 
+<!--
 *   [To-do](# "To-do")
+-->

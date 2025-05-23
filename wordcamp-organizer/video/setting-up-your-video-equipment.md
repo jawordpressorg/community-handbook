@@ -20,7 +20,9 @@ Watch the following video to see how to set up your camera for use with the venu
 
 **Buzzing sound in your audio** — check your audio cable to see if you can route it away from power cords, which may introduce interference into the line. If you need to cross a power cord, try to do so at a 90º angle; running audio and power cords next to each other (parallel) should be avoided.
 
-> **![IMG_5236](https://plan.wordcamp.org/files/2014/08/IMG_5236-150x150.jpg)Gaffer’s Tape — Your multipurpose friend**
+> ![IMG_5236](https://plan.wordcamp.org/files/2014/08/IMG_5236-150x150.jpg)
+> 
+> **Gaffer’s Tape — Your multipurpose friend**
 > 
 > You can use gaffer’s tape to make your day of shooting easier in the following ways:
 > 
@@ -51,6 +53,8 @@ Watch the following video to see how to set up your camera for use with a wirele
 > 
 > Don’t take a chance on losing audio in the middle of a presentation; load fresh 9v batteries into the transmitter and receiver before you start shooting. Also make sure they are both turned on and set to the same frequency, and use headphones to monitor the sound by plugging them into the headphone jack on the receiver.
 
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/setting-up-your-video-equipment-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
+Here is [a](https://community-self-training.mystagingwebsite.com/quiz/setting-up-your-video-equipment-2/) [quiz](https://wordpress.org/contributor-training/quiz/setting-up-your-video-equipment-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

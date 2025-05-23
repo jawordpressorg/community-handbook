@@ -1,12 +1,12 @@
 # Selling Tickets
 
-> tl;dr: WordCamp tickets should cost $20/person/day or less and include lunch and a t-shirt/swag. Offer scholarships/discounts so money doesn’t keep anyone out.
+> tl;dr: WordCamp tickets should cost $25 USD/person/day (or less) and include lunch and a piece of swag. Offer scholarships/discounts so money doesn’t keep anyone out.
 
 ### Setting Ticket Prices
 
 In utopia (or Paris), WordCamps would all be free, like WordPress itself. In reality, though, when an event is free, a lot of people sign up and then when the day comes they might change their mind, forget, or just want to sleep in. A small ticket cost provides incentive for people who’ve registered to show up on the day. Why does this matter? As WordCamps get bigger, they sell out, and people who wish they could attend are turned away in favor of the early birds. If the early birds don’t show up, you wind up with empty spaces that could have been filled by the late-wishers.
 
-We think of WordCamp tickets not as being comparable to conference tickets (for many WordCamp lineups, you’d have to pay hundreds of dollars at a regular conference), but as being just enough to get people out of bed on that sleepy WordCamp morning. Typical prices run about $15-20 per day, which basically covers lunch and a t-shirt, leaving you to cover the additional event costs through [fundraising](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/planning-details/fundraising/ "Fundraising"). If you think you need to charge more than $20 per day, chances are there’s something going on your budget that can be adjusted. Want more information? Check out [The Reasons Behind](https://make.wordpress.org/community/handbook/selling-tickets/#reasons).
+We think of WordCamp tickets not as being comparable to conference tickets (for many WordCamp lineups, you’d have to pay hundreds of dollars at a regular conference), but as being just enough to get people out of bed on that sleepy WordCamp morning. Typical prices run about $20-25 USD per day, which basically covers lunch and a t-shirt, leaving you to cover the additional event costs through [fundraising](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/planning-details/fundraising/ "Fundraising"). If you think you need to charge more than $25 USD per day, chances are there’s something going on your budget that can be adjusted. Want more information? Check out [The Reasons Behind](#the-reasons-behind-pricing-tickets-as-low-as-possible).
 
 ### Comp and Discount Tickets
 
@@ -18,7 +18,7 @@ Scholarships are a little different. The IRS likes us to have scholarships, as p
 
 ### Online Ticket Sales
 
-WordCamp.org sites currently use the [CampTix](https://wordpress.org/extend/plugins/camptix/) plugin to sell tickets (and provide comp tickets to sponsors, speakers, and organizers/volunteers using a coupon code). This allows you to accept PayPal and credit card payments. The only fees are from PayPal (about 3%).
+WordCamp.org sites are currently required to use the CampTix plugin to sell tickets (and provide comp tickets to sponsors, speakers, and organizers/volunteers using a coupon code). This plugin is pre-installed on your WordCamp site and allows you to accept Stripe, PayPal, and other gateways to charge credit/debit cards. The only fees are from those that the gateways collect (typically about 3%).
 
 You can use the ticketing plugin to get additional information from your attendees as well, such as shirt size and dietary restrictions. Instructions for how to use the plugin are available on [Using CampTix Event Ticketing Plugin](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/first-steps/web-presence/using-camptix-event-ticketing-plugin/ "Using CampTix Event Ticketing Plugin").
 
@@ -50,6 +50,8 @@ Unless we only want people with a certain amount of money using WordPress, finan
 
 Need ideas to **boost ticket sales**? Look no further than the useful comments in this [blog post](https://make.wordpress.org/community/2016/12/07/handbook-page-wordcamp-marketingticket-sales-tips/).
 
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/selling-tickets-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/selling-tickets-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

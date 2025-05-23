@@ -1,17 +1,14 @@
 # WordPress 15th Anniversary Celebrations
 
-.toc-jump { text-align: right; font-size: 12px; } .page .toc-heading { margin-top: -50px; padding-top: 50px !important; }
+*
 
-### Topics
+This event is concluded. Stay tuned for WordPress 20th Anniversary Celebrations in 2023!
 
-*   [Schedule a party](#schedule-a-party)
-*   [Request WordPress 15th Anniversary swag](#request-wordpress-15th-anniversary-swag)
-*   [Request financial support for venue rental](#request-financial-support-for-venue-rental)
-*   [On the day](#on-the-day)
+*
 
 The WordPress 15th anniversary will be on May 27, 2018 — let’s get ready to celebrate!
 
-### Schedule a party [#Schedule a party](#schedule-a-party)
+### Schedule a party
 
 WordPress anniversary parties are a great way to bring local communities together, and easy to organize. Most of the work involves finding a space to gather that’s easily accessible, free (or really, really inexpensive), and safe. Here are some ideas from past anniversary parties:
 
@@ -33,9 +30,7 @@ Once you click on “Schedule from a template,” a pop-up should come up with t
 
 **Make sure the description of the event contains the term “#wp15” somewhere**; otherwise the WP15 website won’t be able to identify it as a WP15 event. If you’ve added “#wp15” and your event still isn’t showing up on [the map](https://wp15.wordpress.net/about/) after a few hours, then please email [support@wordcamp.org](mailto:support@wordcamp.org) with the URL of the event, so that we can add it.
 
-[Top ↑](#top)
-
-### Request WordPress 15th Anniversary swag [#Request WordPress 15th Anniversary swag](#request-wordpress-15th-anniversary-swag)
+### Request WordPress 15th Anniversary swag
 
 Once you’ve scheduled your celebration on meetup.com, you can request your special WordPress 15th anniversary swag pack, which includes sticker sheets and party balloons.
 
@@ -43,18 +38,18 @@ Once you’ve scheduled your celebration on meetup.com, you can request your spe
 
 Information collected for swag shipments will be used only for anniversary swag shipping purposes, and will be deleted by May 31, 2018.
 
-[Top ↑](#top)
-
-### Request financial support for venue rental [#Request financial support for venue rental](#request-financial-support-for-venue-rental)
+### Request financial support for venue rental
 
 We encourage groups to organize their parties using free venues if at all possible.
 
-However, if your group needs to rent a venue for this particular event, you can fill out the [meetup venue support request form](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/venue-approval/) — the current guidelines will apply for this event as for other venue rental support requests — meets minimum requirements for safety, adequate seating, and accessibility; under $5 per person — except we won’t ask to be billed for multiple months in one invoice. ![🙂](https://s.w.org/images/core/emoji/2.4/svg/1f642.svg)
+However, if your group needs to rent a venue for this particular event, you can fill out the [meetup venue support request form](https://make.wordpress.org/community/handbook/meetup-organizer/getting-started/venue-approval/) — the current guidelines will apply for this event as for other venue rental support requests — meets minimum requirements for safety, adequate seating, and accessibility; under $5 per person — except we won’t ask to be billed for multiple months in one invoice. 🙂
 
-[Top ↑](#top)
-
-### On the day [#On the day](#on-the-day)
+### On the day
 
 If you’re meeting at a place that is unusual for your group, make sure to post clear directions and maybe even put out some signs to make it easy to find the party.
 
-Share your celebration with the WordPress world by posting photos or videos using the #wp15 hashtag. All #wp15 posts will be aggregated and shared real-time on the WordPress 15th Anniversary website, which will be launched in April 2018.
+Share your celebration with the WordPress world by posting photos or videos using the [#wp15](https://make.wordpress.org/community/tag/wp15/) hashtag. All [#wp15](https://make.wordpress.org/community/tag/wp15/) posts will be aggregated and shared real-time on the WordPress 15th Anniversary website, which will be launched in April 2018.
+
+<!--
+*   [To-do](# "To-do")
+-->

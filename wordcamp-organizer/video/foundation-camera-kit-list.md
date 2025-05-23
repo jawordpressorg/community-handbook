@@ -71,8 +71,16 @@ There is also a small lapel microphone, antenna, and earbud headphone for monito
 > 
 > Email(required) 
 > 
-> Camera Kit Name(required) Miles Count Jimmy Oscar Duke Ella Billie Benny Elvin Dexter
+> Camera Kit Name(required)
+> 
+> Miles Count Jimmy Oscar Duke Ella Billie Benny Elvin Dexter
 > 
 > What seems to be the problem?(required)
+> 
+> Submit   
+> 
+> Δdocument.getElementById( "ak\_js\_1" ).setAttribute( "value", ( new Date() ).getTime() );
 
+<!--
 *   [To-do](# "To-do")
+-->

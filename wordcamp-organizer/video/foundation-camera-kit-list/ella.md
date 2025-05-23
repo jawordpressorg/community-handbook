@@ -1,6 +1,6 @@
 # Ella
 
-[![Ellafitzgerald](https://make.wordpress.org/community/files/2015/09/Ellafitzgerald-225x300.jpg)](https://make.wordpress.org/community/files/2015/09/Ellafitzgerald.jpg)The **“Ella Fitzgerald” **camera case contains **two** complete camera kits.
+[![Ellafitzgerald](https://make.wordpress.org/community/files/2015/09/Ellafitzgerald-225x300.jpg)](https://make.wordpress.org/community/files/2015/09/Ellafitzgerald.jpg)The **“Ella Fitzgerald”** camera case contains **two** complete camera kits.
 
 Ella Jane Fitzgerald was an American jazz singer often referred to as the First Lady of Song, Queen of Jazz and Lady Ella. She was noted for her purity of tone, impeccable diction, phrasing and intonation, and a “horn-like” improvisational ability, particularly in her scat singing.
 
@@ -61,4 +61,10 @@ Email(required)
 
 What are you missing?(required)
 
+Submit   
+
+Δdocument.getElementById( "ak\_js\_2" ).setAttribute( "value", ( new Date() ).getTime() );
+
+<!--
 *   [To-do](# "To-do")
+-->

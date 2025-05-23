@@ -1,35 +1,39 @@
-# Diversity Speaker Training Workshop
+# Diverse Speaker Training Group (#WPDiversity)
 
-Have you ever had trouble getting women and other underrepresented groups to speak at your meetups and WordCamps?
+## Video
 
-Check out the Diversity Outreach Speaker Training workshop: [https://make.wordpress.org/training/speaker-training](https://make.wordpress.org/training/speaker-training)
+[A video walk-through of the #WPDiversity resources on this page](https://wordpress.tv/2023/10/07/wpdiversity-resources-walk-through/)
 
-Variations of this workshop have been run in Vancouver, Seattle, Portland, Montréal, New York City, Toronto, and Brighton, and all had a significant increase in the number of WordCamp speakers who identify as women. Vancouver and Montreal for example have had at least 50% for 3 years in a row, and in 2017 Seattle had the highest ratio so far, with 60% women speakers.
+## What is the Diverse Speaker Training Group ([#WPDiversity](https://make.wordpress.org/community/tag/wpdiversity/))?
 
-The global community team has a working group available to train people to run the workshop and provide the materials, and we want to hear from you! To let us know if you’re interested in conducting this workshop in your community, please fill in this form:
+*   We are a working group within the WordPress Community team
+*   Our mission is to create diverse speaker lineups and inclusive, diverse WP events for official WordPress Meetups and WordCamps.
 
-Name(required)
+[Our Programs and how to get involved](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/our-programs-diverse-speaker-training-group-wpdiversity/)
 
-Email(required)
+##   
+Resources for WordPress Meetup and WordCamp Organizers
 
-WordPress Meetup City / Town / Location, and Country(required)
+[Creating a Diverse Speaker Lineup](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/creating-a-diverse-speaker-lineup/)
 
-WordPress meetup.com URL
+[Creating a Diverse, Inclusive, Welcoming WordPress Meetup or WordCamp](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/creating-a-diverse-inclusive-welcoming-wordpress-meetup-or-wordcamp/)  
 
-Would you like to run this workshop for your group?(required)  Yes
+## Resources for Underrepresented Speakers in WordPress
 
- No
+[Resources for Underrepresented Speakers in WordPress](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/resources-for-underrepresented-speakers-in-wordpress/)
 
- Later
+## Resources to Hold a Diversity Workshop
 
- Not sure
+[Hold An Underrepresented Speaker workshop](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/hold-an-underrepresented-speaker-workshop/) (aka “How to Own Your Expertise and Start Speaking at WordPress Events”)
 
-When do you think you may run it?
+[Hold an “Organizing Diverse and Inclusive WordPress Events” workshop](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/how-to-run-the-inclusion-workshop/)
 
-Would you like us to train you?(required)  Yes
+## Resources for WPDiversity Material Translators
 
- No
+[Instructions to translate WPDiversity material](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/instructions-to-translate-wpdiversity-material/)
 
- Not sure
+[#community-events](https://make.wordpress.org/community/tag/community-events/), [#diverse-speaker-support](https://make.wordpress.org/community/tag/diverse-speaker-support/)
 
-Anything else you want us to know?
+<!--
+*   [To-do](# "To-do")
+-->

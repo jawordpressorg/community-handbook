@@ -64,6 +64,8 @@ Before your event, contact homeless shelters in your area and see if any of them
 
 *Past WordCamp Organizers: What kind food did you have that worked well, or that was a total pain in the neck? Let us know in the comments.*
 
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/food-and-beverage-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/food-and-beverage-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

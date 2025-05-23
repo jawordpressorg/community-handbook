@@ -1,5 +1,9 @@
 # After the Event: Post Production
 
+> If you are unable to find a local volunteer who can handle the post-production of your WordCamp videos, then the WordPress.tv team will be able to do that for you. You simply need to make sure they get the raw video files that you recorded on the day.
+> 
+> **To take advantage of this, please reach out to the team in the** `**#wptv**` **channel in Slack.**
+
 Your [Foundation video camera](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/video/foundation-camera-kit-list/) is set to record in the AVCHD format, which produces great quality video and audio, but can be difficult to work with. Primarily, AVCHD files will need to be converted to .MP4 format and edited to trim any unnecessary footage from beginning and end of the video.
 
 ## Accessing the .MTS files
@@ -47,4 +51,6 @@ Fill out all the required fields, and for “Description” be sure to add the U
 
 Next select your video file using the file chooser, and start your upload. Be sure not to power down your computer or disconnect from the internet until the upload is complete.
 
+<!--
 *   [To-do](# "To-do")
+-->

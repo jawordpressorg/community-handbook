@@ -2,36 +2,39 @@
 
 This page is a repository of global community sponsor logos.
 
-There’s also [a Dropbox file with global sponsor logos cropped](https://www.dropbox.com/sh/vzy5fcg21v2houj/AABNUvUZW9Zc3pCh4AYs-pjGa?dl=0), so that they look like they are of similar size at the same resolutions – as similar as they can be. Thanks to [kenshino](https://profiles.wordpress.org/kenshino) and the Singapore team for that!
-
 If you need more information, Check out the details of the [Global Community Sponsorship Program](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/fundraising/global-community-sponsorship-for-event-organizers/).
 
-[![](https://make.wordpress.org/community/files/2015/09/Jetpack_Horizontal_RGB.png)](https://make.wordpress.org/community/files/2015/09/Jetpack_Horizontal_RGB.png)
+### A2 Hosting
 
-[Additional versions of the Jetpack logo, including an EPS file](https://cloudup.com/caQb4-NmhkC)
+![](https://make.wordpress.org/community/files/2015/09/a2_hosting_logo_480x286.png)
 
-[![woocommerce_logo](https://make.wordpress.org/community/files/2015/09/woocommerce_logo.png)](https://make.wordpress.org/community/files/2015/09/woocommerce_logo.png)
+[Additional versions of the A2 Hosting Logo.](https://drive.google.com/drive/folders/1zGVfNa2WBlJ8QMa8Ia3r4rUoLq4Q9KB_?usp=sharing)
 
-[WooCommerce EPS](https://cloudup.com/cWYEb2zYV77)
+### Bluehost
 
-[![bh_logo_2015](https://plan.wordcamp.org/files/2015/06/bh_logo_2015-300x63.png)](https://plan.wordcamp.org/files/2015/06/bh_logo_2015.png)
+![](https://make.wordpress.org/community/files/2019/07/bluehost_logo_2015.png)
 
-[Full Size Bluehost](https://plan.wordcamp.org/files/2015/06/bh_logo_2015.png)
+[Additional Bluehost logos,](https://cloudup.com/c58xmM1-LXr) including PDF and EPS files
 
-[Additional Bluehost logos, including PDF and EPS files](https://cloudup.com/c58xmM1-LXr)
+### Automattic
 
-[![](https://make.wordpress.org/community/files/2015/09/GoDaddy_Pro_RGB_Full_B2-300x68.png)](https://make.wordpress.org/community/files/2015/09/GoDaddy_Pro_RGB_Full_B2.png)
+[![Automattic logo sponsorship 2023 handbook](https://make.wordpress.org/community/files/2015/09/automattic-logotype-color-1024x341.png)](https://make.wordpress.org/community/files/2015/09/automattic-logotype-color.png)
 
-[GoDaddy vector logo (EPS file)](https://cloudup.com/cYRbbSrWIMq)
+For Jetpack logo, [open this folder](https://drive.google.com/drive/folders/1jIw3oB9zIs2zPpEuRGVTJsLk6E0uJGkj?usp=sharing).  
+For WordPress.com logo, [open this folder](https://drive.google.com/drive/folders/1JLAyEe1K469r26YCCHopaAlMkHGWZMLX?usp=sharing).
 
-[![dh_logo-b-2014](https://plan.wordcamp.org/files/2014/05/dh_logo-b-2014-300x85.png)](https://plan.wordcamp.org/files/2014/05/dh_logo-b-2014.png)
+### Woo
 
-[![dh_logo-a-2014](https://plan.wordcamp.org/files/2014/05/dh_logo-a-2014-300x85.png)](https://plan.wordcamp.org/files/2014/05/dh_logo-a-2014.png)
+[![](https://make.wordpress.org/community/files/2015/09/Woo_logo_color-1024x791.png)](https://make.wordpress.org/community/files/2015/09/Woo_logo_color.png)
 
-[Additional DreamHost logos, including an EPS](https://cloudup.com/c6bV402dDgb)
+[Here are Woo logo and brand guidelines](https://woo.com/brand-and-logo-guidelines/).
 
-[![boldGrid transparent-lockup-2a.png](https://make.wordpress.org/community/files/2015/09/boldGrid-transparent-lockup-2a.png)](https://make.wordpress.org/community/files/2015/09/boldGrid-transparent-lockup-2a.png)
+### **Kinsta**
 
-[BoldGrid logo (.ai file)](https://cloudup.com/cySqSK2CdfI)
+[![](https://make.wordpress.org/community/files/2015/09/kinsta-wordcamp-central@2x.png)](https://make.wordpress.org/community/files/2015/09/kinsta-wordcamp-central@2x.png)
 
+[Additional Kinsta logos can be found here](https://drive.google.com/drive/folders/1XqLvC0nryban8c4PxbA_57Ft9wfoXJjE?usp=sharing)
+
+<!--
 *   [To-do](# "To-do")
+-->

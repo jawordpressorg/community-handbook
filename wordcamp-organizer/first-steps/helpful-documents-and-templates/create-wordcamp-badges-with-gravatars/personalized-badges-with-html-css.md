@@ -38,4 +38,6 @@ Once you’re ready, just click on the **Print** button and **save them as a P
 *   In Firefox’s print options, you can turn on background colors and background images, and also remove header/footer lines.
 *   If you accidentally reset to the default CSS, you can restore your previous CSS by clicking on the CSS textarea and then using the `control-z` keyboard shortcut.
 
+<!--
 *   [To-do](# "To-do")
+-->

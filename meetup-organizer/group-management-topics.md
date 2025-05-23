@@ -4,53 +4,24 @@
 # グループ管理トピック
 
 <!--
-### Topics
+### At what point should someone be given different admin levels of access to the group?
 -->
-### トピック
+### メンバーにグループへの管理者アクセスを与えるタイミングは ?
 
-<!--
-*   [At what point should someone be given different admin levels of access to the group?](#at-what-point-should-someone-be-given-different-admin-levels-of-access-to-the-group)
-*   [I run a separate meetup group. Can I organize a joint meetup?](#i-run-a-separate-meetup-group-can-i-organize-a-joint-meetup)
-*   [ Special Offer Emails](#%c2%a0special-offer-emails)
-    *   [As an organizer, can I send special offer emails to members, through the meetup system, from a business or another member?](#as-an-organizer-can-i-send-special-offer-emails-to-members-through-the-meetup-system-from-a-business-or-another-member)
-    *   [A few points on what to consider when allowing members to send messages to the meetup group:](#a-few-points-on-what-to-consider-when-allowing-members-to-send-messages-to-the-meetup-group)
--->
-*   [メンバーにグループへの管理者アクセスを与えるタイミングは ?](#at-what-point-should-someone-be-given-different-admin-levels-of-access-to-the-group)
-*   [他の勉強会グループも運営しています。合同イベントを運営することは可能ですか ?](#i-run-a-separate-meetup-group-can-i-organize-a-joint-meetup)
-*   [特別価格のお知らせメール](#%c2%a0special-offer-emails)
-    *   [運営者として、Meetup.com のシステムを使ってメンバーに対するビジネスや他のメンバーからの特別価格のお知らせメールを送っても良いですか ?](#as-an-organizer-can-i-send-special-offer-emails-to-members-through-the-meetup-system-from-a-business-or-another-member)
-    *   [メンバーから Meetup グループへメッセージの送信を許可する際に考えるべきこと](#a-few-points-on-what-to-consider-when-allowing-members-to-send-messages-to-the-meetup-group)
+There are four levels of access as a member of a Meetup group’s leadership team. You can read about the specifics from the link below.
 
-<!--
-### At what point should someone be given different admin levels of access to the group? [#At what point should someone be given different admin levels of access to the group?](#at-what-point-should-someone-be-given-different-admin-levels-of-access-to-the-group)
--->
-### メンバーにグループへの管理者アクセスを与えるタイミングは ? [#At what point should someone be given different admin levels of access to the group?](#at-what-point-should-someone-be-given-different-admin-levels-of-access-to-the-group)
-
-<!--
-There are a three levels of meetup access, you can read about the specific from the link below.
--->
-Meetup.com には3段階のアクセスレベルがあります。詳細は以下のリンクでお読みください。
-
-<!--
-Meetup member levels:
--->
-Meetup メンバーレベル
-<!--
-[http://help.meetup.com/customer/portal/articles/868703-build-a-leadership-team](http://help.meetup.com/customer/portal/articles/868703-build-a-leadership-team)
--->
-[https://help.meetup.com/hc/ja/articles/360002862252-Pro-アカウントに管理者を追加する](https://help.meetup.com/hc/ja/articles/360002862252-Pro-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AB%E7%AE%A1%E7%90%86%E8%80%85%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B)
+Managing a Leadership Team: https://help.meetup.com/hc/en-us/articles/360002879411-Managing-a-leadership-team
 
 <!--
 There are no set rules surrounding member user level access. This is a group decision. It is suggested that if you are actively involved with scheduling events and interacting with members, your role should allow you to connect with the members to keep them informed of your events.
 -->
 メンバーのユーザーレベルアクセスについては何も決まったルールはありません。イベントの企画や他のメンバーとのやり取りに活発に参加している人には、メンバーにイベント情報を伝えるのに必要な権限を与えられるべきです。
 
-[Top ↑](#top)
 
 <!--
-### I run a separate meetup group. Can I organize a joint meetup? [#I run a separate meetup group. Can I organize a joint meetup?](#i-run-a-separate-meetup-group-can-i-organize-a-joint-meetup)
+### I run a separate meetup group. Can I organize a joint meetup?
 -->
-### 他の勉強会グループも運営しています。合同イベントを運営することは可能ですか ? [#I run a separate meetup group. Can I organize a joint meetup?](#i-run-a-separate-meetup-group-can-i-organize-a-joint-meetup)
+### 他の勉強会グループも運営しています。合同イベントを運営することは可能ですか ?
 
 <!--
 Cross pollination of meetup groups is a huge community bonus that we encourage. We ask that you only schedule joint meetup events that specifically relate to WordPress.
@@ -76,17 +47,15 @@ Some examples:
 *   ライターの Meetup グループによる、ユーザーに作品を Web で公開する方法を教える勉強会。
 *   写真愛好家の Meetup グループのメンバーのための、写真を最も効果的に表示するテーマを見つけるのを手助けする勉強会。
 
-[Top ↑](#top)
+<!--
+###  Special Offer Emails
+-->
+### スペシャルオファーメール
 
 <!--
-### Special Offer Emails [# Special Offer Emails](#%c2%a0special-offer-emails)
+#### As an organizer, can I send special offer emails to members, through the meetup system, from a business or another member?
 -->
-### スペシャルオファーメール [# Special Offer Emails](#%c2%a0special-offer-emails)
-
-<!--
-#### As an organizer, can I send special offer emails to members, through the meetup system, from a business or another member? [#As an organizer, can I send special offer emails to members, through the meetup system, from a business or another member?](#as-an-organizer-can-i-send-special-offer-emails-to-members-through-the-meetup-system-from-a-business-or-another-member)
--->
-#### 運営者として、Meetup.com のシステムを使ってメンバーに対するビジネスや他のメンバーからの特別価格のお知らせメールを送っても良いですか ? [#As an organizer, can I send special offer emails to members, through the meetup system, from a business or another member?](#as-an-organizer-can-i-send-special-offer-emails-to-members-through-the-meetup-system-from-a-business-or-another-member)
+#### 運営者として、Meetup.com のシステムを使ってメンバーに対するビジネスや他のメンバーからの特別価格のお知らせメールを送っても良いですか ?
 
 <!--
 **Example Scenario:** Jane Apple contacted Cindy who is the meetup organizer of Cool City USA. Jane Apple is a sales rep for a business name Cool City WordPress Security. Jane wants to offer the group a free trial as way to get the word out about their service.
@@ -99,12 +68,10 @@ The goal of group communication should be to better the communities understandin
 -->
 **送信するメールは以下のような内容であるべきです。**グループ内のコミュニケーションのゴールは、コミュニティが WordPress をより深く理解し、ユーザー同士の交流の促進を助け、地域の企業やフリーランサーの認知度を高めるということです。
 
-[Top ↑](#top)
-
 <!--
-#### A few points on what to consider when allowing members to send messages to the meetup group: [#A few points on what to consider when allowing members to send messages to the meetup group:](#a-few-points-on-what-to-consider-when-allowing-members-to-send-messages-to-the-meetup-group)
+#### A few points on what to consider when allowing members to send messages to the meetup group:
 -->
-#### メンバーから Meetup グループへメッセージの送信を許可する際に考えるべきこと [#A few points on what to consider when allowing members to send messages to the meetup group:](#a-few-points-on-what-to-consider-when-allowing-members-to-send-messages-to-the-meetup-group)
+#### メンバーから Meetup グループへメッセージの送信を許可する際に考えるべきこと
 
 <!--
 *   Does the sender giving the offer pass all the requirements needed to be a WordCamp sponsor or speaker? If so it means they meet expectations for how they treat the WordPress license and trademark.
@@ -116,6 +83,10 @@ The goal of group communication should be to better the communities understandin
 *   送信者は何らかの割引を提供していますか ? お知らせが購入を伴うものである場合、最低15%以上の値引きをすることが推奨されます。ある程度の割引がない場合、お知らせはメンバーに対するスパムメッセージと同じということになってしまいます。
 
 <!--
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/group-management-topics/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes) section of the welcome page if you have any questions about quizzes and how to navigate them.
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/group-management-topics/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes) section of the welcome page if you have any questions about quizzes and how to navigate them.
 -->
-ヒント: こちらに、このページに関する[クイズ](https://community-self-training.mystagingwebsite.com/quiz/group-management-topics/)があります。クイズに関する質問やナビゲーションでわからない点がある場合、ウェルカムページの[クイズ](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes)セクションをご覧ください。
+こちらに、このページに関する[クイズ](https://wordpress.org/contributor-training/quiz/group-management-topics/)があります。クイズに関する質問やナビゲーションでわからない点がある場合、ウェルカムページの[クイズ](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes)セクションをご覧ください。
+
+<!--
+*   [To-do](# "To-do")
+-->

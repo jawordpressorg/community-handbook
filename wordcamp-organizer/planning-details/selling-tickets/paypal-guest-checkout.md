@@ -28,4 +28,6 @@ Please note:
     
 5.  Press `Continue` and you will be taken back to the WordCamp website.
 
+<!--
 *   [To-do](# "To-do")
+-->

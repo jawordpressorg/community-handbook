@@ -39,4 +39,6 @@
 <!--Most sponsors will not need a sponsor agreement, but there are some cases when one is required. Please check the [Sponsor Agreements page in this handbook](https://make.wordpress.org/community/handbook/wordcamp-organizer/first-steps/helpful-documents-and-templates/agreement-among-wordcamp-organizers-speakers-sponsors-and-volunteers/sponsor-agreements/) to learn when a sponsor agreement is necessary and how to create it.-->
 ほとんどのスポンサーとは、スポンサー同意書が必要とはなりませんが、必要な場合も考えられます。ハンドブックの中にある、[スポンサーとの同意書について](https://make.wordpress.org/community/handbook/wordcamp-organizer/first-steps/helpful-documents-and-templates/agreement-among-wordcamp-organizers-speakers-sponsors-and-volunteers/sponsor-agreements/) のページを確認して、スポンサー同意書が必要になる状況を理解し、同意書の作り方を学んでください。
 
+<!--
 *   [To-do](# "To-do")
+-->

@@ -1,6 +1,6 @@
 # Booking a Venue
 
-When looking for a potential do_action venue, you need to look for a few things that will help make your event more effective. These are a few of the things to consider:
+When looking for a potential do\_action venue, you need to look for a few things that will help make your event more effective. These are a few of the things to consider:
 
 *   A space with enough desks for each of your build teams – a team could have up to 10 people depending on the needs of the non-profit and how many representatives from the organisation attend on the day.
 *   A decent area for participants to take breaks away from their screens as well as eat their meals.
@@ -16,3 +16,7 @@ Once you have identified a few eligible venues in your area, then get out there 
 ## A note about event dates
 
 When securing a date with your venue, it’s best to give yourself at least 2-3 months lead time before the actual event. The more you can have the better as this will allow you ample time to plan your event, as well as have participant sign-ups open for a decent amount of time.
+
+<!--
+*   [To-do](# "To-do")
+-->

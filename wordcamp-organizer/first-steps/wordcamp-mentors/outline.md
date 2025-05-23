@@ -49,4 +49,6 @@ Bonus Session: Week-before WordCamp check-in
 
 And then talking as often as necessary outside that schedule for ease of mind and all that. Volunteers in the global community team will still be available for tricky questions, but we’re hoping to make peer mentoring our first line of awesomeness for WordCamp organizers.
 
+<!--
 *   [To-do](# "To-do")
+-->

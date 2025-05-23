@@ -3,31 +3,15 @@ Suggestions for Meetup Content
 -->
 # Meetup コンテンツの提案
 
-## Topics
-
-*   [What are some Meetup Formats?](#what-are-some-meetup-formats)
-
-*   [Meetup Topic Categories](#meetup-topic-categories)
-    *   [WordPress Core](#wordpress-core)
-    *   [WordPress Customization](#wordpress-customization)
-    *   [WordPress Experience](#wordpress-experience)
-    *   [WordPress For End Users/ Bloggers](#wordpress-for-end-users-bloggers)
-    *   [WordPress as Business](#wordpress-as-business)
-    *   [How to WordPress (Tutorial)](#how-to-wordpress-tutorial)
-    *   [Ways to make these talks work for you.](#ways-to-make-these-talks-work-for-you)
-        *   [Full-Length Presentation](#full-length-presentation)
-        *   [Lightning Presentation](#lightning-presentation)
-        *   [Super Lightning](#super-lightning)
-
 <!--
 Meetups are an important part of the WordPress experience. It’s good to meet people, build networks, and learn new skills. But what if you feel like your Meetup is stuck? The Marketing Team has put together some ideas to help.
 -->
 Meetup は WordPress 体験において重要な部分を担っています。人々が出会い、ネットワークを構築し、新しいスキルを学ぶのは良いことです。しかし、あなたの Meetup が停滞しているような気がしたら？ マーケティングチームは、協力するためのアイディアをまとめました。
 
 <!--
-## What are some Meetup Formats? [#What are some Meetup Formats?](#what-are-some-meetup-formats)
+## What are some Meetup Formats?
 -->
-## Meetup のフォーマットにはどんなものがありますか？ [#What are some Meetup Formats?](#what-are-some-meetup-formats)
+## Meetup のフォーマットにはどんなものがありますか？
 
 <!--
 *   Invite speakers from other Meetups to deliver their session remotely, using Zoom or Hangout.
@@ -40,14 +24,14 @@ Meetup は WordPress 体験において重要な部分を担っています。�
 *   ライトニングトーク (LT) は新しいスピーカーを作り、参加を促す素晴らしい方法です
 *   Meetup での Q＆A セッションは、常に参加者を助け、またみんなの興味がどこにあるかを知ることができる良い方法です。
 
+*   Learn WordPress ([learn.wordpress.org)](http://learn.wordpress.org) contains a wealth of learning materials that your meetup group can use. [Check out this video](https://www.youtube.com/watch?v=6bbq95Ep0ng), which explores how meetup organizers can use Learn WordPress with their meetup group.
+
 <!--
-# Meetup Topic Categories [#Meetup Topic Categories](#meetup-topic-categories)
+## Meetup Topic Categories
 -->
-# Meetup のトピックカテゴリー [#Meetup Topic Categories](#meetup-topic-categories)
+## Meetup のトピックカテゴリー
 
-[Top ↑](#top)
-
-## WordPress Core [#WordPress Core](#wordpress-core)
+### WordPress Core
 
 <!--
 *   New Plugin
@@ -76,13 +60,10 @@ Meetup は WordPress 体験において重要な部分を担っています。�
 *   JavaScript ライブラリと WordPress テーマ開発
 *   WordPress サイトで REST API を利用する
 
-[Top ↑](#top)
-
-
 <!--
-## WordPress Customization
+### WordPress Customization
 -->
-## WordPress のカスタマイズ [#WordPress Customization](#wordpress-customization)
+### WordPress のカスタマイズ
 
 
 <!--
@@ -96,13 +77,10 @@ Meetup は WordPress 体験において重要な部分を担っています。�
 *   あなたの WordPress テーマの国際化と地域化
 *   WordPress の子テーマのカスタマイズと、その重要性
 
-[Top ↑](#top)
-
-
 <!--
-## WordPress Experience
+### WordPress Experience
 -->
-## WordPress の体験について [#WordPress Experience](#wordpress-experience)
+### WordPress の体験について
 
 
 <!--
@@ -137,20 +115,17 @@ Meetup は WordPress 体験において重要な部分を担っています。�
 *   Gutenberg と私の考え!
 
 
-[Top ↑](#top)
-
-
 <!--
-## WordPress For End Users/ Bloggers
+### WordPress For End Users/ Bloggers
 -->
-## WordPress のユーザー向け、ブロガー向けトピック [#WordPress For End Users/ Bloggers](#wordpress-for-end-users-bloggers)
+### WordPress のユーザー向け、ブロガー向けトピック
 
 <!--
 *   Support
 *   Must-needed plugins for blogs
 *   Project Management Tools for the Freelancer blogger
 *   How often should I blog?
-*   PH What? An Introduction to the beginner.
+*   PHP What? An Introduction to the beginner.
 *   What is WordPress Really? An introduction to LAMP.
 *   Teaching Tech to Kids
 *   WordPress Development for Beginners: Getting Started
@@ -164,13 +139,11 @@ Meetup は WordPress 体験において重要な部分を担っています。�
 *   子供向け教室
 *   初心者向け WordPress 開発：はじめに
 
-[Top ↑](#top)
-
 
 <!--
-## WordPress as Business
+### WordPress as Business
 -->
-## ビジネス向け WordPress [#WordPress as Business](#wordpress-as-business)
+### ビジネス向け WordPress
 
 
 <!--
@@ -204,12 +177,10 @@ Meetup は WordPress 体験において重要な部分を担っています。�
 *   成長の方法：どのように成長するか、そしてプレミアム WordPress プラグインを販売するか
 *   費用ゼロで WordPress プラグインを宣伝するためにできること
 
-[Top ↑](#top)
-
-## How to WordPress (Tutorial) [#How to WordPress (Tutorial)](#how-to-wordpress-tutorial)
+### How to WordPress (Tutorial)
 
 <!--
-*   Training (ie [Speaker Training – see curriculum](https://make.wordpress.org/training/handbook/speaker-training/) )
+*   Training (ie [Speaker Training – see curriculum](https://learn.wordpress.org/lesson-plan/speaker-training-workshop/) )
 *   Unique something for developers that most of the people dont know
 *   Googling as a Resource for Solutions
 *   How to ask for Support
@@ -218,7 +189,7 @@ Meetup は WordPress 体験において重要な部分を担っています。�
 *   How to Install Google Analytics in WordPress
 *   No Stupid Question Night. Seriously. Ask. Let’s chat.
 -->
-*   トレーニング (すなわち [スピーカートレーニング – カリキュラムを見る](https://make.wordpress.org/training/handbook/speaker-training/)※リンク先英語 )
+*   トレーニング (すなわち [スピーカートレーニング – カリキュラムを見る](https://learn.wordpress.org/lesson-plan/speaker-training-workshop/)※リンク先英語 )
 *   まだ知られていない開発者にとってユニークなもの。
 *   ソリューション資源としての Google
 *   サポートの依頼方法
@@ -227,17 +198,16 @@ Meetup は WordPress 体験において重要な部分を担っています。�
 *   WordPress に Google アナリティクスをインストールする方法
 *   バカな質問なんてないよ。マジで。何でも聞いて。一緒に話そう。
 
-[Top ↑](#top)
 
 <!--
 ## Ways to make these talks work for you.
 -->
-## うまくトークを働かせる方法　[#Ways to make these talks work for you.](#ways-to-make-these-talks-work-for-you)
+## うまくトークを働かせる方法
 
 <!--
 ### Full-Length Presentation
 -->
-### 長いセッション [#Full-Length Presentation](#full-length-presentation)
+### 長いセッション
 
 <!--
 30 minutes, followed by a Question and Answer period. This is great for a deep dive into any topic. Try to mix up the type of talks each month.
@@ -250,12 +220,10 @@ This is great way for speakers who have experience talking to jump in, but newco
 これは、スピーカー経験者にとっても話を聞く素晴らしい方法ですが、スピーカー初心者にも常に価値があります。 スピーカーは今後の WordCamp に挑戦したいものを試し、修正すべきものについてフィードバックを得ることができます。
 
 
-[Top ↑](#top)
-
 <!--
 ### Lightning Presentation
 -->
-### ライトニングトーク [#Lightning Presentation](#lightning-presentation)
+### ライトニングトーク
 
 <!--
 10 Minutes followed by a Question and Answer: The Q & A can take place either right away or after several lightning talks.
@@ -267,12 +235,10 @@ This is a great way to make sure topics stay focused. It also keeps interest in 
 -->
 これは、話題に焦点を当てるための素晴らしい方法です。 また、主な話題が技術的な視点だった場合にユーザー視点のライトニングトークである場合、またその逆の場合、会への興味を維持させられます。
 
-[Top ↑](#top)
-
 <!--
 ### Super Lightning
 -->
-### スーパーライトニングトーク [#Super Lightning](#super-lightning)
+### スーパーライトニングトーク
 
 <!--
 5 Minute Presentation: Questions at Happiness Session at the end of the evening
@@ -285,3 +251,7 @@ This is essentially a top tips type of presentation. It moves super fast.
 It’s also a great way for new speakers or new members of your Meetup to feel comfortable speaking. It’s low pressure.
 -->
 新しいスピーカーや新しいメンバーが気軽に話すのに最適な方法です。 これは重圧が少ないプレゼンテーションです。
+
+<!--
+*   [To-do](# "To-do")
+-->

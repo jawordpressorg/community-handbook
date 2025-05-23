@@ -10,11 +10,13 @@ WordPress is all about the web, so the web presence for your event is important.
 
 ## Email
 
-Once you are approved as an organizer, we will set up an email forward for your event in the format of city[@wordcamp](https://profiles.wordpress.org/wordcamp/).org. You can have this forward go to any address. Past organizers often asked if they could have wordcamp.org email addresses so that they would look more official when contacting venues, sponsors, etc.
+Once you are approved as an organizer, we will set up a Google Workspace email account ([formerly known](https://cloud.google.com/blog/products/workspace/introducing-google-workspace) as G Suite) for your event in the format of [city@wordcamp.org](mailto:city@wordcamp.org). Past organizers often asked if they could have wordcamp.org email addresses so that they would look more official when contacting venues, sponsors, etc, and hence we will provide one shared Google Workspace account for the organizing team of a WordCamp. 
 
-Most WordCamps set up a group email on Gmail/Help Scout/etc, so that all members of the organizing team can access it. Once that address is setup, we can forward the wordcamp.org address to it. Alternatively, some prefer to have the wordcamp.org address forward to one person, who’s responsible for routing emails to the correct people. Either approach is fine.
+Along with Gmail, the Google Workspace account we provide you will have the following tools enabled: Calendar, Drive and Docs, Google Meet, Groups for Business, Tasks, YouTube, Maps, and Keep.
 
-If you have a strong desire to send mail from the city[@wordcamp](https://profiles.wordpress.org/wordcamp/).org address directly, it is possible through our webmail client, but we don’t recommend it. The webmail client is not very user-friendly and doesn’t work well when multiple people are using it. If you’d like to use it, you can access it at https://marx.multipattern.com:2096/3rdparty/roundcube/. You can obtain the password for your city[@wordcamp](https://profiles.wordpress.org/wordcamp/).org address by contacting support[@wordcamp](https://profiles.wordpress.org/wordcamp/).org. We’re not able to provide direct SMTP/IMAP/POP access.
+Sometimes, sharing credentials of an inbox with members of a large organizing team could get tricky. If you would like to share the WordCamp email account with multiple organizers, you can consider using a shared inbox tool. Upon request, we can set up a [Google Group](https://support.google.com/a/answer/167430?hl=en) (with the Google Groups for Business feature set) for your team. You could also set up third-party tools such as FreeScout or HelpScout to manage emails as a team.
+
+You can use your Google Workspace email account to send/receive emails. It works just like a regular Gmail inbox with all the features. Check out [our handbook page on Google Workspace](https://make.wordpress.org/community/handbook/wordcamp-organizer/first-steps/web-presence/g-suite-for-wordcamps/) for more information on how to set up and make use of the platform for your WordCamp.
 
 ## Twitter
 
@@ -41,6 +43,8 @@ Individual organizing teams [cannot upload plugins or themes to WordCamp.org](ht
 
 As a reminder, WordCamp.org sites are covered by the [WordPress.org privacy policy](https://wordpress.org/about/privacy/).
 
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/web-presence-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/web-presence-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

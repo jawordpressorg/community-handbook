@@ -9,10 +9,10 @@ To learn about the GPL, please see the [GPL Primer](https://make.wordpress.org/
 IF NO, skip to #5.  
 IF YES, continue.
 
-2) Does the speaker distribute his/her themes (or the themes he/she promotes):
+2) Does the speaker distribute their themes (or the themes they promote):
 
 A. Though the WordPress.org repository  
-B. Through his/her own website  
+B. Through their own website  
 C. Through a third-party website
 
 IF A, skip to #5.  
@@ -51,10 +51,10 @@ If the marketplace does not offer a 100% GPL license, then the speaker does not 
 IF NO, skip to #11.  
 IF YES, continue.
 
-6) Does the speaker distribute his/her plugins (or are the plugins he/she promotes distributed):
+6) Does the speaker distribute their plugins (or are the plugins they promote distributed):
 
 A. Though the WordPress.org repository  
-B. Through his/her own website  
+B. Through their own website  
 C. Through a third-party website
 
 IF A, skip to #9.  
@@ -94,10 +94,12 @@ the freedom to share the changes you make
 If so, skip to #9.  
 If not, then the speaker does not meet the requirements for promotion by a WordCamp/WordPress, found here: https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/become-an-organizer/representing-wordpress/ Skip to #10.
 
-9) Hooray! Your speaker meets the requirements for promotion by a WordCamp/WordPress because he/she distributes and/or promotes themes or plugins under a 100% GPL license! Make sure he/she respects the trademark and is a good representative of the WordPress project, and you’re good to go.
+9) Hooray! Your speaker meets the requirements for promotion by a WordCamp/WordPress because they distribute and/or promote themes or plugins under a 100% GPL license! Make sure they respect the trademark and are a good representative of the WordPress project, and you’re good to go.
 
-10) Sad Christmas! Your speaker does not meet the requirements for promotion by a WordCamp/WordPress, found here: https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/become-an-organizer/representing-wordpress/ because she/he distributes and/or promotes themes or plugins that are not 100% GPL.
+10) Oh no! Your speaker does not meet the requirements for promotion by a WordCamp/WordPress, found here: https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/become-an-organizer/representing-wordpress/ because they distribute and/or promote themes or plugins that are not 100% GPL.
 
-11) Your speaker does not distribute or promote WordPress-derivatives. Make sure he/she respects the trademark and is a good representative of the WordPress project, and you’re good to go.
+11) Your speaker does not distribute or promote WordPress-derivatives. Make sure they respect the trademark and are a good representative of the WordPress project, and you’re good to go.
 
+<!--
 *   [To-do](# "To-do")
+-->

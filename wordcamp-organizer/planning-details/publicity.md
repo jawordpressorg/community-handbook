@@ -16,6 +16,8 @@ Need ideas to **boost ticket sales**? Look no further than the useful comments i
 
 *Past WordCamp Organizers: What methods of publicizing your event worked for you?*
 
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/publicity-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/publicity-2/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 
+<!--
 *   [To-do](# "To-do")
+-->

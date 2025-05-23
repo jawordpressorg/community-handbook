@@ -4,9 +4,9 @@
 # Meetup の説明
 
 <!--
-Alert: This is a template that may inspire the text for your local Meetup group page.
+This is a template that may inspire the text for your local Meetup group page.
 -->
-注：これは、地域の Meetup グループページ用のテキストのテンプレートです。
+これは、地域の Meetup グループページ用のテキストのテンプレートです。
 
 <!--
 Feel free to copy and paste this template and customise it for your area.
@@ -37,3 +37,7 @@ If you’re looking for a developer to work with on a project, the Meetup is a g
 Hope to see you soon!
 -->
 お会いできるのを楽しみにしています。
+
+<!--
+*   [To-do](# "To-do")
+-->

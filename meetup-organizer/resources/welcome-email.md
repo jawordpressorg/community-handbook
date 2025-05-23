@@ -4,9 +4,9 @@
 # ウェルカムメール
 
 <!--
-Alert: This is a template that may inspire the text for your local Meetup group page.
+This is a template that may inspire the text for your local Meetup group page.
 -->
-注: これはローカル Meetup グループページのテキストの参考にしていただくためのテンプレートです。
+これはローカル Meetup グループページのテキストの参考にしていただくためのテンプレートです。
 
 <!--
 Feel free to copy and paste this template and customize it for your area.
@@ -92,3 +92,7 @@ The next thing we want you to do is come along to the next meetup. If you have n
 If you have any questions or concerns, please get in touch with one of the organizers or a current member. We would  be happy to help you. We look forward to seeing you and thanks again for becoming a part of our meetup group.
 -->
 質問やなにか心配なことがある場合は、オーガナイザー (運営者) または現在のメンバーの誰かにご連絡ください。喜んでお手伝いします。Meeup グループに参加していただきありがとうございます。お会いするのを楽しみにしています。
+
+<!--
+*   [To-do](# "To-do")
+-->

@@ -4,7 +4,7 @@
 # Meetup の構築と成長
 
 <!--
-Having a Great Organizing Team
+### Having a Great Organizing Team
 -->
 素晴らしいチームを作る
 
@@ -35,3 +35,11 @@ Quality team members may not be the loudest, most outgoing person there, but the
 We also ask everyone associated with a WordPress Chapter Meetup in an official capacity (e.g., organizer, speaker, sponsor) to uphold the principles of the WordPress open source project, including the GPL. This helps protect the user/attendee, who might not realize that by using a non-GPL plugin or theme, they are giving away the rights that WordPress provides them.
 -->
 また、GPLライセンスを含む WordPress オープンソースプロジェクトの原則を守るために、各地の Meetup に公に関わる人たち （主催、登壇、スポンサーなど） に協力を依頼します。これは、GPL以外のプラグインやテーマを使用することによって、 WordPress が提供する自由を阻害していることに気づいていないかもしれないユーザーに対して啓蒙することに役立ちます。
+
+### Diversity and Inclusion
+
+For more information on encouraging diverse speakers and audiences, see the handbook section “[Creating Diverse and Inclusive Meetups](https://make.wordpress.org/community/handbook/meetup-organizer/building-and-growing-a-meetup/creating-diverse-and-inclusive-meetups/)”.
+
+<!--
+*   [To-do](# "To-do")
+-->

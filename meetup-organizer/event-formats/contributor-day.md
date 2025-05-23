@@ -4,41 +4,16 @@
 # コントリビューターデイ
 
 <!--
-## Topics
--->
-## トピックス
-
-<!--
-*   [Roles](#roles)
--->
-*	[役割](#roles)
-<!--
-*   [Before the Contributor Day](#before-the-contributor-day)
--->
-*   [コントリビューターデイの前に](#before-the-contributor-day)
-<!--
-*   [The Contributor Day](#the-contributor-day)
--->
-*   [コントリビューターデイ当日](#the-contributor-day)
-<!--
-*   [What areas can people contribute to?](#what-areas-can-people-contribute-to)
--->
-*   [参加者がコントリビュートできる分野](#what-areas-can-people-contribute-to)
-
-<!--
 So you want to host a contributor day at your WordCamp. Awesome!
 -->
 WordCamp でコントリビューターデイを開催したいそこのあなた、最高です !
 
-<!--
-The Global Community Team thinks contributor days are great and would love to see more WordCamps hosting contributor days. Below is an outline of what to expect and what to plan for.
--->
-グローバルコミュニティチームとしては、コントリビューターデイはすばらしいもので、もっと多くの WordCamp で開催されてほしいと願っています。このページでは、期待されること、計画すべきことの概要を書いていきます。
+The Global Community Team thinks contributor days are great and would love to see more WordCamps hosting contributor days. Below is an outline of what to expect and what to plan for. You will also find more information on contributor days in our [Contributor Day Organizer Handbook](https://make.wordpress.org/community/handbook/contributor-day/).
 
 <!--
-## Roles [#Roles](#roles)
+## Roles
 -->
-## 役割 [#役割](#roles)
+## 役割
 
 <!--
 Contributor Days generally need two people to lead things: one to organize the logistics and one to organize the contributor teams (see below) and lead the day of the event.
@@ -55,12 +30,10 @@ As far as organizing the day-of, the best person will be someone local to the co
 -->
 当日の企画に関して最も適するのは、地元のコミュニティの人で、以前に WordPress にコントリビュートしたことがある人です。コントリビュートの分野は問いません。下記にはさらに、各役割に必要なことと、コントリビュート分野のリードのやり方を説明しています。
 
-[Top ↑](#top)
-
 <!--
-## Before the Contributor Day [#Before the Contributor Day](#before-the-contributor-day)
+## Before the Contributor Day
 -->
-## コントリビューターデイの前に [#コントリビューターデイの前に](#before-the-contributor-day)
+## コントリビューターデイの前に
 
 <!--
 Contributor days should be free. While everyone gets value from contributor days, it is important that new contributors feel welcome and invited. Paying to contribute makes them less interested and is not great anyway because we are asking them to give up a day for WordPress. That means you will need to build the cost of the contributor day into your budget, including venue, lunch (see below), and any other expenses.
@@ -97,12 +70,10 @@ Remind attendees to bring their laptops (or tablets). It seems logical, but many
 -->
 参加者にラップトップパソコンやタブレットを持参するように伝えましょう。普通に考えたら持ってくるだろうとは思うのですが、コントリビューションにパソコンが必要になるということに気づかない人も少なくないのです。サイトやメールでの告知の際に、リマインドしてあげましょう。
 
-[Top ↑](#top)
-
 <!--
-## The Contributor Day [#The Contributor Day](#the-contributor-day)
+## The Contributor Day
 -->
-## コントリビューターデイ当日 [#コントリビューターデイ当日](#the-contributor-day)
+## コントリビューターデイ当日
 
 <!--
 Attendance will be lower than planned. Because contributor days are free – and sign up is free – attendance will be lower than your sign ups. This is true with all free or inexpensive events.
@@ -134,12 +105,10 @@ Give a preview of the focus areas. Each contributor lead should introduce their 
 -->
 フォーカスする分野の内容を予告しましょう。各分野のリードが、チームに参加した場合どのようなことに取り組むことになるのかを示してあげましょう。
 
-[Top ↑](#top)
-
 <!--
-## What areas can people contribute to? [#What areas can people contribute to?](#what-areas-can-people-contribute-to)
+## What areas can people contribute to?
 -->
-## 参加者がコントリビュートできる分野 [#参加者がコントリビュートできる分野](#what-areas-can-people-contribute-to)
+## 参加者がコントリビュートできる分野
 
 <!--
 There is a complete list at make.wordpress.org, but below is a list, along with links to how to get started with that team at a contributor day. For each team you are planning on supporting at your contributor day, you will want to have someone familiar with contributing to that group and familiar with the contributor day page (a group lead). Different groups will do different things, but your group lead should be prepared for both experienced contributors and new contributors.
@@ -191,7 +160,6 @@ There is a complete list at make.wordpress.org, but below is a list, along with 
 *   Security –
 *   Plugin Review –
 *   WordPress TV –
-
 -->
 *   トレーニング –
 *   コミュニティ – (スピーカーワークショップを含む)
@@ -202,6 +170,11 @@ There is a complete list at make.wordpress.org, but below is a list, along with 
 *   WordPress TV –
 
 <!--
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/planning-a-contributor-day/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
+Here is [a quiz](https://wordpress.org/contributor-training/quiz/planning-a-contributor-day/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/) page if you have any questions about quizzes and how to navigate them.
 -->
-ヒント: この記事についての[クイズ](https://community-self-training.mystagingwebsite.com/quiz/planning-a-contributor-day/)があります。クイズや、そのナビゲーションについての質問がある場合はウェルカムページの[クイズ](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes)セクションをお読みください。
+
+この記事についての[クイズ](https://wordpress.org/contributor-training/quiz/planning-a-contributor-day/)があります。クイズや、そのナビゲーションについての質問がある場合はウェルカムページの[クイズ](https://make.wordpress.org/community/handbook/wordcamp-organizer/quizzes/)セクションをお読みください。
+
+<!--
+*   [To-do](# "To-do")
+-->
